@@ -1,0 +1,741 @@
+{
+  "at": "2026-10-20T16:31:17.979828+08:00",
+  "calendar_sessions": 1343,
+  "daily_budget_groups": 17548,
+  "max_budget_error": 0.0,
+  "model_exit_cells": 96,
+  "path_sample_checks": 288,
+  "max_daily_selection_checked": true,
+  "ranking_before_execution_checked": true,
+  "failed_entries_not_replaced": true,
+  "all_planned_entries_accounted": true,
+  "whole100shares_checked": true,
+  "t_plus_one_checked": true,
+  "M4_M5_identical_selection_checked": true,
+  "originals": [
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261018_overnight\\results\\final_v1\\signals.json",
+      "sha256": "ea1d74215ff1df129e436c20492bc685195a36d657e6ba0e92a311a0038d1f61",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261018_overnight\\results\\strict_low_base40_v1\\signals.json",
+      "sha256": "2462b55d64e5a199879a47e933958c0e4e890a511e8a465c1b19d1a35d34aae9",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261018_overnight\\results\\hansen_final_v1\\original_bfq_approx_amount_signals.csv",
+      "sha256": "a64ddf6c270cdaaec33beb4046579176a0ac5ba393a8f7f046790d0ef01c29f7",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261018_overnight\\results\\hansen_final_v1\\corrected_adjusted_real_amount_signals.csv",
+      "sha256": "73f755f359f8e4f5307638b84b170109c70b6277cffe130dd6a56b6f10e04787",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\results\\breakout_quality_scheduled.json",
+      "sha256": "ca563b076f249dabfcab24a1ca728f5cf9247656288bd7336e5125156e3226cf",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\results\\hansen_source_scheduled_v1.json",
+      "sha256": "dd59ddbe50aa864a7623329f682deb465491b5dc1187353e316a1d09227adfa2",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\src\\accounts_settlement_v1.py",
+      "sha256": "fe8d10e0fe789cfbd6083df0009e2309d903c1ffcbc80dc08e651dd2784555ac",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\data\\cache\\meta.json",
+      "sha256": "47159adf767e63fee511f129e2389765d553ddc913747beb6e0545ab64988c02",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\data\\actions_partial.json",
+      "sha256": "1245014b1fa58324fb93300086ec18ce0672d63a9c9adefd9c2677872db851c6",
+      "unchanged": true
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\config\\action_official_overrides_v2.json",
+      "sha256": "0fd9dbe4a5dd10b7125a6adf95098628a857f5bcbbc5bbe0988cf2198ab9ea7b",
+      "unchanged": true
+    }
+  ],
+  "checks": [
+    {
+      "model": "M1",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M1",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M1",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M1",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M1",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M1",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M1",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M1",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M2",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M2",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M2",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M2",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M2",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M2",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M2",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M2",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M3",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M3",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M3",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M3",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M3",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M3",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M3",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M3",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M4",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M4",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M4",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M4",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M4",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M4",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M4",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M4",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M5",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M5",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M5",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M5",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M5",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M5",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M5",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "M5",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B1",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B1",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B1",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B1",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B1",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B1",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B1",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B1",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B0",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B0",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B0",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B0",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B0",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B0",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B0",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "B0",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "HSC1",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "HSC1",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "HSC1",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "HSC1",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "HSC1",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "HSC1",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "HSC1",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "HSC1",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E1",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E1",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E1",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E1",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E1",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E1",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E1",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E1",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E2",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E2",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E2",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E2",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E2",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E2",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E2",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E2",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E3",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E3",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E3",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E3",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E3",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E3",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E3",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "E3",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "PV2",
+      "exit": "F2",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "PV2",
+      "exit": "F5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "PV2",
+      "exit": "F20",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "PV2",
+      "exit": "F60",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "PV2",
+      "exit": "T5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "PV2",
+      "exit": "T10",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "PV2",
+      "exit": "ATR2.5",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    },
+    {
+      "model": "PV2",
+      "exit": "BASE8",
+      "path_samples": 3,
+      "planned_accounted": true,
+      "daily_budget_conserved": true
+    }
+  ]
+}

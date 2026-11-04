@@ -1,0 +1,43 @@
+{
+  "at": "2026-11-04T03:24:36.656Z",
+  "version": "20261104_094825",
+  "cutoff": "2026-11-03",
+  "checks": [
+    {
+      "name": "offline_file_open_83_cases",
+      "passed": true
+    },
+    {
+      "name": "tables_match_audited_metrics_and_nine_exits",
+      "passed": true
+    },
+    {
+      "name": "all_83_case_charts_switch",
+      "passed": true
+    },
+    {
+      "name": "current_watch_only_no_fabricated_trades",
+      "passed": true
+    },
+    {
+      "name": "search_and_chart_ranges",
+      "passed": true
+    },
+    {
+      "name": "independent_scroll",
+      "passed": true,
+      "left": 200,
+      "right": 0,
+      "delta": 0
+    },
+    {
+      "name": "mobile_no_body_overflow",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "external_requests": [],
+  "page_sha256": "03e50dc768abb42155067afafb4f5189de08807b5f33baab137337bb06c99c7e",
+  "screenshot": "D:\\A股低位放量研究\\web\\versions\\20261104_094825\\OVERSOLD_DESKTOP.png",
+  "passed": true
+}

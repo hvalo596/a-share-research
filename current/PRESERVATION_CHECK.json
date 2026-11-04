@@ -1,0 +1,52 @@
+[
+  {
+    "path": "D:\\A股低位放量研究\\experiments\\20261018_overnight\\results\\final_v1\\signals.json",
+    "unchanged": true,
+    "sha256": "ea1d74215ff1df129e436c20492bc685195a36d657e6ba0e92a311a0038d1f61"
+  },
+  {
+    "path": "D:\\A股低位放量研究\\experiments\\20261018_overnight\\results\\strict_low_base40_v1\\signals.json",
+    "unchanged": true,
+    "sha256": "2462b55d64e5a199879a47e933958c0e4e890a511e8a465c1b19d1a35d34aae9"
+  },
+  {
+    "path": "D:\\A股低位放量研究\\experiments\\20261018_overnight\\results\\hansen_final_v1\\original_bfq_approx_amount_signals.csv",
+    "unchanged": true,
+    "sha256": "a64ddf6c270cdaaec33beb4046579176a0ac5ba393a8f7f046790d0ef01c29f7"
+  },
+  {
+    "path": "D:\\A股低位放量研究\\experiments\\20261018_overnight\\results\\hansen_final_v1\\corrected_adjusted_real_amount_signals.csv",
+    "unchanged": true,
+    "sha256": "73f755f359f8e4f5307638b84b170109c70b6277cffe130dd6a56b6f10e04787"
+  },
+  {
+    "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\results\\breakout_quality_scheduled.json",
+    "unchanged": true,
+    "sha256": "ca563b076f249dabfcab24a1ca728f5cf9247656288bd7336e5125156e3226cf"
+  },
+  {
+    "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\results\\hansen_source_scheduled_v1.json",
+    "unchanged": true,
+    "sha256": "dd59ddbe50aa864a7623329f682deb465491b5dc1187353e316a1d09227adfa2"
+  },
+  {
+    "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\src\\accounts_settlement_v1.py",
+    "unchanged": true,
+    "sha256": "fe8d10e0fe789cfbd6083df0009e2309d903c1ffcbc80dc08e651dd2784555ac"
+  },
+  {
+    "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\data\\cache\\meta.json",
+    "unchanged": true,
+    "sha256": "47159adf767e63fee511f129e2389765d553ddc913747beb6e0545ab64988c02"
+  },
+  {
+    "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\data\\actions_partial.json",
+    "unchanged": true,
+    "sha256": "1245014b1fa58324fb93300086ec18ce0672d63a9c9adefd9c2677872db851c6"
+  },
+  {
+    "path": "D:\\A股低位放量研究\\experiments\\20261019_edge_iteration\\config\\action_official_overrides_v2.json",
+    "unchanged": true,
+    "sha256": "0fd9dbe4a5dd10b7125a6adf95098628a857f5bcbbc5bbe0988cf2198ab9ea7b"
+  }
+]

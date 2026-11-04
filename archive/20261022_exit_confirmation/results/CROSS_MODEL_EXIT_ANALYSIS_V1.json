@@ -1,0 +1,239 @@
+{
+  "scope": {
+    "summary_rows": 192,
+    "models": [
+      "B0",
+      "B1",
+      "E1",
+      "E2",
+      "E3",
+      "HSC1",
+      "M1",
+      "M2",
+      "M3",
+      "M4",
+      "M5",
+      "PV2"
+    ],
+    "top_k": [
+      2,
+      4
+    ],
+    "execution_modes": [
+      "legacy_5pct_proxy",
+      "ordinary_mainboard_10pct_sensitivity"
+    ],
+    "rules": [
+      "F60",
+      "P15_MA20",
+      "P15_MA20_RS",
+      "P15_MA20_SLOPE"
+    ]
+  },
+  "rule_summary": [
+    {
+      "rule": "P15_MA20",
+      "configs": 48,
+      "positive_configs": 26,
+      "positive_config_share_pct": 54.166666666666664,
+      "positive_models_all_four_configs": 6,
+      "positive_models_at_least_3_of_4": 6,
+      "median_delta_yuan": 6823.233565671628,
+      "min_delta_yuan": -77895.94914727072,
+      "max_delta_yuan": 87226.3369344456
+    },
+    {
+      "rule": "P15_MA20_RS",
+      "configs": 48,
+      "positive_configs": 28,
+      "positive_config_share_pct": 58.333333333333336,
+      "positive_models_all_four_configs": 7,
+      "positive_models_at_least_3_of_4": 7,
+      "median_delta_yuan": 11672.264255615002,
+      "min_delta_yuan": -62341.347002124196,
+      "max_delta_yuan": 47749.04182126236
+    },
+    {
+      "rule": "P15_MA20_SLOPE",
+      "configs": 48,
+      "positive_configs": 28,
+      "positive_config_share_pct": 58.333333333333336,
+      "positive_models_all_four_configs": 7,
+      "positive_models_at_least_3_of_4": 7,
+      "median_delta_yuan": 7183.786054634325,
+      "min_delta_yuan": -31543.86639878768,
+      "max_delta_yuan": 39026.51983925159
+    }
+  ],
+  "year_summary": [
+    {
+      "rule": "P15_MA20",
+      "year_cells": 280,
+      "positive_year_cells": 150,
+      "positive_year_share_pct": 53.57142857142857,
+      "median_year_delta_yuan": 769.976582592466,
+      "min_year_delta_yuan": -43131.40973070897,
+      "max_year_delta_yuan": 25467.44810763815
+    },
+    {
+      "rule": "P15_MA20_RS",
+      "year_cells": 280,
+      "positive_year_cells": 162,
+      "positive_year_share_pct": 57.85714285714286,
+      "median_year_delta_yuan": 1375.8353055256357,
+      "min_year_delta_yuan": -40268.936136127886,
+      "max_year_delta_yuan": 20061.39130225005
+    },
+    {
+      "rule": "P15_MA20_SLOPE",
+      "year_cells": 280,
+      "positive_year_cells": 152,
+      "positive_year_share_pct": 54.285714285714285,
+      "median_year_delta_yuan": 523.041307499936,
+      "min_year_delta_yuan": -26639.534972092173,
+      "max_year_delta_yuan": 17028.550369824497
+    }
+  ],
+  "block_summary": [
+    {
+      "rule": "P15_MA20",
+      "paired_rows": 0,
+      "positive_block_share_pct": 0.0,
+      "median_delta_yuan": 0.0,
+      "mean_big_winner_delta_yuan": 0.0,
+      "positive_big_winner_delta_share_pct": 0.0,
+      "median_block3_low_yuan": 0.0,
+      "median_block3_high_yuan": 0.0
+    },
+    {
+      "rule": "P15_MA20_RS",
+      "paired_rows": 48,
+      "positive_block_share_pct": 58.333333333333336,
+      "median_delta_yuan": 11672.264255614995,
+      "mean_big_winner_delta_yuan": -41102.4478506132,
+      "positive_big_winner_delta_share_pct": 0.0,
+      "median_block3_low_yuan": -14107.38137076687,
+      "median_block3_high_yuan": 32540.239844236756
+    },
+    {
+      "rule": "P15_MA20_SLOPE",
+      "paired_rows": 48,
+      "positive_block_share_pct": 58.333333333333336,
+      "median_delta_yuan": 7183.786054634325,
+      "mean_big_winner_delta_yuan": -31279.98101225341,
+      "positive_big_winner_delta_share_pct": 0.0,
+      "median_block3_low_yuan": -22405.2483147015,
+      "median_block3_high_yuan": 27411.482196774334
+    }
+  ],
+  "model_rs": [
+    {
+      "model": "HSC1",
+      "configs": 4,
+      "positive_configs": 4,
+      "median_delta_yuan": 45524.2926654121,
+      "min_delta_yuan": 42867.3047608576,
+      "max_delta_yuan": 47749.04182126236,
+      "direction": "四种配置均为正"
+    },
+    {
+      "model": "M2",
+      "configs": 4,
+      "positive_configs": 4,
+      "median_delta_yuan": 42484.33726560182,
+      "min_delta_yuan": 39795.94614528632,
+      "max_delta_yuan": 46056.42223368789,
+      "direction": "四种配置均为正"
+    },
+    {
+      "model": "M1",
+      "configs": 4,
+      "positive_configs": 4,
+      "median_delta_yuan": 34014.52084099795,
+      "min_delta_yuan": 32606.32794162174,
+      "max_delta_yuan": 36290.92105266079,
+      "direction": "四种配置均为正"
+    },
+    {
+      "model": "B0",
+      "configs": 4,
+      "positive_configs": 4,
+      "median_delta_yuan": 25114.705146636952,
+      "min_delta_yuan": 24251.5682391218,
+      "max_delta_yuan": 27473.259509511656,
+      "direction": "四种配置均为正"
+    },
+    {
+      "model": "M4",
+      "configs": 4,
+      "positive_configs": 4,
+      "median_delta_yuan": 16406.415289795183,
+      "min_delta_yuan": 14508.101343306509,
+      "max_delta_yuan": 18277.783774441057,
+      "direction": "四种配置均为正"
+    },
+    {
+      "model": "M5",
+      "configs": 4,
+      "positive_configs": 4,
+      "median_delta_yuan": 14222.937858848472,
+      "min_delta_yuan": 12534.593188999337,
+      "max_delta_yuan": 15911.2825286976,
+      "direction": "四种配置均为正"
+    },
+    {
+      "model": "B1",
+      "configs": 4,
+      "positive_configs": 4,
+      "median_delta_yuan": 10483.091454791516,
+      "min_delta_yuan": 10075.411268851487,
+      "max_delta_yuan": 10809.935322230667,
+      "direction": "四种配置均为正"
+    },
+    {
+      "model": "E3",
+      "configs": 4,
+      "positive_configs": 0,
+      "median_delta_yuan": -4095.0006418500616,
+      "min_delta_yuan": -6434.841876101316,
+      "max_delta_yuan": -1825.071706284587,
+      "direction": "多数为负"
+    },
+    {
+      "model": "E2",
+      "configs": 4,
+      "positive_configs": 0,
+      "median_delta_yuan": -24701.311845600678,
+      "min_delta_yuan": -25585.92865425744,
+      "max_delta_yuan": -22762.35075588763,
+      "direction": "多数为负"
+    },
+    {
+      "model": "E1",
+      "configs": 4,
+      "positive_configs": 0,
+      "median_delta_yuan": -31292.265531784826,
+      "min_delta_yuan": -32105.536350823124,
+      "max_delta_yuan": -29919.084665559567,
+      "direction": "多数为负"
+    },
+    {
+      "model": "M3",
+      "configs": 4,
+      "positive_configs": 0,
+      "median_delta_yuan": -42856.39198674462,
+      "min_delta_yuan": -52952.01894815083,
+      "max_delta_yuan": -34657.342263304556,
+      "direction": "多数为负"
+    },
+    {
+      "model": "PV2",
+      "configs": 4,
+      "positive_configs": 0,
+      "median_delta_yuan": -50340.64002729845,
+      "min_delta_yuan": -62341.347002124196,
+      "max_delta_yuan": -38716.59354222166,
+      "direction": "多数为负"
+    }
+  ]
+}

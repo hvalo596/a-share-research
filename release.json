@@ -1,0 +1,27 @@
+{
+  "version": "20261104_094825",
+  "price_cutoff": "2026-11-03",
+  "signal_scan_cutoff": "2026-11-03",
+  "backtest_cutoff": "2026-11-03",
+  "models": {
+    "M1": "2026-11-03",
+    "M2": "2026-11-03",
+    "M3": "2026-11-03",
+    "M4": "2026-11-03",
+    "M5": "2026-11-03",
+    "B1": "2026-11-03",
+    "B0": "2026-11-03",
+    "HSC1": "2026-11-03",
+    "E1": "2026-11-03",
+    "E2": "2026-11-03",
+    "E3": "2026-11-03",
+    "PV2": "2026-11-03"
+  },
+  "built_at": "2026-11-04T16:37:02.425531+08:00",
+  "index": "index.html",
+  "model_casebook": "current/index.html",
+  "performance": "current/performance.html",
+  "latest_signals": "current/latest_signals.html",
+  "oversold": "current/oversold.html",
+  "history_note": "Older duplicate website versions remain in the local archive."
+}

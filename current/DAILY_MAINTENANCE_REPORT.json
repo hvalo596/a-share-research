@@ -1,0 +1,23 @@
+{
+  "at": "2026-11-04T11:25:01.027453+08:00",
+  "stage": "daily_accounting_web_refresh_verified",
+  "version": "20261104_094825",
+  "price_cutoff": "2026-11-03",
+  "signal_scan_cutoff": "2026-11-03",
+  "accounting_cutoff": "2026-11-03",
+  "models": 12,
+  "exit_rules": 8,
+  "cash_accounts": 384,
+  "qa_passed": true,
+  "oversold_qa_passed": true,
+  "oversold_cutoff": "2026-11-03",
+  "independent_models": {
+    "oversold": "historical exploratory; cap missing historically; forward 0",
+    "right_side_pullback": "not rerun/unvalidated",
+    "zodiac": "not rerun/unvalidated"
+  },
+  "source_data": "D:\\A股低位放量研究\\experiments\\20261022_exit_confirmation\\data\\latest_20261103_qq",
+  "legacy_boundary": "2026-10-16 original / 2026-10-19 continuation v1",
+  "automations_changed": false,
+  "limitations": "survivor/historicalST/corporate-action/intraday gaps; M1 diagnostic; value research first-round only"
+}

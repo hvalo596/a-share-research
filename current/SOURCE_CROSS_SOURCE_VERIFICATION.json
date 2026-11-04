@@ -1,0 +1,1521 @@
+{
+  "at": "2026-11-04T00:03:59.332333+08:00",
+  "checked_rows": 108,
+  "matched_rows": 108,
+  "unavailable": 0,
+  "price_mismatches": 0,
+  "checks": [
+    {
+      "symbol": "sh600000",
+      "date": "2026-10-19",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 1.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-10-20",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 45.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-10-21",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 49.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-10-22",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 31.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-10-23",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 32.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-10-26",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 50.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-10-27",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 36.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 35.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 14.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 9.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 24.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600000",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 49.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "8cdaab82ed570db0343d640c4a23fe64178b01c9f0a3ae08dfefe4379a83466c"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-10-19",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 6.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-10-20",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 35.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-10-21",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 16.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-10-22",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 33.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-10-23",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 7.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-10-26",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 16.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-10-27",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 14.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 7.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 31.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 29.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 22.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh600519",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 44.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "42b8e93ab7ae08a371266cd8f795a59f652e7730711f3c9e4a5d6e5c48b73f87"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-10-19",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 38.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-10-20",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 38.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-10-21",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 32.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-10-22",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 1.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-10-23",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 10.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-10-26",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 35.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-10-27",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 25.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 3.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 42.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 33.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 44.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh601318",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 31.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e67c3c0c14a49cfd4a05ed67b70763d029c24eaff523ecfa6861b11ea86c053d"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-10-19",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 6.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-10-20",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 8.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-10-21",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 30.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-10-22",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 19.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-10-23",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 1.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-10-26",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 21.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-10-27",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 36.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 12.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 13.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 38.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 43.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sh603259",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 46.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "00be56f4eb9b596fd3c89a1e6a77019b185a4baf2d5c06fdc430bf750238efdc"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-10-19",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 38.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-10-20",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 32.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-10-21",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 37.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-10-22",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 25.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-10-23",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 40.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-10-26",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 8.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-10-27",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 45.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 27.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 6.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 7.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 45.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 22.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b90bd879a8fd887d5f415eebaf3706de4f087bf551bf56c31f811920839d65ef"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-19",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 15.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-20",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 25.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-21",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 29.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-22",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 38.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-23",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 28.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-26",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 33.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-27",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 21.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 7.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 23.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 19.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 26.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 9.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d13ae59e08c34ca1bc2980114addeda64c4688aa6b7d47c3a9864ddaa78c46b1"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-19",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-20",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 15.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-21",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 37.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-22",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-23",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 3.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-26",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 28.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-27",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 49.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 44.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 28.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 4.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 47.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 22.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4fa93d47b6087815415b9e1d2bc83750f42ca94db96b493bef1924e05c17338f"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-19",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 43.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-20",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 39.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-21",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 3.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-22",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 21.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-23",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 21.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-26",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 4.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-27",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 47.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 20.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 25.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 16.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 21.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 17.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "4d734928a81de1b163b42bb6c9a318440c51004c35ba7fac63d90a104c98b473"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-19",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 3.725290298461914e-09,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-20",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-21",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-22",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-23",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-26",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-27",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 3.725290298461914e-09,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "d5b3b875db308f1d9a790038de44ad57d56a938ba6d61d76ec100fa284effe4f"
+    }
+  ]
+}

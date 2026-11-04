@@ -1,0 +1,3472 @@
+{
+  "at": "2026-11-04T09:54:07.946844+08:00",
+  "version": "20261104_094825",
+  "cutoff": "2026-11-03",
+  "curve_count": 384,
+  "summary_curve_max_abs_difference": 0,
+  "curves": [
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M4",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "M5",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "B0",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "HSC1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E1",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "E3",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "ATR2.5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "ATR2.5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "BASE8",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "BASE8",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F20",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F20",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F2",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F2",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "F60",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "F60",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T10",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T10",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 2,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2021-10-18",
+      "rule": "T5",
+      "points": 1224,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    },
+    {
+      "model": "PV2",
+      "slots": 4,
+      "start": "2026-08-17",
+      "rule": "T5",
+      "points": 51,
+      "last_date": "2026-11-03",
+      "summary_matches": true
+    }
+  ],
+  "technical_observations": 315,
+  "value_research": "first-round leads; intrinsic value not completed",
+  "pages": [
+    "performance.html",
+    "latest_signals.html",
+    "value_research.html"
+  ]
+}

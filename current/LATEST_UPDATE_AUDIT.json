@@ -1,0 +1,10 @@
+{
+  "source_data": "D:\\A股低位放量研究\\experiments\\20261022_exit_confirmation\\data\\latest_20261103_qq",
+  "price_target": "2026-11-03",
+  "backtest_cutoff": "2026-11-03",
+  "coverage": {
+    "stocks": 3226,
+    "at_target": 3138
+  },
+  "derived_from": "fresh verified raw incremental bars; historical base immutable"
+}

@@ -1,0 +1,1159 @@
+{
+  "created_at": "2026-11-03T00:21:47.274604+08:00",
+  "source": "Eastmoney public current quote screener",
+  "provider_total": 5926,
+  "unique_rows": 2500,
+  "duplicates": [],
+  "failed_pages": [
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    26,
+    27,
+    28,
+    29,
+    30,
+    34,
+    39,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+  ],
+  "board_counts": {
+    "beijing": 363,
+    "star": 437,
+    "mainboard": 616,
+    "chinext": 1084
+  },
+  "quote_date_counts": {
+    "2026-11-02": 2500
+  },
+  "identity_verified_local": 2444,
+  "identity_unknown": [
+    "bj920680",
+    "bj920306",
+    "bj920305",
+    "bj920296",
+    "bj920285",
+    "bj920085",
+    "bj833994",
+    "bj833874",
+    "bj832317",
+    "bj810014",
+    "bj810013",
+    "bj810011",
+    "sh689009",
+    "sh688827",
+    "sh600899",
+    "sh600891",
+    "sh600878",
+    "sh600852",
+    "sh600849",
+    "sh600842",
+    "sh600840",
+    "sh600832",
+    "sh600709",
+    "sh600701",
+    "sh600700",
+    "sh600687",
+    "sh600680",
+    "sh600677",
+    "sh600672",
+    "sh600670",
+    "sh600669",
+    "sh600659",
+    "sh600656",
+    "sh600646",
+    "sh600634",
+    "sh600632",
+    "sh600631",
+    "sh600627",
+    "sh600625",
+    "sh600614",
+    "sh600607",
+    "sh600591",
+    "sh600553",
+    "sh600485",
+    "sh600472",
+    "sh600432",
+    "sh600401",
+    "sz300372",
+    "sz300362",
+    "sz300216",
+    "sz300186",
+    "sz300156",
+    "sz300104",
+    "sz300090",
+    "sz300028",
+    "sz002711"
+  ],
+  "pe_nonpositive_or_missing": 898,
+  "positive_pe_bands": {
+    "10": 29,
+    "15": 128,
+    "20": 285,
+    "30": 558,
+    "50": 889
+  },
+  "quote_date_not_assumed": "f124 verified per record; freshness check before candidate use",
+  "scope_limit": "current provider A-share snapshot, local official identity cache Oct28; no claim all company fundamentals read",
+  "requests": [
+    {
+      "page": 1,
+      "retrieved_at": "2026-11-03T00:21:26.137075+08:00",
+      "params": {
+        "pn": 1,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=1&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17585,
+      "sha256": "3b146c45ed04ca4b6d4b89b15c2fd13e68250129ae106e9bb58d7f75ba770807"
+    },
+    {
+      "page": 2,
+      "retrieved_at": "2026-11-03T00:21:27.552797+08:00",
+      "params": {
+        "pn": 2,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=2&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17530,
+      "sha256": "dfb3928490566d76f7424a19601a8cc913d16195bbfcbae46e897c73ed3ad3f2"
+    },
+    {
+      "page": 3,
+      "retrieved_at": "2026-11-03T00:21:27.554797+08:00",
+      "params": {
+        "pn": 3,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=3&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17578,
+      "sha256": "dbab1cae1bd663494a3a0bcf0463e9c73bbc11590ade4c11ea6e7f54cb893879"
+    },
+    {
+      "page": 4,
+      "retrieved_at": "2026-11-03T00:21:28.355368+08:00",
+      "params": {
+        "pn": 4,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=4&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17553,
+      "sha256": "ca9f40adbfeb7bd44afc5d411aed28880d757b6e6469d3540f425958b9d74498"
+    },
+    {
+      "page": 5,
+      "retrieved_at": "2026-11-03T00:21:28.361373+08:00",
+      "params": {
+        "pn": 5,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=5&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17737,
+      "sha256": "0ba6324379420d9c3b9aab1503e349bb3ec11c98684f2fec895621f2b3a18a76"
+    },
+    {
+      "page": 6,
+      "retrieved_at": "2026-11-03T00:21:28.785175+08:00",
+      "params": {
+        "pn": 6,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=6&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17771,
+      "sha256": "e1f81813187cf329ce8e89c78180a63f748714fc3a79787c803a2299a414de14"
+    },
+    {
+      "page": 7,
+      "retrieved_at": "2026-11-03T00:21:28.807736+08:00",
+      "params": {
+        "pn": 7,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=7&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17741,
+      "sha256": "8f480647fbfa85cdca7906261f78c2360b5ecc4c5a11431009b13dcef8816932"
+    },
+    {
+      "page": 8,
+      "retrieved_at": "2026-11-03T00:21:29.304745+08:00",
+      "params": {
+        "pn": 8,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=8&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17794,
+      "sha256": "8586b8a0701d18e00f96e582cf3fec95d0a595c4d2112b1315e2dadb51a828e9"
+    },
+    {
+      "page": 9,
+      "retrieved_at": "2026-11-03T00:21:29.325754+08:00",
+      "params": {
+        "pn": 9,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 10,
+      "retrieved_at": "2026-11-03T00:21:29.738378+08:00",
+      "params": {
+        "pn": 10,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 11,
+      "retrieved_at": "2026-11-03T00:21:29.764603+08:00",
+      "params": {
+        "pn": 11,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=11&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17636,
+      "sha256": "94462c66b5ab0e446d5e352119f9c6fdba702d564965bda44a04c86d3024fa15"
+    },
+    {
+      "page": 13,
+      "retrieved_at": "2026-11-03T00:21:30.683667+08:00",
+      "params": {
+        "pn": 13,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 12,
+      "retrieved_at": "2026-11-03T00:21:30.598212+08:00",
+      "params": {
+        "pn": 12,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 15,
+      "retrieved_at": "2026-11-03T00:21:32.089228+08:00",
+      "params": {
+        "pn": 15,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 14,
+      "retrieved_at": "2026-11-03T00:21:32.088227+08:00",
+      "params": {
+        "pn": 14,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 16,
+      "retrieved_at": "2026-11-03T00:21:32.658616+08:00",
+      "params": {
+        "pn": 16,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 17,
+      "retrieved_at": "2026-11-03T00:21:32.680615+08:00",
+      "params": {
+        "pn": 17,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 18,
+      "retrieved_at": "2026-11-03T00:21:33.178506+08:00",
+      "params": {
+        "pn": 18,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 19,
+      "retrieved_at": "2026-11-03T00:21:33.223500+08:00",
+      "params": {
+        "pn": 19,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 20,
+      "retrieved_at": "2026-11-03T00:21:33.589611+08:00",
+      "params": {
+        "pn": 20,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 21,
+      "retrieved_at": "2026-11-03T00:21:33.635615+08:00",
+      "params": {
+        "pn": 21,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=21&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17155,
+      "sha256": "e7592a767afa8d8963579b03498b0c8e7060daeaa92e95d57a20cd8940a2269e"
+    },
+    {
+      "page": 22,
+      "retrieved_at": "2026-11-03T00:21:34.141628+08:00",
+      "params": {
+        "pn": 22,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 23,
+      "retrieved_at": "2026-11-03T00:21:34.171624+08:00",
+      "params": {
+        "pn": 23,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=23&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 16932,
+      "sha256": "7e0a8ace924839c72a1d07b74175e3e424d78b8bb82718ad9dc6024c014fc323"
+    },
+    {
+      "page": 25,
+      "retrieved_at": "2026-11-03T00:21:35.497213+08:00",
+      "params": {
+        "pn": 25,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=25&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17322,
+      "sha256": "09f664ee9557c76e662e971b2a1dce4f85a39e837c9f7bc619e7c00425907586"
+    },
+    {
+      "page": 24,
+      "retrieved_at": "2026-11-03T00:21:35.495207+08:00",
+      "params": {
+        "pn": 24,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=24&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17364,
+      "sha256": "f1c9196e1ae62369996adf93975e589cfb181e4f11873cc92f94f2a58fe13563"
+    },
+    {
+      "page": 26,
+      "retrieved_at": "2026-11-03T00:21:36.120567+08:00",
+      "params": {
+        "pn": 26,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 27,
+      "retrieved_at": "2026-11-03T00:21:36.121567+08:00",
+      "params": {
+        "pn": 27,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 28,
+      "retrieved_at": "2026-11-03T00:21:36.625763+08:00",
+      "params": {
+        "pn": 28,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 29,
+      "retrieved_at": "2026-11-03T00:21:36.631762+08:00",
+      "params": {
+        "pn": 29,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 30,
+      "retrieved_at": "2026-11-03T00:21:37.224598+08:00",
+      "params": {
+        "pn": 30,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 31,
+      "retrieved_at": "2026-11-03T00:21:37.225599+08:00",
+      "params": {
+        "pn": 31,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=31&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17705,
+      "sha256": "6440df9dc81d89c0f17e008c3c4e4729b0bf60bec35118eeab55eff31d2c0f41"
+    },
+    {
+      "page": 33,
+      "retrieved_at": "2026-11-03T00:21:38.297680+08:00",
+      "params": {
+        "pn": 33,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=33&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17780,
+      "sha256": "ca6b26a742c9346d73432d04a0a0497fd783a7c2aecb4c49987531efe4dee060"
+    },
+    {
+      "page": 32,
+      "retrieved_at": "2026-11-03T00:21:38.288678+08:00",
+      "params": {
+        "pn": 32,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=32&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17759,
+      "sha256": "61c8cc19958e2dd25955f64fd3fd3cc81a9d18cf388b960f2bed4ab06225cbc3"
+    },
+    {
+      "page": 34,
+      "retrieved_at": "2026-11-03T00:21:38.738437+08:00",
+      "params": {
+        "pn": 34,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 35,
+      "retrieved_at": "2026-11-03T00:21:38.740438+08:00",
+      "params": {
+        "pn": 35,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=35&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17800,
+      "sha256": "9801aabda4ce103eb620304b3a3ba9170aa182d75de87b93c5d6b76375122b7c"
+    },
+    {
+      "page": 36,
+      "retrieved_at": "2026-11-03T00:21:39.243644+08:00",
+      "params": {
+        "pn": 36,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=36&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17779,
+      "sha256": "e1d3b7f9570e609322066bbf2166faf3e181b81efb51ec98e16e14471758bb3d"
+    },
+    {
+      "page": 37,
+      "retrieved_at": "2026-11-03T00:21:39.253644+08:00",
+      "params": {
+        "pn": 37,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=37&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17744,
+      "sha256": "0b795a02c55ac27a56489455fa6ab88546ac662fd90ef28852ef014dc7dcdd79"
+    },
+    {
+      "page": 39,
+      "retrieved_at": "2026-11-03T00:21:39.714890+08:00",
+      "params": {
+        "pn": 39,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 38,
+      "retrieved_at": "2026-11-03T00:21:39.712889+08:00",
+      "params": {
+        "pn": 38,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=38&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17753,
+      "sha256": "abed282fbd9eb67deb6cc0f42e38df15357b0a19678a6b5181ef120695e3c40b"
+    },
+    {
+      "page": 41,
+      "retrieved_at": "2026-11-03T00:21:40.268479+08:00",
+      "params": {
+        "pn": 41,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=41&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17481,
+      "sha256": "e061242b6d94eadd3924a860f8260fee09f8c429666c091bcf41543ab870b5db"
+    },
+    {
+      "page": 40,
+      "retrieved_at": "2026-11-03T00:21:40.266484+08:00",
+      "params": {
+        "pn": 40,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=40&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17293,
+      "sha256": "1e1c46728c1a29f4a242efe6f6ad444609d5d9b5dffbd0e99cc9bd5a194796c9"
+    },
+    {
+      "page": 43,
+      "retrieved_at": "2026-11-03T00:21:40.703593+08:00",
+      "params": {
+        "pn": 43,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=43&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17517,
+      "sha256": "a210360af0dc6fb9b89d08c3571ba333852f8097842b2c684edf1633b5a3f40a"
+    },
+    {
+      "page": 42,
+      "retrieved_at": "2026-11-03T00:21:40.696593+08:00",
+      "params": {
+        "pn": 42,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=42&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17428,
+      "sha256": "47d1074c864e7340ea05e25e8c34eeeb6e73178a40c3c554201d02003fa22117"
+    },
+    {
+      "page": 44,
+      "retrieved_at": "2026-11-03T00:21:41.164118+08:00",
+      "params": {
+        "pn": 44,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 45,
+      "retrieved_at": "2026-11-03T00:21:41.194347+08:00",
+      "params": {
+        "pn": 45,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 46,
+      "retrieved_at": "2026-11-03T00:21:42.397312+08:00",
+      "params": {
+        "pn": 46,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "url": "https://push2.eastmoney.com/api/qt/clist/get?pn=46&pz=100&po=1&np=1&fltt=2&invt=2&fid=f12&fs=m%3A0%2Bt%3A6%2Cm%3A0%2Bt%3A80%2Cm%3A1%2Bt%3A2%2Cm%3A1%2Bt%3A23%2Cm%3A0%2Bt%3A81%2Bs%3A2048&fields=f2%2Cf3%2Cf9%2Cf12%2Cf13%2Cf14%2Cf20%2Cf21%2Cf23%2Cf115%2Cf124%2Cf100",
+      "status": 200,
+      "bytes": 17366,
+      "sha256": "8f1729cc408aa8b6a3f926e393784a6afb6b228f32c1255b4b0180f1aa1b2e37"
+    },
+    {
+      "page": 47,
+      "retrieved_at": "2026-11-03T00:21:42.419314+08:00",
+      "params": {
+        "pn": 47,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 48,
+      "retrieved_at": "2026-11-03T00:21:43.396583+08:00",
+      "params": {
+        "pn": 48,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 49,
+      "retrieved_at": "2026-11-03T00:21:43.400583+08:00",
+      "params": {
+        "pn": 49,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 51,
+      "retrieved_at": "2026-11-03T00:21:43.858235+08:00",
+      "params": {
+        "pn": 51,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 50,
+      "retrieved_at": "2026-11-03T00:21:43.854244+08:00",
+      "params": {
+        "pn": 50,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 52,
+      "retrieved_at": "2026-11-03T00:21:44.385406+08:00",
+      "params": {
+        "pn": 52,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 53,
+      "retrieved_at": "2026-11-03T00:21:44.387406+08:00",
+      "params": {
+        "pn": 53,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 54,
+      "retrieved_at": "2026-11-03T00:21:44.844374+08:00",
+      "params": {
+        "pn": 54,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 55,
+      "retrieved_at": "2026-11-03T00:21:44.845374+08:00",
+      "params": {
+        "pn": 55,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 56,
+      "retrieved_at": "2026-11-03T00:21:45.280569+08:00",
+      "params": {
+        "pn": 56,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 57,
+      "retrieved_at": "2026-11-03T00:21:45.448544+08:00",
+      "params": {
+        "pn": 57,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 58,
+      "retrieved_at": "2026-11-03T00:21:46.378536+08:00",
+      "params": {
+        "pn": 58,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 59,
+      "retrieved_at": "2026-11-03T00:21:46.420538+08:00",
+      "params": {
+        "pn": 59,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "page": 60,
+      "retrieved_at": "2026-11-03T00:21:46.785242+08:00",
+      "params": {
+        "pn": 60,
+        "pz": 100,
+        "po": 1,
+        "np": 1,
+        "fltt": 2,
+        "invt": 2,
+        "fid": "f12",
+        "fs": "m:0+t:6,m:0+t:80,m:1+t:2,m:1+t:23,m:0+t:81+s:2048",
+        "fields": "f2,f3,f9,f12,f13,f14,f20,f21,f23,f115,f124,f100"
+      },
+      "error": "ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    }
+  ]
+}

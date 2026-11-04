@@ -1,0 +1,33 @@
+{
+  "at": "2026-11-04T09:53:36.604917+08:00",
+  "research_version": "historical_v3_execution_corrected",
+  "cutoff": "2026-11-03",
+  "case_count": 80,
+  "truly_prospective_results": 0,
+  "new_cash_account_certified": false,
+  "historical_cap_filter_applied": false,
+  "STAR_minimum": 200,
+  "threshold_tuning": false,
+  "inputs": [
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261103_oversold_regime\\historical_v3\\config\\protocol.json",
+      "bytes": 2655,
+      "sha256": "f513a03612eb86c333bd6f9aa9187f750f9d25785da1414911eb7f3b69a2f0c5"
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261103_oversold_regime\\historical_v3\\correction_v2\\CLEAN_SUMMARY_CORRECTED.csv",
+      "bytes": 3303,
+      "sha256": "00a59237c9477ee5325c64cebd026a3459b26e534e59cbb88df67558b067fd8a"
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261103_oversold_regime\\historical_v3\\date_weight\\DATE_WEIGHT_COMPARISON.csv",
+      "bytes": 14501,
+      "sha256": "a874ee85d6a6544acfe378fa3023713ce300127229ef2a118bacfa6e92cf0fa2"
+    },
+    {
+      "path": "D:\\A股低位放量研究\\experiments\\20261103_oversold_regime\\historical_v3\\src\\build_research_delivery.py",
+      "bytes": 16273,
+      "sha256": "4a7e1894dfded3800c86ac38812ba9e724e9d93f9ff20bb211800941c8048092"
+    }
+  ]
+}
