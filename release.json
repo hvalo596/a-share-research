@@ -29,5 +29,7 @@
     "right_side_pullback": "2026-11-04",
     "zodiac": "2026-11-04"
   },
-  "history_note": "Older duplicate website versions remain in the local archive."
+  "history_note": "Older duplicate website versions remain in the local archive.",
+  "frontend_revision": "20261104-speed-v1",
+  "frontend_optimized_at": "2026-11-04T19:10:13.144488+08:00"
 }
