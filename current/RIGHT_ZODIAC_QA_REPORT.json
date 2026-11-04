@@ -1,0 +1,20 @@
+{
+  "at": "2026-11-04T10:22:02.891Z",
+  "cutoff": "2026-11-04",
+  "passed": true,
+  "checks": [
+    {
+      "name": "both_models_all_five_exits_metrics_charts_and_scroll",
+      "passed": true,
+      "rows": 17205,
+      "latest_count": 1,
+      "scroll": {
+        "left": 180,
+        "right": 0
+      }
+    }
+  ],
+  "errors": [],
+  "external_requests": [],
+  "page_sha256": "9b23a7352442c1470fe3b1a309a0cfae5b471c1c2eac3b5bbd27871a52b43f31"
+}

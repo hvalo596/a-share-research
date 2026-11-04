@@ -1,7 +1,7 @@
 {
-  "at": "2026-11-04T03:23:30.187Z",
-  "version": "20261104_094825",
-  "price_target": "2026-11-03",
+  "at": "2026-11-04T10:21:39.482Z",
+  "version": "20261104_180733",
+  "price_target": "2026-11-04",
   "method": "real Edge; in-memory local-file HTTP route, no listening socket and no external requests",
   "checks": [
     {
@@ -12,13 +12,13 @@
       "check": "dated_page_loaded_and_separate_cutoffs",
       "passed": true,
       "range": -120,
-      "target": "2026-11-03",
-      "signal": "2026-11-03",
-      "accounting": "2026-11-03",
+      "target": "2026-11-04",
+      "signal": "2026-11-04",
+      "accounting": "2026-11-04",
       "detail": {
-        "last_date": "2026-11-03",
-        "target": "2026-11-03",
-        "bar_extension_count": 11,
+        "last_date": "2026-11-04",
+        "target": "2026-11-04",
+        "bar_extension_count": 12,
         "source": "Tencent public unadjusted daily; historical immutable cache",
         "corporate_actions_verified": false,
         "corporate_action_note": "Known vendor distribution dates marked; not complete company-action master"
@@ -29,28 +29,28 @@
       "check": "model_load",
       "model": "M1",
       "passed": true,
-      "records": 39480,
-      "filtered": 1872,
-      "symbol": "sz000513",
-      "last": "2026-11-03"
+      "records": 39512,
+      "filtered": 1874,
+      "symbol": "sz002812",
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
       "model": "M2",
       "passed": true,
-      "records": 33680,
-      "filtered": 1645,
-      "symbol": "sz002510",
-      "last": "2026-11-03"
+      "records": 33696,
+      "filtered": 1646,
+      "symbol": "sz001979",
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
       "model": "M3",
       "passed": true,
-      "records": 50600,
-      "filtered": 2196,
-      "symbol": "sh603556",
-      "last": "2026-11-03"
+      "records": 50648,
+      "filtered": 2198,
+      "symbol": "sz002651",
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
@@ -59,7 +59,7 @@
       "records": 6840,
       "filtered": 393,
       "symbol": "sh600976",
-      "last": "2026-11-03"
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
@@ -68,7 +68,7 @@
       "records": 6840,
       "filtered": 393,
       "symbol": "sh600976",
-      "last": "2026-11-03"
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
@@ -77,7 +77,7 @@
       "records": 12296,
       "filtered": 677,
       "symbol": "sh601808",
-      "last": "2026-11-03"
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
@@ -86,7 +86,7 @@
       "records": 22504,
       "filtered": 1136,
       "symbol": "sh601808",
-      "last": "2026-11-03"
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
@@ -95,25 +95,25 @@
       "records": 29440,
       "filtered": 1476,
       "symbol": "sz002510",
-      "last": "2026-11-03"
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
       "model": "E1",
       "passed": true,
-      "records": 37472,
-      "filtered": 1776,
-      "symbol": "sh600327",
-      "last": "2026-11-03"
+      "records": 37488,
+      "filtered": 1777,
+      "symbol": "sz000536",
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
       "model": "E2",
       "passed": true,
-      "records": 28024,
-      "filtered": 1403,
-      "symbol": "sh600763",
-      "last": "2026-11-03"
+      "records": 28064,
+      "filtered": 1405,
+      "symbol": "sz002739",
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
@@ -122,35 +122,35 @@
       "records": 9344,
       "filtered": 417,
       "symbol": "sh600525",
-      "last": "2026-11-03"
+      "last": "2026-11-04"
     },
     {
       "check": "model_load",
       "model": "PV2",
       "passed": true,
-      "records": 52032,
-      "filtered": 2235,
-      "symbol": "sz002739",
-      "last": "2026-11-03"
+      "records": 52080,
+      "filtered": 2237,
+      "symbol": "sz002651",
+      "last": "2026-11-04"
     },
     {
       "check": "stock_search_and_actual_target_date_bar",
       "passed": true,
       "symbol": "sz002580",
-      "last_date": "2026-11-03",
+      "last_date": "2026-11-04",
       "last_bar": [
-        1353,
-        16.82,
-        18.67,
-        16.8,
-        18.67,
-        396868,
-        724849600.0000001,
+        1354,
+        20.17,
+        20.54,
+        18.71,
+        19.05,
+        1463508,
+        2902402400,
         false
       ],
       "range": -120,
-      "chart_tip": "2026-05-11 — 2026-11-03 · 120根有效K线 · 鼠标移入查看当日OHLC/成交量",
-      "extension_count": 11,
+      "chart_tip": "2026-05-12 — 2026-11-04 · 120根有效K线 · 鼠标移入查看当日OHLC/成交量",
+      "extension_count": 12,
       "has_target_auxiliary_measurement": true
     },
     {
@@ -183,21 +183,21 @@
       "check": "actual_updated_B1_F60_top2_trades_and_pnl",
       "passed": true,
       "filled": 652,
-      "net": 66752.56438090699,
+      "net": 66434.04654526204,
       "closed": 623,
       "open": 29,
       "new_entries": 2,
-      "latest_mark": "2026-11-03",
-      "context": "交易核算 2026-11-03 · 本模型信号扫描 2026-11-03。 缩量＋倍量＋突破收盘质量 · 每个有计划信号日总预算1万元，最多选2只，按原分数事前排名。成交价含滑点；未来未执行记录不计实际投入；全日账户资金不循环复用。"
+      "latest_mark": "2026-11-04",
+      "context": "交易核算 2026-11-04 · 本模型信号扫描 2026-11-04。 缩量＋倍量＋突破收盘质量 · 每个有计划信号日总预算1万元，最多选2只，按原分数事前排名。成交价含滑点；未来未执行记录不计实际投入；全日账户资金不循环复用。"
     },
     {
       "check": "cash_account_updated_through_target",
       "passed": true,
-      "cutoff": "2026-11-03",
-      "return_pct": 97.78911181549283,
+      "cutoff": "2026-11-04",
+      "return_pct": 96.35911055664275,
       "open": 2,
       "closed": 38,
-      "stats": "记录 / 股票1,032 / 865当前筛选，不跨退出叠加已买入 / 已退出40 / 382笔未退出；其余为入口/委托记录净盈亏（含持仓估值）+9,778.91元；当前筛选之和完整所选账户情景收益+97.79%账户完整时间窗，不随股票/年份过滤变化已退出胜率+47.37%18盈利 / 38已退出已退出单笔中位数-2.00%完整账户回撤 -43.87%"
+      "stats": "记录 / 股票1,032 / 865当前筛选，不跨退出叠加已买入 / 已退出40 / 382笔未退出；其余为入口/委托记录净盈亏（含持仓估值）+9,635.91元；当前筛选之和完整所选账户情景收益+96.36%账户完整时间窗，不随股票/年份过滤变化已退出胜率+47.37%18盈利 / 38已退出已退出单笔中位数-2.00%完整账户回撤 -43.87%"
     },
     {
       "check": "list_and_chart_scroll_independently",
@@ -215,15 +215,15 @@
       "rule": "F60",
       "slots": 2,
       "start": "2021-10-18",
-      "last_date": "2026-11-03",
-      "equity_points": 1224,
-      "return_pct": 97.78911181549283,
+      "last_date": "2026-11-04",
+      "equity_points": 1225,
+      "return_pct": 96.35911055664275,
       "max_drawdown_pct": -43.87132064544692
     }
   ],
   "page_errors": [],
   "console_errors": [],
   "requests_failed": [],
-  "screenshot": "[local-user]\\Documents\\ChatGPT\\股票交易\\output\\playwright\\casebook_20261102_accounting.png",
+  "screenshot": "[local-user]\\Documents\\ChatGPT\\股票交易\\output\\playwright\\casebook_20261104_accounting.png",
   "passed": true
 }

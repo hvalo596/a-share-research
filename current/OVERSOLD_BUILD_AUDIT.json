@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-04T11:24:36.388451+08:00",
-  "cutoff": "2026-11-03",
+  "at": "2026-11-04T18:19:52.933045+08:00",
+  "cutoff": "2026-11-04",
   "history_cases": 80,
-  "current_observations": 3,
-  "source": "D:\\A股低位放量研究\\experiments\\20261103_oversold_regime\\historical_v3\\reports\\PAGE_DATA.json",
-  "source_sha256": "da7edc829ce97c54574f49132347e51029980116ba656643760d949d7792e72f",
-  "page_sha256": "a1a15d1c6358ff96c5d9433600693e3c22c47263375510ed50ee79eb4044dd57",
+  "current_observations": 7,
+  "source": "D:\\A股低位放量研究\\experiments\\20261104_close_refresh\\oversold_extension\\reports\\PAGE_DATA.json",
+  "source_sha256": "113d890e6eb807eab9b9209778eaab5abcd7b590e9b672e395dc4d527535f4b2",
+  "page_sha256": "ed918952bb048686eb712260ddfff8227b05f0aca1846fd6811d76f1fcf59fbd",
   "no_new_strategy_test": true,
   "historical_cap_filter_applied": false
 }

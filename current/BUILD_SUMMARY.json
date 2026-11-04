@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T09:54:01.123831+08:00",
-  "cutoff": "2026-11-03",
+  "generated_at": "2026-11-04T18:18:49.925880+08:00",
+  "cutoff": "2026-11-04",
   "research_start": "2021-10-18",
   "models": [
     "M1",
@@ -46,66 +46,66 @@
       "mode": "topk",
       "model": "M1",
       "sizing": "integer_lots",
-      "rows": 39480,
-      "stocks": 1420,
+      "rows": 39512,
+      "stocks": 1422,
       "file": "data/topk_M1_integer_lots.js",
-      "raw_bytes": 18312411,
-      "bytes": 6975711
+      "raw_bytes": 18327317,
+      "bytes": 6980735
     },
     {
       "key": "topk_M1_fractional_fee_diagnostic",
       "mode": "topk",
       "model": "M1",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 39480,
-      "stocks": 1420,
+      "rows": 39512,
+      "stocks": 1422,
       "file": "data/topk_M1_fractional_fee_diagnostic.js",
-      "raw_bytes": 18845089,
-      "bytes": 6442103
+      "raw_bytes": 18861021,
+      "bytes": 6446631
     },
     {
       "key": "topk_M2_integer_lots",
       "mode": "topk",
       "model": "M2",
       "sizing": "integer_lots",
-      "rows": 33680,
-      "stocks": 1182,
+      "rows": 33696,
+      "stocks": 1183,
       "file": "data/topk_M2_integer_lots.js",
-      "raw_bytes": 15655090,
-      "bytes": 5991371
+      "raw_bytes": 15664389,
+      "bytes": 5994635
     },
     {
       "key": "topk_M2_fractional_fee_diagnostic",
       "mode": "topk",
       "model": "M2",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 33680,
-      "stocks": 1182,
+      "rows": 33696,
+      "stocks": 1183,
       "file": "data/topk_M2_fractional_fee_diagnostic.js",
-      "raw_bytes": 16097372,
-      "bytes": 5508199
+      "raw_bytes": 16107097,
+      "bytes": 5510911
     },
     {
       "key": "topk_M3_integer_lots",
       "mode": "topk",
       "model": "M3",
       "sizing": "integer_lots",
-      "rows": 50600,
-      "stocks": 2069,
+      "rows": 50648,
+      "stocks": 2070,
       "file": "data/topk_M3_integer_lots.js",
-      "raw_bytes": 24259692,
-      "bytes": 9949927
+      "raw_bytes": 24282084,
+      "bytes": 9957563
     },
     {
       "key": "topk_M3_fractional_fee_diagnostic",
       "mode": "topk",
       "model": "M3",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 50600,
-      "stocks": 2069,
+      "rows": 50648,
+      "stocks": 2070,
       "file": "data/topk_M3_fractional_fee_diagnostic.js",
-      "raw_bytes": 24806553,
-      "bytes": 9195439
+      "raw_bytes": 24829911,
+      "bytes": 9202463
     },
     {
       "key": "topk_M4_integer_lots",
@@ -115,8 +115,8 @@
       "rows": 6840,
       "stocks": 409,
       "file": "data/topk_M4_integer_lots.js",
-      "raw_bytes": 3317438,
-      "bytes": 1400019
+      "raw_bytes": 3317699,
+      "bytes": 1399919
     },
     {
       "key": "topk_M4_fractional_fee_diagnostic",
@@ -126,8 +126,8 @@
       "rows": 6840,
       "stocks": 409,
       "file": "data/topk_M4_fractional_fee_diagnostic.js",
-      "raw_bytes": 3364980,
-      "bytes": 1269679
+      "raw_bytes": 3365192,
+      "bytes": 1269639
     },
     {
       "key": "topk_M5_integer_lots",
@@ -137,8 +137,8 @@
       "rows": 6840,
       "stocks": 409,
       "file": "data/topk_M5_integer_lots.js",
-      "raw_bytes": 3316750,
-      "bytes": 1400039
+      "raw_bytes": 3317035,
+      "bytes": 1400023
     },
     {
       "key": "topk_M5_fractional_fee_diagnostic",
@@ -148,8 +148,8 @@
       "rows": 6840,
       "stocks": 409,
       "file": "data/topk_M5_fractional_fee_diagnostic.js",
-      "raw_bytes": 3363839,
-      "bytes": 1267955
+      "raw_bytes": 3363987,
+      "bytes": 1267819
     },
     {
       "key": "topk_B1_integer_lots",
@@ -159,8 +159,8 @@
       "rows": 12296,
       "stocks": 743,
       "file": "data/topk_B1_integer_lots.js",
-      "raw_bytes": 5881104,
-      "bytes": 2402443
+      "raw_bytes": 5881251,
+      "bytes": 2402511
     },
     {
       "key": "topk_B1_fractional_fee_diagnostic",
@@ -170,8 +170,8 @@
       "rows": 12296,
       "stocks": 743,
       "file": "data/topk_B1_fractional_fee_diagnostic.js",
-      "raw_bytes": 5987316,
-      "bytes": 2175747
+      "raw_bytes": 5987379,
+      "bytes": 2175815
     },
     {
       "key": "topk_B0_integer_lots",
@@ -181,8 +181,8 @@
       "rows": 22504,
       "stocks": 1178,
       "file": "data/topk_B0_integer_lots.js",
-      "raw_bytes": 10684924,
-      "bytes": 4238867
+      "raw_bytes": 10685237,
+      "bytes": 4238955
     },
     {
       "key": "topk_B0_fractional_fee_diagnostic",
@@ -192,8 +192,8 @@
       "rows": 22504,
       "stocks": 1178,
       "file": "data/topk_B0_fractional_fee_diagnostic.js",
-      "raw_bytes": 10938240,
-      "bytes": 3903975
+      "raw_bytes": 10938390,
+      "bytes": 3904043
     },
     {
       "key": "topk_HSC1_integer_lots",
@@ -203,8 +203,8 @@
       "rows": 29440,
       "stocks": 1076,
       "file": "data/topk_HSC1_integer_lots.js",
-      "raw_bytes": 13731313,
-      "bytes": 5275059
+      "raw_bytes": 13731345,
+      "bytes": 5275063
     },
     {
       "key": "topk_HSC1_fractional_fee_diagnostic",
@@ -214,52 +214,52 @@
       "rows": 29440,
       "stocks": 1076,
       "file": "data/topk_HSC1_fractional_fee_diagnostic.js",
-      "raw_bytes": 14065428,
-      "bytes": 4800067
+      "raw_bytes": 14065498,
+      "bytes": 4799967
     },
     {
       "key": "topk_E1_integer_lots",
       "mode": "topk",
       "model": "E1",
       "sizing": "integer_lots",
-      "rows": 37472,
+      "rows": 37488,
       "stocks": 1736,
       "file": "data/topk_E1_integer_lots.js",
-      "raw_bytes": 17992580,
-      "bytes": 7222795
+      "raw_bytes": 18003332,
+      "bytes": 7229275
     },
     {
       "key": "topk_E1_fractional_fee_diagnostic",
       "mode": "topk",
       "model": "E1",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 37472,
+      "rows": 37488,
       "stocks": 1736,
       "file": "data/topk_E1_fractional_fee_diagnostic.js",
-      "raw_bytes": 18350866,
-      "bytes": 6610155
+      "raw_bytes": 18362036,
+      "bytes": 6616199
     },
     {
       "key": "topk_E2_integer_lots",
       "mode": "topk",
       "model": "E2",
       "sizing": "integer_lots",
-      "rows": 28024,
-      "stocks": 1438,
+      "rows": 28064,
+      "stocks": 1440,
       "file": "data/topk_E2_integer_lots.js",
-      "raw_bytes": 13456353,
-      "bytes": 5443639
+      "raw_bytes": 13473509,
+      "bytes": 5448023
     },
     {
       "key": "topk_E2_fractional_fee_diagnostic",
       "mode": "topk",
       "model": "E2",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 28024,
-      "stocks": 1438,
+      "rows": 28064,
+      "stocks": 1440,
       "file": "data/topk_E2_fractional_fee_diagnostic.js",
-      "raw_bytes": 13709004,
-      "bytes": 4961359
+      "raw_bytes": 13726442,
+      "bytes": 4965299
     },
     {
       "key": "topk_E3_integer_lots",
@@ -269,8 +269,8 @@
       "rows": 9344,
       "stocks": 650,
       "file": "data/topk_E3_integer_lots.js",
-      "raw_bytes": 4495371,
-      "bytes": 1818735
+      "raw_bytes": 4495385,
+      "bytes": 1818763
     },
     {
       "key": "topk_E3_fractional_fee_diagnostic",
@@ -280,96 +280,96 @@
       "rows": 9344,
       "stocks": 650,
       "file": "data/topk_E3_fractional_fee_diagnostic.js",
-      "raw_bytes": 4579639,
-      "bytes": 1668515
+      "raw_bytes": 4579649,
+      "bytes": 1668511
     },
     {
       "key": "topk_PV2_integer_lots",
       "mode": "topk",
       "model": "PV2",
       "sizing": "integer_lots",
-      "rows": 52032,
-      "stocks": 2073,
+      "rows": 52080,
+      "stocks": 2076,
       "file": "data/topk_PV2_integer_lots.js",
-      "raw_bytes": 24946981,
-      "bytes": 10206059
+      "raw_bytes": 24969693,
+      "bytes": 10213999
     },
     {
       "key": "topk_PV2_fractional_fee_diagnostic",
       "mode": "topk",
       "model": "PV2",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 52032,
-      "stocks": 2073,
+      "rows": 52080,
+      "stocks": 2076,
       "file": "data/topk_PV2_fractional_fee_diagnostic.js",
-      "raw_bytes": 25517857,
-      "bytes": 9444515
+      "raw_bytes": 25541504,
+      "bytes": 9451831
     },
     {
       "key": "all_M1_integer_lots",
       "mode": "all",
       "model": "M1",
       "sizing": "integer_lots",
-      "rows": 45568,
-      "stocks": 1828,
+      "rows": 45584,
+      "stocks": 1830,
       "file": "data/all_M1_integer_lots.js",
-      "raw_bytes": 20660732,
-      "bytes": 6415039
+      "raw_bytes": 20668580,
+      "bytes": 6418679
     },
     {
       "key": "all_M1_fractional_fee_diagnostic",
       "mode": "all",
       "model": "M1",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 45568,
-      "stocks": 1828,
+      "rows": 45584,
+      "stocks": 1830,
       "file": "data/all_M1_fractional_fee_diagnostic.js",
-      "raw_bytes": 22583831,
-      "bytes": 7294415
+      "raw_bytes": 22592567,
+      "bytes": 7298427
     },
     {
       "key": "all_M2_integer_lots",
       "mode": "all",
       "model": "M2",
       "sizing": "integer_lots",
-      "rows": 34088,
-      "stocks": 1493,
+      "rows": 34096,
+      "stocks": 1494,
       "file": "data/all_M2_integer_lots.js",
-      "raw_bytes": 15570215,
-      "bytes": 4985035
+      "raw_bytes": 15574887,
+      "bytes": 4988051
     },
     {
       "key": "all_M2_fractional_fee_diagnostic",
       "mode": "all",
       "model": "M2",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 34088,
-      "stocks": 1493,
+      "rows": 34096,
+      "stocks": 1494,
       "file": "data/all_M2_fractional_fee_diagnostic.js",
-      "raw_bytes": 16863822,
-      "bytes": 5466023
+      "raw_bytes": 16868732,
+      "bytes": 5468755
     },
     {
       "key": "all_M3_integer_lots",
       "mode": "all",
       "model": "M3",
       "sizing": "integer_lots",
-      "rows": 104824,
+      "rows": 104880,
       "stocks": 2913,
       "file": "data/all_M3_integer_lots.js",
-      "raw_bytes": 48264967,
-      "bytes": 15596443
+      "raw_bytes": 48290904,
+      "bytes": 15605367
     },
     {
       "key": "all_M3_fractional_fee_diagnostic",
       "mode": "all",
       "model": "M3",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 104824,
+      "rows": 104880,
       "stocks": 2913,
       "file": "data/all_M3_fractional_fee_diagnostic.js",
-      "raw_bytes": 53586388,
-      "bytes": 18764435
+      "raw_bytes": 53613823,
+      "bytes": 18774795
     },
     {
       "key": "all_M4_integer_lots",
@@ -379,8 +379,8 @@
       "rows": 3920,
       "stocks": 430,
       "file": "data/all_M4_integer_lots.js",
-      "raw_bytes": 1933902,
-      "bytes": 801455
+      "raw_bytes": 1934024,
+      "bytes": 801387
     },
     {
       "key": "all_M4_fractional_fee_diagnostic",
@@ -390,8 +390,8 @@
       "rows": 3920,
       "stocks": 430,
       "file": "data/all_M4_fractional_fee_diagnostic.js",
-      "raw_bytes": 1971652,
-      "bytes": 737319
+      "raw_bytes": 1971759,
+      "bytes": 737295
     },
     {
       "key": "all_M5_integer_lots",
@@ -401,8 +401,8 @@
       "rows": 3920,
       "stocks": 430,
       "file": "data/all_M5_integer_lots.js",
-      "raw_bytes": 1933438,
-      "bytes": 800791
+      "raw_bytes": 1933575,
+      "bytes": 800755
     },
     {
       "key": "all_M5_fractional_fee_diagnostic",
@@ -412,8 +412,8 @@
       "rows": 3920,
       "stocks": 430,
       "file": "data/all_M5_fractional_fee_diagnostic.js",
-      "raw_bytes": 1970881,
-      "bytes": 735407
+      "raw_bytes": 1970957,
+      "bytes": 735235
     },
     {
       "key": "all_B1_integer_lots",
@@ -423,8 +423,8 @@
       "rows": 8248,
       "stocks": 865,
       "file": "data/all_B1_integer_lots.js",
-      "raw_bytes": 3973111,
-      "bytes": 1520807
+      "raw_bytes": 3973165,
+      "bytes": 1520907
     },
     {
       "key": "all_B1_fractional_fee_diagnostic",
@@ -434,8 +434,8 @@
       "rows": 8248,
       "stocks": 865,
       "file": "data/all_B1_fractional_fee_diagnostic.js",
-      "raw_bytes": 4121054,
-      "bytes": 1453695
+      "raw_bytes": 4121081,
+      "bytes": 1453691
     },
     {
       "key": "all_B0_integer_lots",
@@ -445,8 +445,8 @@
       "rows": 23896,
       "stocks": 1698,
       "file": "data/all_B0_integer_lots.js",
-      "raw_bytes": 11181214,
-      "bytes": 3738107
+      "raw_bytes": 11181305,
+      "bytes": 3738195
     },
     {
       "key": "all_B0_fractional_fee_diagnostic",
@@ -456,8 +456,8 @@
       "rows": 23896,
       "stocks": 1698,
       "file": "data/all_B0_fractional_fee_diagnostic.js",
-      "raw_bytes": 12050321,
-      "bytes": 4054495
+      "raw_bytes": 12050393,
+      "bytes": 4054455
     },
     {
       "key": "all_HSC1_integer_lots",
@@ -467,8 +467,8 @@
       "rows": 25184,
       "stocks": 1295,
       "file": "data/all_HSC1_integer_lots.js",
-      "raw_bytes": 11681857,
-      "bytes": 3950819
+      "raw_bytes": 11681884,
+      "bytes": 3950775
     },
     {
       "key": "all_HSC1_fractional_fee_diagnostic",
@@ -478,52 +478,52 @@
       "rows": 25184,
       "stocks": 1295,
       "file": "data/all_HSC1_fractional_fee_diagnostic.js",
-      "raw_bytes": 12414542,
-      "bytes": 4047539
+      "raw_bytes": 12414589,
+      "bytes": 4047395
     },
     {
       "key": "all_E1_integer_lots",
       "mode": "all",
       "model": "E1",
       "sizing": "integer_lots",
-      "rows": 43016,
+      "rows": 43024,
       "stocks": 2407,
       "file": "data/all_E1_integer_lots.js",
-      "raw_bytes": 20364440,
-      "bytes": 7065523
+      "raw_bytes": 20370460,
+      "bytes": 7070455
     },
     {
       "key": "all_E1_fractional_fee_diagnostic",
       "mode": "all",
       "model": "E1",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 43016,
+      "rows": 43024,
       "stocks": 2407,
       "file": "data/all_E1_fractional_fee_diagnostic.js",
-      "raw_bytes": 21818264,
-      "bytes": 7525123
+      "raw_bytes": 21824574,
+      "bytes": 7529411
     },
     {
       "key": "all_E2_integer_lots",
       "mode": "all",
       "model": "E2",
       "sizing": "integer_lots",
-      "rows": 25416,
-      "stocks": 1876,
+      "rows": 25440,
+      "stocks": 1878,
       "file": "data/all_E2_integer_lots.js",
-      "raw_bytes": 12151695,
-      "bytes": 4408407
+      "raw_bytes": 12162513,
+      "bytes": 4411683
     },
     {
       "key": "all_E2_fractional_fee_diagnostic",
       "mode": "all",
       "model": "E2",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 25416,
-      "stocks": 1876,
+      "rows": 25440,
+      "stocks": 1878,
       "file": "data/all_E2_fractional_fee_diagnostic.js",
-      "raw_bytes": 12827507,
-      "bytes": 4467411
+      "raw_bytes": 12838560,
+      "bytes": 4470575
     },
     {
       "key": "all_E3_integer_lots",
@@ -533,8 +533,8 @@
       "rows": 16424,
       "stocks": 1449,
       "file": "data/all_E3_integer_lots.js",
-      "raw_bytes": 7621276,
-      "bytes": 2450963
+      "raw_bytes": 7621285,
+      "bytes": 2450979
     },
     {
       "key": "all_E3_fractional_fee_diagnostic",
@@ -544,63 +544,63 @@
       "rows": 16424,
       "stocks": 1449,
       "file": "data/all_E3_fractional_fee_diagnostic.js",
-      "raw_bytes": 8380482,
-      "bytes": 2860435
+      "raw_bytes": 8380488,
+      "bytes": 2860423
     },
     {
       "key": "all_PV2_integer_lots",
       "mode": "all",
       "model": "PV2",
       "sizing": "integer_lots",
-      "rows": 136112,
+      "rows": 136160,
       "stocks": 2970,
       "file": "data/all_PV2_integer_lots.js",
-      "raw_bytes": 62182356,
-      "bytes": 19406399
+      "raw_bytes": 62204669,
+      "bytes": 19414219
     },
     {
       "key": "all_PV2_fractional_fee_diagnostic",
       "mode": "all",
       "model": "PV2",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 136112,
+      "rows": 136160,
       "stocks": 2970,
       "file": "data/all_PV2_fractional_fee_diagnostic.js",
-      "raw_bytes": 69689709,
-      "bytes": 24243295
+      "raw_bytes": 69712881,
+      "bytes": 24251079
     },
     {
       "key": "account_M1_integer_lots",
       "mode": "account",
       "model": "M1",
       "sizing": "integer_lots",
-      "rows": 94017,
+      "rows": 94113,
       "stocks": 1828,
       "file": "data/account_M1_integer_lots.js",
-      "raw_bytes": 29143826,
-      "bytes": 2247311
+      "raw_bytes": 29174355,
+      "bytes": 2250327
     },
     {
       "key": "account_M2_integer_lots",
       "mode": "account",
       "model": "M2",
       "sizing": "integer_lots",
-      "rows": 70381,
+      "rows": 70445,
       "stocks": 1493,
       "file": "data/account_M2_integer_lots.js",
-      "raw_bytes": 22006050,
-      "bytes": 1860091
+      "raw_bytes": 22027115,
+      "bytes": 1862275
     },
     {
       "key": "account_M3_integer_lots",
       "mode": "account",
       "model": "M3",
       "sizing": "integer_lots",
-      "rows": 219602,
+      "rows": 219794,
       "stocks": 2913,
       "file": "data/account_M3_integer_lots.js",
-      "raw_bytes": 67033690,
-      "bytes": 5168803
+      "raw_bytes": 67092857,
+      "bytes": 5174951
     },
     {
       "key": "account_M4_integer_lots",
@@ -610,8 +610,8 @@
       "rows": 8385,
       "stocks": 430,
       "file": "data/account_M4_integer_lots.js",
-      "raw_bytes": 2891826,
-      "bytes": 522827
+      "raw_bytes": 2892089,
+      "bytes": 522655
     },
     {
       "key": "account_M5_integer_lots",
@@ -621,8 +621,8 @@
       "rows": 8388,
       "stocks": 430,
       "file": "data/account_M5_integer_lots.js",
-      "raw_bytes": 2886846,
-      "bytes": 516543
+      "raw_bytes": 2887078,
+      "bytes": 516155
     },
     {
       "key": "account_B1_integer_lots",
@@ -632,8 +632,8 @@
       "rows": 17243,
       "stocks": 865,
       "file": "data/account_B1_integer_lots.js",
-      "raw_bytes": 5708232,
-      "bytes": 838907
+      "raw_bytes": 5708291,
+      "bytes": 839067
     },
     {
       "key": "account_B0_integer_lots",
@@ -643,8 +643,8 @@
       "rows": 49615,
       "stocks": 1698,
       "file": "data/account_B0_integer_lots.js",
-      "raw_bytes": 15573954,
-      "bytes": 1511507
+      "raw_bytes": 15573996,
+      "bytes": 1511483
     },
     {
       "key": "account_HSC1_integer_lots",
@@ -654,30 +654,30 @@
       "rows": 51500,
       "stocks": 1295,
       "file": "data/account_HSC1_integer_lots.js",
-      "raw_bytes": 16258865,
-      "bytes": 1494019
+      "raw_bytes": 16258855,
+      "bytes": 1493939
     },
     {
       "key": "account_E1_integer_lots",
       "mode": "account",
       "model": "E1",
       "sizing": "integer_lots",
-      "rows": 88008,
-      "stocks": 2406,
+      "rows": 88104,
+      "stocks": 2407,
       "file": "data/account_E1_integer_lots.js",
-      "raw_bytes": 27335113,
-      "bytes": 2515603
+      "raw_bytes": 27365620,
+      "bytes": 2523711
     },
     {
       "key": "account_E2_integer_lots",
       "mode": "account",
       "model": "E2",
       "sizing": "integer_lots",
-      "rows": 52030,
+      "rows": 52126,
       "stocks": 1876,
       "file": "data/account_E2_integer_lots.js",
-      "raw_bytes": 16380500,
-      "bytes": 1700195
+      "raw_bytes": 16414488,
+      "bytes": 1710391
     },
     {
       "key": "account_E3_integer_lots",
@@ -687,7 +687,7 @@
       "rows": 32988,
       "stocks": 1449,
       "file": "data/account_E3_integer_lots.js",
-      "raw_bytes": 10164499,
+      "raw_bytes": 10164498,
       "bytes": 900399
     },
     {
@@ -695,44 +695,44 @@
       "mode": "account",
       "model": "PV2",
       "sizing": "integer_lots",
-      "rows": 286384,
+      "rows": 286544,
       "stocks": 2970,
       "file": "data/account_PV2_integer_lots.js",
-      "raw_bytes": 87140763,
-      "bytes": 6338895
+      "raw_bytes": 87190508,
+      "bytes": 6344239
     }
   ],
   "counts": {
-    "topk": 657104,
-    "all": 941232,
-    "account": 978541
+    "topk": 657504,
+    "all": 941552,
+    "account": 979245
   },
   "unique_symbols": 3226,
-  "unique_symbol_entry_days": 33991,
+  "unique_symbol_entry_days": 34004,
   "financial_matched_entries": 80,
   "method_note": "Daily total10000 split over actual top2/top4, independent daily tranches. Initial10000 constrained cash accounts separate. Never sum scenarios.",
-  "price_cutoff": "2026-11-03",
-  "backtest_cutoff": "2026-11-03",
-  "latest_signal_scan_cutoff": "2026-11-03",
+  "price_cutoff": "2026-11-04",
+  "backtest_cutoff": "2026-11-04",
+  "latest_signal_scan_cutoff": "2026-11-04",
   "signal_scan_cutoff_by_model": {
-    "M1": "2026-11-03",
-    "M2": "2026-11-03",
-    "M3": "2026-11-03",
-    "M4": "2026-11-03",
-    "M5": "2026-11-03",
-    "B1": "2026-11-03",
-    "B0": "2026-11-03",
-    "HSC1": "2026-11-03",
-    "E1": "2026-11-03",
-    "E2": "2026-11-03",
-    "E3": "2026-11-03",
-    "PV2": "2026-11-03"
+    "M1": "2026-11-04",
+    "M2": "2026-11-04",
+    "M3": "2026-11-04",
+    "M4": "2026-11-04",
+    "M5": "2026-11-04",
+    "B1": "2026-11-04",
+    "B0": "2026-11-04",
+    "HSC1": "2026-11-04",
+    "E1": "2026-11-04",
+    "E2": "2026-11-04",
+    "E3": "2026-11-04",
+    "PV2": "2026-11-04"
   },
-  "web_version": "20261104_094825",
+  "web_version": "20261104_180733",
   "latest_chart_coverage": {
     "stocks": 3226,
-    "at_target": 3138,
-    "target": "2026-11-03"
+    "at_target": 3140,
+    "target": "2026-11-04"
   },
   "missing_price_files": []
 }

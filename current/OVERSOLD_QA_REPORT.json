@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-04T03:24:36.656Z",
-  "version": "20261104_094825",
-  "cutoff": "2026-11-03",
+  "at": "2026-11-04T10:21:55.943Z",
+  "version": "20261104_180733",
+  "cutoff": "2026-11-04",
   "checks": [
     {
-      "name": "offline_file_open_83_cases",
+      "name": "offline_file_open_current_cases",
       "passed": true
     },
     {
@@ -12,11 +12,11 @@
       "passed": true
     },
     {
-      "name": "all_83_case_charts_switch",
+      "name": "all_current_case_charts_switch",
       "passed": true
     },
     {
-      "name": "current_watch_only_no_fabricated_trades",
+      "name": "latest_observations_no_fabricated_entry",
       "passed": true
     },
     {
@@ -37,7 +37,7 @@
   ],
   "errors": [],
   "external_requests": [],
-  "page_sha256": "03e50dc768abb42155067afafb4f5189de08807b5f33baab137337bb06c99c7e",
-  "screenshot": "D:\\A股低位放量研究\\web\\versions\\20261104_094825\\OVERSOLD_DESKTOP.png",
+  "page_sha256": "fc77d053e2737437454eb355420de1d7bab15748ea00673a33242f98aebab138",
+  "screenshot": "D:\\A股低位放量研究\\web\\versions\\20261104_180733\\OVERSOLD_DESKTOP.png",
   "passed": true
 }

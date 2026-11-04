@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-04T09:47:46.712187+08:00",
+  "at": "2026-11-04T18:07:20.372627+08:00",
   "scenarios": [
     {
       "mode": "all",
       "model": "M1",
       "rule": "F2",
-      "old_closed_preserved": 11274,
+      "old_closed_preserved": 11276,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -14,7 +14,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "F5",
-      "old_closed_preserved": 11266,
+      "old_closed_preserved": 11270,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -23,7 +23,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "F20",
-      "old_closed_preserved": 11224,
+      "old_closed_preserved": 11228,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -32,7 +32,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "F60",
-      "old_closed_preserved": 10904,
+      "old_closed_preserved": 10912,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -68,7 +68,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "BASE8",
-      "old_closed_preserved": 11228,
+      "old_closed_preserved": 11236,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -77,7 +77,7 @@
       "mode": "all",
       "model": "M2",
       "rule": "F2",
-      "old_closed_preserved": 8442,
+      "old_closed_preserved": 8444,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -86,7 +86,7 @@
       "mode": "all",
       "model": "M2",
       "rule": "F5",
-      "old_closed_preserved": 8434,
+      "old_closed_preserved": 8438,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -95,7 +95,7 @@
       "mode": "all",
       "model": "M2",
       "rule": "F20",
-      "old_closed_preserved": 8402,
+      "old_closed_preserved": 8404,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -104,7 +104,7 @@
       "mode": "all",
       "model": "M2",
       "rule": "F60",
-      "old_closed_preserved": 8206,
+      "old_closed_preserved": 8208,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -140,7 +140,7 @@
       "mode": "all",
       "model": "M2",
       "rule": "BASE8",
-      "old_closed_preserved": 8422,
+      "old_closed_preserved": 8426,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -149,7 +149,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "F2",
-      "old_closed_preserved": 25830,
+      "old_closed_preserved": 25852,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -158,33 +158,6 @@
       "mode": "all",
       "model": "M3",
       "rule": "F5",
-      "old_closed_preserved": 25790,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M3",
-      "rule": "F20",
-      "old_closed_preserved": 25410,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M3",
-      "rule": "F60",
-      "old_closed_preserved": 24618,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M3",
-      "rule": "T5",
       "old_closed_preserved": 25798,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
@@ -193,8 +166,35 @@
     {
       "mode": "all",
       "model": "M3",
+      "rule": "F20",
+      "old_closed_preserved": 25414,
+      "daily_budget_checked": true,
+      "T_plus_one_checked": true,
+      "lots_checked": true
+    },
+    {
+      "mode": "all",
+      "model": "M3",
+      "rule": "F60",
+      "old_closed_preserved": 24626,
+      "daily_budget_checked": true,
+      "T_plus_one_checked": true,
+      "lots_checked": true
+    },
+    {
+      "mode": "all",
+      "model": "M3",
+      "rule": "T5",
+      "old_closed_preserved": 25802,
+      "daily_budget_checked": true,
+      "T_plus_one_checked": true,
+      "lots_checked": true
+    },
+    {
+      "mode": "all",
+      "model": "M3",
       "rule": "T10",
-      "old_closed_preserved": 25676,
+      "old_closed_preserved": 25680,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -203,7 +203,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "ATR2.5",
-      "old_closed_preserved": 25756,
+      "old_closed_preserved": 25766,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -212,7 +212,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "BASE8",
-      "old_closed_preserved": 25592,
+      "old_closed_preserved": 25604,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -221,7 +221,7 @@
       "mode": "all",
       "model": "M4",
       "rule": "F2",
-      "old_closed_preserved": 968,
+      "old_closed_preserved": 970,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -293,7 +293,7 @@
       "mode": "all",
       "model": "M5",
       "rule": "F2",
-      "old_closed_preserved": 968,
+      "old_closed_preserved": 970,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -401,7 +401,7 @@
       "mode": "all",
       "model": "B1",
       "rule": "T5",
-      "old_closed_preserved": 2004,
+      "old_closed_preserved": 2008,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -473,7 +473,7 @@
       "mode": "all",
       "model": "B0",
       "rule": "T5",
-      "old_closed_preserved": 5856,
+      "old_closed_preserved": 5862,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -509,7 +509,7 @@
       "mode": "all",
       "model": "HSC1",
       "rule": "F2",
-      "old_closed_preserved": 6228,
+      "old_closed_preserved": 6230,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -518,7 +518,7 @@
       "mode": "all",
       "model": "HSC1",
       "rule": "F5",
-      "old_closed_preserved": 6224,
+      "old_closed_preserved": 6226,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -527,7 +527,7 @@
       "mode": "all",
       "model": "HSC1",
       "rule": "F20",
-      "old_closed_preserved": 6210,
+      "old_closed_preserved": 6212,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -536,7 +536,7 @@
       "mode": "all",
       "model": "HSC1",
       "rule": "F60",
-      "old_closed_preserved": 6136,
+      "old_closed_preserved": 6138,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -572,7 +572,7 @@
       "mode": "all",
       "model": "HSC1",
       "rule": "BASE8",
-      "old_closed_preserved": 6220,
+      "old_closed_preserved": 6224,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -581,7 +581,7 @@
       "mode": "all",
       "model": "E1",
       "rule": "F2",
-      "old_closed_preserved": 10586,
+      "old_closed_preserved": 10588,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -608,7 +608,7 @@
       "mode": "all",
       "model": "E1",
       "rule": "F60",
-      "old_closed_preserved": 10370,
+      "old_closed_preserved": 10372,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -635,7 +635,7 @@
       "mode": "all",
       "model": "E1",
       "rule": "ATR2.5",
-      "old_closed_preserved": 10580,
+      "old_closed_preserved": 10582,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -671,7 +671,7 @@
       "mode": "all",
       "model": "E2",
       "rule": "F20",
-      "old_closed_preserved": 6202,
+      "old_closed_preserved": 6204,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -707,7 +707,7 @@
       "mode": "all",
       "model": "E2",
       "rule": "ATR2.5",
-      "old_closed_preserved": 6224,
+      "old_closed_preserved": 6226,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -716,7 +716,7 @@
       "mode": "all",
       "model": "E2",
       "rule": "BASE8",
-      "old_closed_preserved": 6210,
+      "old_closed_preserved": 6212,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -797,7 +797,7 @@
       "mode": "all",
       "model": "PV2",
       "rule": "F2",
-      "old_closed_preserved": 33594,
+      "old_closed_preserved": 33626,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -806,7 +806,7 @@
       "mode": "all",
       "model": "PV2",
       "rule": "F5",
-      "old_closed_preserved": 33546,
+      "old_closed_preserved": 33558,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -815,7 +815,7 @@
       "mode": "all",
       "model": "PV2",
       "rule": "F20",
-      "old_closed_preserved": 33052,
+      "old_closed_preserved": 33060,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -824,7 +824,7 @@
       "mode": "all",
       "model": "PV2",
       "rule": "F60",
-      "old_closed_preserved": 31808,
+      "old_closed_preserved": 31818,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -833,7 +833,7 @@
       "mode": "all",
       "model": "PV2",
       "rule": "T5",
-      "old_closed_preserved": 33550,
+      "old_closed_preserved": 33554,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -842,7 +842,7 @@
       "mode": "all",
       "model": "PV2",
       "rule": "T10",
-      "old_closed_preserved": 33398,
+      "old_closed_preserved": 33402,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -851,7 +851,7 @@
       "mode": "all",
       "model": "PV2",
       "rule": "ATR2.5",
-      "old_closed_preserved": 33514,
+      "old_closed_preserved": 33524,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -860,7 +860,7 @@
       "mode": "all",
       "model": "PV2",
       "rule": "BASE8",
-      "old_closed_preserved": 33310,
+      "old_closed_preserved": 33326,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -869,7 +869,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "F2",
-      "old_closed_preserved": 9746,
+      "old_closed_preserved": 9750,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -878,7 +878,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "F5",
-      "old_closed_preserved": 9730,
+      "old_closed_preserved": 9738,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -887,7 +887,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "F20",
-      "old_closed_preserved": 9658,
+      "old_closed_preserved": 9666,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -896,7 +896,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "F60",
-      "old_closed_preserved": 9300,
+      "old_closed_preserved": 9314,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -932,7 +932,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "BASE8",
-      "old_closed_preserved": 9680,
+      "old_closed_preserved": 9692,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -941,7 +941,7 @@
       "mode": "topk",
       "model": "M2",
       "rule": "F2",
-      "old_closed_preserved": 8332,
+      "old_closed_preserved": 8336,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -950,7 +950,7 @@
       "mode": "topk",
       "model": "M2",
       "rule": "F5",
-      "old_closed_preserved": 8316,
+      "old_closed_preserved": 8324,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -959,7 +959,7 @@
       "mode": "topk",
       "model": "M2",
       "rule": "F20",
-      "old_closed_preserved": 8256,
+      "old_closed_preserved": 8260,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -968,7 +968,7 @@
       "mode": "topk",
       "model": "M2",
       "rule": "F60",
-      "old_closed_preserved": 7976,
+      "old_closed_preserved": 7980,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1004,7 +1004,7 @@
       "mode": "topk",
       "model": "M2",
       "rule": "BASE8",
-      "old_closed_preserved": 8294,
+      "old_closed_preserved": 8300,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1013,7 +1013,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F2",
-      "old_closed_preserved": 12432,
+      "old_closed_preserved": 12444,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1022,7 +1022,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F5",
-      "old_closed_preserved": 12396,
+      "old_closed_preserved": 12408,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1031,7 +1031,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F20",
-      "old_closed_preserved": 12214,
+      "old_closed_preserved": 12222,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1040,7 +1040,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F60",
-      "old_closed_preserved": 11760,
+      "old_closed_preserved": 11772,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1049,7 +1049,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "T5",
-      "old_closed_preserved": 12404,
+      "old_closed_preserved": 12412,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1058,7 +1058,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "T10",
-      "old_closed_preserved": 12350,
+      "old_closed_preserved": 12354,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1067,7 +1067,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "ATR2.5",
-      "old_closed_preserved": 12374,
+      "old_closed_preserved": 12382,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1076,7 +1076,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "BASE8",
-      "old_closed_preserved": 12262,
+      "old_closed_preserved": 12274,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1085,7 +1085,7 @@
       "mode": "topk",
       "model": "M4",
       "rule": "F2",
-      "old_closed_preserved": 1688,
+      "old_closed_preserved": 1692,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1157,7 +1157,7 @@
       "mode": "topk",
       "model": "M5",
       "rule": "F2",
-      "old_closed_preserved": 1688,
+      "old_closed_preserved": 1692,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1265,7 +1265,7 @@
       "mode": "topk",
       "model": "B1",
       "rule": "T5",
-      "old_closed_preserved": 3004,
+      "old_closed_preserved": 3012,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1337,7 +1337,7 @@
       "mode": "topk",
       "model": "B0",
       "rule": "T5",
-      "old_closed_preserved": 5500,
+      "old_closed_preserved": 5512,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1373,7 +1373,7 @@
       "mode": "topk",
       "model": "HSC1",
       "rule": "F2",
-      "old_closed_preserved": 7270,
+      "old_closed_preserved": 7274,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1382,7 +1382,7 @@
       "mode": "topk",
       "model": "HSC1",
       "rule": "F5",
-      "old_closed_preserved": 7262,
+      "old_closed_preserved": 7266,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1391,7 +1391,7 @@
       "mode": "topk",
       "model": "HSC1",
       "rule": "F20",
-      "old_closed_preserved": 7234,
+      "old_closed_preserved": 7238,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1400,7 +1400,7 @@
       "mode": "topk",
       "model": "HSC1",
       "rule": "F60",
-      "old_closed_preserved": 7096,
+      "old_closed_preserved": 7100,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1436,7 +1436,7 @@
       "mode": "topk",
       "model": "HSC1",
       "rule": "BASE8",
-      "old_closed_preserved": 7254,
+      "old_closed_preserved": 7262,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1445,7 +1445,7 @@
       "mode": "topk",
       "model": "E1",
       "rule": "F2",
-      "old_closed_preserved": 9176,
+      "old_closed_preserved": 9180,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1472,7 +1472,7 @@
       "mode": "topk",
       "model": "E1",
       "rule": "F60",
-      "old_closed_preserved": 8844,
+      "old_closed_preserved": 8848,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1499,7 +1499,7 @@
       "mode": "topk",
       "model": "E1",
       "rule": "ATR2.5",
-      "old_closed_preserved": 9164,
+      "old_closed_preserved": 9168,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1535,7 +1535,7 @@
       "mode": "topk",
       "model": "E2",
       "rule": "F20",
-      "old_closed_preserved": 6792,
+      "old_closed_preserved": 6796,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1571,7 +1571,7 @@
       "mode": "topk",
       "model": "E2",
       "rule": "ATR2.5",
-      "old_closed_preserved": 6832,
+      "old_closed_preserved": 6836,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1580,7 +1580,7 @@
       "mode": "topk",
       "model": "E2",
       "rule": "BASE8",
-      "old_closed_preserved": 6804,
+      "old_closed_preserved": 6808,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1661,7 +1661,7 @@
       "mode": "topk",
       "model": "PV2",
       "rule": "F2",
-      "old_closed_preserved": 12794,
+      "old_closed_preserved": 12806,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1670,7 +1670,7 @@
       "mode": "topk",
       "model": "PV2",
       "rule": "F5",
-      "old_closed_preserved": 12758,
+      "old_closed_preserved": 12770,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1679,7 +1679,7 @@
       "mode": "topk",
       "model": "PV2",
       "rule": "F20",
-      "old_closed_preserved": 12574,
+      "old_closed_preserved": 12586,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1688,7 +1688,7 @@
       "mode": "topk",
       "model": "PV2",
       "rule": "F60",
-      "old_closed_preserved": 12106,
+      "old_closed_preserved": 12118,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1697,7 +1697,7 @@
       "mode": "topk",
       "model": "PV2",
       "rule": "T5",
-      "old_closed_preserved": 12768,
+      "old_closed_preserved": 12776,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1706,7 +1706,7 @@
       "mode": "topk",
       "model": "PV2",
       "rule": "T10",
-      "old_closed_preserved": 12708,
+      "old_closed_preserved": 12712,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1715,7 +1715,7 @@
       "mode": "topk",
       "model": "PV2",
       "rule": "ATR2.5",
-      "old_closed_preserved": 12736,
+      "old_closed_preserved": 12744,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1724,12 +1724,12 @@
       "mode": "topk",
       "model": "PV2",
       "rule": "BASE8",
-      "old_closed_preserved": 12602,
+      "old_closed_preserved": 12616,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
     }
   ],
-  "old_closed_rows_preserved": 1561396,
+  "old_closed_rows_preserved": 1561948,
   "note": "Scenario rows overlap across modes/rules/k/sizing; not independent trades."
 }
