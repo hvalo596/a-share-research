@@ -1,0 +1,41 @@
+{
+  "version": "selective_v2_20261104",
+  "frozen_at": "2026-11-04T20:08:01.006982+08:00",
+  "prior_results_seen": "U0-U4 and descriptive close-location bins already observed. Exploratory refinement; no independent historical validation claim.",
+  "anchors": "65,334 C0 fixed dates/cooldown; do not reanchor to favorable days",
+  "watch_gates": {
+    "r5_pct_lte": -10,
+    "dd20_pct_lte": -15,
+    "acceleration_delta_pp_lte": -5,
+    "own_amount_ratio_gte": 1.5,
+    "prior20_run_pct_gte": 10,
+    "prior_amount_median_yuan_gte": 100000000,
+    "prior60_valid_action_resolved": true
+  },
+  "economic_reason": "Prior own-relative participation plus price run distinguishes a previously bid-up episode from merely volatile chronic decline; an absolute liquidity floor filters inactive issues. Acceleration creates a shock watch, not evidence of a bottom.",
+  "entry_methods": {
+    "immediate": "next open after anchor, diagnostic comparator",
+    "confirmed": "within next 5 sessions first close > previous high AND close > own open AND close-location >=0.75; only next open after confirmation, no retroactive low price"
+  },
+  "entry_gap_guard_pct": 3,
+  "entry_order": "maximum signal/confirmation age1 session; skip if next open above decision close by >3%; no late fills or replacement after execution failures",
+  "rank": "confirmation/decision close-location descending, prior median actual amount descending, symbol; same calendar day at most4, no per-signal10k",
+  "budget": "daily total10000, four fixed2500 slots, unfilled remains cash; independent daily research cohorts not one rolling account",
+  "exit_rules": [
+    "F5",
+    "F10",
+    "F20",
+    "F40",
+    "F60",
+    "P5",
+    "P10",
+    "TC5",
+    "TC8"
+  ],
+  "stops": "P5/P10 initial fill based hard stop. TC5/TC8 prior completed session peak close based, T+1 earliest exit; daily OHLC execution scenario, not guaranteed fills. All nonfixed cap60; lower-limit restrictions retained.",
+  "cap": "Current >=100亿元 from timestamped quote only, NOT applied historically. Historical unavailable ST and cap remain limitations.",
+  "latest": "All-A historical; latest displayed identity-verified main-board only; strict passing/confirmation-needed/failed-gates separated. Do not fill vacancies.",
+  "attempts": 1,
+  "parameter_search": false,
+  "prospective_results": 0
+}

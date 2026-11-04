@@ -1,0 +1,35 @@
+name: 研究反馈与案例纠错
+description: 提供案例链接、可核对证据或网页问题
+title: "[反馈] "
+body:
+  - type: markdown
+    attributes:
+      value: "感谢帮助纠错。请勿填写账户、持仓或个人联系方式。技术符合不等于值得交易，探索回测不是收益承诺。"
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 反馈类型
+      options:
+        - 日期、价格、收益计算或数据错误
+        - 入场退出、交易制度或比较方法问题
+        - 可被反证的研究假说
+        - 页面加载、切换或移动端问题
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: case
+    attributes:
+      label: 页面或具体案例地址
+      placeholder: https://hvalo596.github.io/a-share-research/...
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 发现了什么，有什么可复核证据
+      description: 区分观察、解释与建议；浏览器问题请写设备和浏览器版本。
+    validations:
+      required: true
+  - type: textarea
+    id: alternative
+    attributes:
+      label: 建议怎样检查或反证
