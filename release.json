@@ -1,35 +1,97 @@
 {
-  "version": "20261104_180733",
-  "price_cutoff": "2026-11-04",
-  "signal_scan_cutoff": "2026-11-04",
-  "backtest_cutoff": "2026-11-04",
+  "version": "20261105_154749_focused",
+  "price_cutoff": "2026-11-05",
+  "signal_scan_cutoff": "2026-11-05",
+  "backtest_cutoff": "2026-11-05",
   "models": {
-    "M1": "2026-11-04",
-    "M2": "2026-11-04",
-    "M3": "2026-11-04",
-    "M4": "2026-11-04",
-    "M5": "2026-11-04",
-    "B1": "2026-11-04",
-    "B0": "2026-11-04",
-    "HSC1": "2026-11-04",
-    "E1": "2026-11-04",
-    "E2": "2026-11-04",
-    "E3": "2026-11-04",
-    "PV2": "2026-11-04"
+    "M1": "2026-11-05",
+    "M3": "2026-11-05",
+    "B1": "2026-11-05"
   },
-  "built_at": "2026-11-04T18:22:23.384123+08:00",
+  "maintenance_scope": {
+    "version": "20261105_scope_v1",
+    "effective_at": "2026-11-05T15:39:17.900648+08:00",
+    "active_models": [
+      "M1",
+      "M3",
+      "B1"
+    ],
+    "display_models": [
+      "M1",
+      "M3",
+      "B1",
+      "OV2"
+    ],
+    "labels": {
+      "M1": "汉森第一版（原缺陷诊断）",
+      "M3": "宽松历史20日中位量2倍",
+      "B1": "缩量＋倍量＋突破收盘质量",
+      "OV2": "超跌反弹（暂停更新）"
+    },
+    "paused_models": {
+      "OV2": {
+        "status": "paused_by_user",
+        "last_published_cutoff": "2026-11-04",
+        "source": "D:\\A股低位放量研究\\experiments\\20261105_model_simplification\\frozen_oversold\\public_selective",
+        "allow_fetch": false,
+        "allow_scan": false,
+        "allow_backtest": false
+      }
+    },
+    "retired_models": [
+      "M2",
+      "M4",
+      "M5",
+      "B0",
+      "HSC1",
+      "E1",
+      "E2",
+      "E3",
+      "PV2",
+      "right_side_pullback",
+      "zodiac"
+    ],
+    "archive_policy": "Remove from active maintenance and current selectors; preserve all original source/config/results/failures and previous published versions locally. Do not delete historical research.",
+    "original_hansen_source": "C:/Users/33957/Documents/New project 2/scripts/a_share_high_volatility_entry.py",
+    "retained_exit_rules": [
+      "F2",
+      "F5",
+      "F20",
+      "F60",
+      "T5",
+      "T10",
+      "ATR2.5",
+      "BASE8"
+    ],
+    "daily_budget_yuan_per_model": 10000,
+    "daily_top_k": [
+      2,
+      4
+    ],
+    "note": "No strategy-rule change or return recertification; scope reduction only."
+  },
+  "built_at": "2026-11-05T16:01:40.253952+08:00",
   "index": "index.html",
   "model_casebook": "current/index.html",
   "performance": "current/performance.html",
   "latest_signals": "current/latest_signals.html",
   "oversold": "current/oversold.html",
-  "right_side_zodiac": "current/right_side_zodiac.html",
   "independent_signal_cutoffs": {
-    "oversold": "2026-11-04",
-    "right_side_pullback": "2026-11-04",
-    "zodiac": "2026-11-04"
+    "OV2": "2026-11-04"
   },
   "history_note": "Older duplicate website versions remain in the local archive.",
   "frontend_revision": "20261104-speed-v1",
-  "frontend_optimized_at": "2026-11-04T19:10:13.144488+08:00"
+  "frontend_optimized_at": "2026-11-05T16:01:49.635689+08:00",
+  "independent_models": {
+    "OV2": {
+      "status": "paused_by_user",
+      "cutoff": "2026-11-04",
+      "scan_cutoff": "2026-11-04",
+      "path_accounting_cutoff": "2026-11-04",
+      "frozen_rules_version": "selective_v2_20261104",
+      "cash_account_certified": false,
+      "positive_edge_proven": false,
+      "watch_anchors": 7988
+    }
+  }
 }

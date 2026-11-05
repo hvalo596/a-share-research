@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-04T17:27:07.543352+08:00",
-  "overlap_bars_compared": 61293,
+  "at": "2026-11-05T15:15:02.683225+08:00",
+  "overlap_bars_compared": 66865,
   "price_volume_revisions": [],
   "unit_check_changes": [],
   "prior_symbol_files_absent": [],
-  "old_action_records": 138,
-  "new_action_records": 145,
+  "old_action_records": 145,
+  "new_action_records": 151,
   "old_action_terms_missing_or_revised": [],
   "passed": true
 }

@@ -1,0 +1,35 @@
+{
+  "at": "2026-11-05T16:01:38.036652+08:00",
+  "active_models": [
+    "M1",
+    "M3",
+    "B1"
+  ],
+  "paused_model": "OV2",
+  "paused_cutoff": "2026-11-04",
+  "retired": [
+    "M2",
+    "M4",
+    "M5",
+    "B0",
+    "HSC1",
+    "E1",
+    "E2",
+    "E3",
+    "PV2",
+    "right_side_pullback",
+    "zodiac"
+  ],
+  "source_models_before": [
+    "M1",
+    "M3",
+    "B1"
+  ],
+  "source": "D:\\A股低位放量研究\\publishing\\site\\current",
+  "current_display_removed_files": [],
+  "archive_originals_unchanged": true,
+  "strategy_rules_changed": false,
+  "cash_accounts": 96,
+  "price_cutoff": "2026-11-05",
+  "removed_current_bytes": 0
+}

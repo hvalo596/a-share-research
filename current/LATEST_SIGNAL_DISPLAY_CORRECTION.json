@@ -1,9 +1,0 @@
-{
-  "at": "2026-11-04T18:11:26.304619+08:00",
-  "issue": "Latest observation default formerly filtered initial signal age, omitting same-day completed E2 confirmations",
-  "fix": "Display filters and sorts by completed decision age while preserving initial signal date and age, explicit confirmation date",
-  "expected_nov4_decisions": 20,
-  "expected_nov4_e2_confirmations": 3,
-  "model_rules_changed": false,
-  "remote_verification_extended": "Hash latest signals, catalog and all 12 account-curve payloads in addition to primary pages"
-}
