@@ -46,6 +46,7 @@ function renderMonthly(){
  box.innerHTML=html;
 }
 function renderNewFundamentals(r){
+ const recentDate=v(r,'entry_date');if(recentDate>='2026-11-03'&&window.renderRecentCompany){const recent=window.renderRecentCompany(v(r,'symbol'));if(recent){$('fundamentals').innerHTML=recent;return true}}
  const date=v(r,'entry_date');if(!date||date<'2026-09-01')return false;
  const box=$('fundamentals'),z=RD.fundamentals[v(r,'symbol')+'|'+date];if(!box)return false;
  if(!z){box.innerHTML='<h3>买点基本面与独立估值</h3><p>本买点未完成资料核验；不将之后的报告或今日信息回填到买入时。</p>';return true}

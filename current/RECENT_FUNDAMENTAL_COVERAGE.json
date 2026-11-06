@@ -1,0 +1,17 @@
+{
+  "scope": "2026-11-03至2026-11-05的新信号；不回补9/10月旧股票",
+  "companies": 30,
+  "model_signal_rows": 31,
+  "primary_documents_acquired": 89,
+  "selected_section_reviews": 60,
+  "business_profiles": 30,
+  "preliminary_own_valuation_models": 17,
+  "valuation_withheld": 13,
+  "investment_ready_valuations": 0,
+  "price_signal_accounting_cutoff": "2026-11-05",
+  "oversold_cutoff": "2026-11-04",
+  "new_quotes_or_backtests_this_revision": false,
+  "source_information_eligible_through": "2026-11-02",
+  "research_written": "2026-11-06",
+  "source_note": "只使用11月2日及以前公开财报，研究文字写于11月6日；是事后补注，不是买入当时真实做过的基本面判断，也没有将这些文字作为历史选股过滤。尚未逐只核验财报后所有临时公告与行业份额。"
+}
