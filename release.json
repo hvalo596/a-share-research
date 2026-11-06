@@ -1,5 +1,5 @@
 {
-  "version": "20261105_154749_focused",
+  "version": "20261106_reader_v1",
   "price_cutoff": "2026-11-05",
   "signal_scan_cutoff": "2026-11-05",
   "backtest_cutoff": "2026-11-05",
@@ -70,7 +70,7 @@
     ],
     "note": "No strategy-rule change or return recertification; scope reduction only."
   },
-  "built_at": "2026-11-05T16:01:40.253952+08:00",
+  "built_at": "2026-11-06T15:07:03.328382+08:00",
   "index": "index.html",
   "model_casebook": "current/index.html",
   "performance": "current/performance.html",
@@ -80,8 +80,8 @@
     "OV2": "2026-11-04"
   },
   "history_note": "Older duplicate website versions remain in the local archive.",
-  "frontend_revision": "20261104-speed-v1",
-  "frontend_optimized_at": "2026-11-05T16:01:49.635689+08:00",
+  "frontend_revision": "20261106-reader-windows235all-v1",
+  "frontend_optimized_at": "2026-11-06T15:07:21.452478+08:00",
   "independent_models": {
     "OV2": {
       "status": "paused_by_user",
