@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-05T15:37:21.016027+08:00",
+  "at": "2026-11-06T21:37:01.808408+08:00",
   "scenarios": [
     {
       "mode": "all",
       "model": "M1",
       "rule": "F2",
-      "old_closed_preserved": 11280,
+      "old_closed_preserved": 11286,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -23,7 +23,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "F20",
-      "old_closed_preserved": 11228,
+      "old_closed_preserved": 11230,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -32,7 +32,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "F60",
-      "old_closed_preserved": 10924,
+      "old_closed_preserved": 10938,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -41,7 +41,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "T5",
-      "old_closed_preserved": 11274,
+      "old_closed_preserved": 11276,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -68,79 +68,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "BASE8",
-      "old_closed_preserved": 11238,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M2",
-      "rule": "F2",
-      "old_closed_preserved": 8446,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M2",
-      "rule": "F5",
-      "old_closed_preserved": 8442,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M2",
-      "rule": "F20",
-      "old_closed_preserved": 8404,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M2",
-      "rule": "F60",
-      "old_closed_preserved": 8210,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M2",
-      "rule": "T5",
-      "old_closed_preserved": 8442,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M2",
-      "rule": "T10",
-      "old_closed_preserved": 8436,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M2",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 8432,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M2",
-      "rule": "BASE8",
-      "old_closed_preserved": 8426,
+      "old_closed_preserved": 11242,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -149,7 +77,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "F2",
-      "old_closed_preserved": 25880,
+      "old_closed_preserved": 25892,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -158,7 +86,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "F5",
-      "old_closed_preserved": 25808,
+      "old_closed_preserved": 25830,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -167,7 +95,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "F20",
-      "old_closed_preserved": 25438,
+      "old_closed_preserved": 25486,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -176,7 +104,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "F60",
-      "old_closed_preserved": 24632,
+      "old_closed_preserved": 24636,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -185,7 +113,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "T5",
-      "old_closed_preserved": 25810,
+      "old_closed_preserved": 25812,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -194,7 +122,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "T10",
-      "old_closed_preserved": 25684,
+      "old_closed_preserved": 25686,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -203,7 +131,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "ATR2.5",
-      "old_closed_preserved": 25768,
+      "old_closed_preserved": 25774,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -212,151 +140,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "BASE8",
-      "old_closed_preserved": 25610,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M4",
-      "rule": "F2",
-      "old_closed_preserved": 972,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M4",
-      "rule": "F5",
-      "old_closed_preserved": 968,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M4",
-      "rule": "F20",
-      "old_closed_preserved": 946,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M4",
-      "rule": "F60",
-      "old_closed_preserved": 916,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M4",
-      "rule": "T5",
-      "old_closed_preserved": 966,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M4",
-      "rule": "T10",
-      "old_closed_preserved": 952,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M4",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 966,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M4",
-      "rule": "BASE8",
-      "old_closed_preserved": 952,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M5",
-      "rule": "F2",
-      "old_closed_preserved": 972,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M5",
-      "rule": "F5",
-      "old_closed_preserved": 968,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M5",
-      "rule": "F20",
-      "old_closed_preserved": 946,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M5",
-      "rule": "F60",
-      "old_closed_preserved": 916,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M5",
-      "rule": "T5",
-      "old_closed_preserved": 966,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M5",
-      "rule": "T10",
-      "old_closed_preserved": 952,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M5",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 966,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "M5",
-      "rule": "BASE8",
-      "old_closed_preserved": 952,
+      "old_closed_preserved": 25612,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -383,7 +167,7 @@
       "mode": "all",
       "model": "B1",
       "rule": "F20",
-      "old_closed_preserved": 1992,
+      "old_closed_preserved": 1996,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -401,7 +185,7 @@
       "mode": "all",
       "model": "B1",
       "rule": "T5",
-      "old_closed_preserved": 2008,
+      "old_closed_preserved": 2010,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -410,7 +194,7 @@
       "mode": "all",
       "model": "B1",
       "rule": "T10",
-      "old_closed_preserved": 2000,
+      "old_closed_preserved": 2002,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -419,7 +203,7 @@
       "mode": "all",
       "model": "B1",
       "rule": "ATR2.5",
-      "old_closed_preserved": 2004,
+      "old_closed_preserved": 2008,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -434,442 +218,10 @@
       "lots_checked": true
     },
     {
-      "mode": "all",
-      "model": "B0",
-      "rule": "F2",
-      "old_closed_preserved": 5872,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "B0",
-      "rule": "F5",
-      "old_closed_preserved": 5872,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "B0",
-      "rule": "F20",
-      "old_closed_preserved": 5832,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "B0",
-      "rule": "F60",
-      "old_closed_preserved": 5672,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "B0",
-      "rule": "T5",
-      "old_closed_preserved": 5862,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "B0",
-      "rule": "T10",
-      "old_closed_preserved": 5836,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "B0",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 5856,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "B0",
-      "rule": "BASE8",
-      "old_closed_preserved": 5828,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "HSC1",
-      "rule": "F2",
-      "old_closed_preserved": 6232,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "HSC1",
-      "rule": "F5",
-      "old_closed_preserved": 6228,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "HSC1",
-      "rule": "F20",
-      "old_closed_preserved": 6212,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "HSC1",
-      "rule": "F60",
-      "old_closed_preserved": 6140,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "HSC1",
-      "rule": "T5",
-      "old_closed_preserved": 6228,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "HSC1",
-      "rule": "T10",
-      "old_closed_preserved": 6222,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "HSC1",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 6224,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "HSC1",
-      "rule": "BASE8",
-      "old_closed_preserved": 6224,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E1",
-      "rule": "F2",
-      "old_closed_preserved": 10594,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E1",
-      "rule": "F5",
-      "old_closed_preserved": 10586,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E1",
-      "rule": "F20",
-      "old_closed_preserved": 10524,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E1",
-      "rule": "F60",
-      "old_closed_preserved": 10372,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E1",
-      "rule": "T5",
-      "old_closed_preserved": 10588,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E1",
-      "rule": "T10",
-      "old_closed_preserved": 10570,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E1",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 10582,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E1",
-      "rule": "BASE8",
-      "old_closed_preserved": 10550,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E2",
-      "rule": "F2",
-      "old_closed_preserved": 6228,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E2",
-      "rule": "F5",
-      "old_closed_preserved": 6226,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E2",
-      "rule": "F20",
-      "old_closed_preserved": 6204,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E2",
-      "rule": "F60",
-      "old_closed_preserved": 6114,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E2",
-      "rule": "T5",
-      "old_closed_preserved": 6226,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E2",
-      "rule": "T10",
-      "old_closed_preserved": 6224,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E2",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 6226,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E2",
-      "rule": "BASE8",
-      "old_closed_preserved": 6212,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E3",
-      "rule": "F2",
-      "old_closed_preserved": 4042,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E3",
-      "rule": "F5",
-      "old_closed_preserved": 4042,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E3",
-      "rule": "F20",
-      "old_closed_preserved": 4042,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E3",
-      "rule": "F60",
-      "old_closed_preserved": 4032,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E3",
-      "rule": "T5",
-      "old_closed_preserved": 4042,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E3",
-      "rule": "T10",
-      "old_closed_preserved": 4042,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E3",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 4042,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "E3",
-      "rule": "BASE8",
-      "old_closed_preserved": 4040,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "PV2",
-      "rule": "F2",
-      "old_closed_preserved": 33640,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "PV2",
-      "rule": "F5",
-      "old_closed_preserved": 33570,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "PV2",
-      "rule": "F20",
-      "old_closed_preserved": 33106,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "PV2",
-      "rule": "F60",
-      "old_closed_preserved": 31822,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "PV2",
-      "rule": "T5",
-      "old_closed_preserved": 33558,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "PV2",
-      "rule": "T10",
-      "old_closed_preserved": 33406,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "PV2",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 33526,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "all",
-      "model": "PV2",
-      "rule": "BASE8",
-      "old_closed_preserved": 33334,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
       "mode": "topk",
       "model": "M1",
       "rule": "F2",
-      "old_closed_preserved": 9758,
+      "old_closed_preserved": 9768,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -887,7 +239,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "F20",
-      "old_closed_preserved": 9666,
+      "old_closed_preserved": 9670,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -896,7 +248,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "F60",
-      "old_closed_preserved": 9326,
+      "old_closed_preserved": 9338,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -905,7 +257,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "T5",
-      "old_closed_preserved": 9746,
+      "old_closed_preserved": 9750,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -932,79 +284,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "BASE8",
-      "old_closed_preserved": 9692,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M2",
-      "rule": "F2",
-      "old_closed_preserved": 8340,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M2",
-      "rule": "F5",
-      "old_closed_preserved": 8332,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M2",
-      "rule": "F20",
-      "old_closed_preserved": 8260,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M2",
-      "rule": "F60",
-      "old_closed_preserved": 7984,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M2",
-      "rule": "T5",
-      "old_closed_preserved": 8332,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M2",
-      "rule": "T10",
-      "old_closed_preserved": 8320,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M2",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 8312,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M2",
-      "rule": "BASE8",
-      "old_closed_preserved": 8300,
+      "old_closed_preserved": 9694,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1013,7 +293,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F2",
-      "old_closed_preserved": 12456,
+      "old_closed_preserved": 12468,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1022,7 +302,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F5",
-      "old_closed_preserved": 12420,
+      "old_closed_preserved": 12432,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1031,7 +311,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F20",
-      "old_closed_preserved": 12238,
+      "old_closed_preserved": 12250,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1040,7 +320,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F60",
-      "old_closed_preserved": 11782,
+      "old_closed_preserved": 11790,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1067,7 +347,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "ATR2.5",
-      "old_closed_preserved": 12386,
+      "old_closed_preserved": 12394,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1076,151 +356,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "BASE8",
-      "old_closed_preserved": 12278,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M4",
-      "rule": "F2",
-      "old_closed_preserved": 1696,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M4",
-      "rule": "F5",
-      "old_closed_preserved": 1688,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M4",
-      "rule": "F20",
-      "old_closed_preserved": 1646,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M4",
-      "rule": "F60",
-      "old_closed_preserved": 1588,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M4",
-      "rule": "T5",
-      "old_closed_preserved": 1684,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M4",
-      "rule": "T10",
-      "old_closed_preserved": 1658,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M4",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 1684,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M4",
-      "rule": "BASE8",
-      "old_closed_preserved": 1658,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M5",
-      "rule": "F2",
-      "old_closed_preserved": 1696,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M5",
-      "rule": "F5",
-      "old_closed_preserved": 1688,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M5",
-      "rule": "F20",
-      "old_closed_preserved": 1646,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M5",
-      "rule": "F60",
-      "old_closed_preserved": 1588,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M5",
-      "rule": "T5",
-      "old_closed_preserved": 1684,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M5",
-      "rule": "T10",
-      "old_closed_preserved": 1658,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M5",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 1684,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "M5",
-      "rule": "BASE8",
-      "old_closed_preserved": 1658,
+      "old_closed_preserved": 12282,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1247,7 +383,7 @@
       "mode": "topk",
       "model": "B1",
       "rule": "F20",
-      "old_closed_preserved": 2980,
+      "old_closed_preserved": 2988,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1265,7 +401,7 @@
       "mode": "topk",
       "model": "B1",
       "rule": "T5",
-      "old_closed_preserved": 3012,
+      "old_closed_preserved": 3016,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1274,7 +410,7 @@
       "mode": "topk",
       "model": "B1",
       "rule": "T10",
-      "old_closed_preserved": 2998,
+      "old_closed_preserved": 3002,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1283,7 +419,7 @@
       "mode": "topk",
       "model": "B1",
       "rule": "ATR2.5",
-      "old_closed_preserved": 3006,
+      "old_closed_preserved": 3014,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -1296,440 +432,8 @@
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "B0",
-      "rule": "F2",
-      "old_closed_preserved": 5526,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "B0",
-      "rule": "F5",
-      "old_closed_preserved": 5526,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "B0",
-      "rule": "F20",
-      "old_closed_preserved": 5458,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "B0",
-      "rule": "F60",
-      "old_closed_preserved": 5250,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "B0",
-      "rule": "T5",
-      "old_closed_preserved": 5512,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "B0",
-      "rule": "T10",
-      "old_closed_preserved": 5468,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "B0",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 5504,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "B0",
-      "rule": "BASE8",
-      "old_closed_preserved": 5460,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "HSC1",
-      "rule": "F2",
-      "old_closed_preserved": 7278,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "HSC1",
-      "rule": "F5",
-      "old_closed_preserved": 7270,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "HSC1",
-      "rule": "F20",
-      "old_closed_preserved": 7238,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "HSC1",
-      "rule": "F60",
-      "old_closed_preserved": 7104,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "HSC1",
-      "rule": "T5",
-      "old_closed_preserved": 7270,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "HSC1",
-      "rule": "T10",
-      "old_closed_preserved": 7258,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "HSC1",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 7262,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "HSC1",
-      "rule": "BASE8",
-      "old_closed_preserved": 7262,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E1",
-      "rule": "F2",
-      "old_closed_preserved": 9190,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E1",
-      "rule": "F5",
-      "old_closed_preserved": 9176,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E1",
-      "rule": "F20",
-      "old_closed_preserved": 9072,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E1",
-      "rule": "F60",
-      "old_closed_preserved": 8848,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E1",
-      "rule": "T5",
-      "old_closed_preserved": 9178,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E1",
-      "rule": "T10",
-      "old_closed_preserved": 9160,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E1",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 9168,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E1",
-      "rule": "BASE8",
-      "old_closed_preserved": 9118,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E2",
-      "rule": "F2",
-      "old_closed_preserved": 6840,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E2",
-      "rule": "F5",
-      "old_closed_preserved": 6836,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E2",
-      "rule": "F20",
-      "old_closed_preserved": 6796,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E2",
-      "rule": "F60",
-      "old_closed_preserved": 6648,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E2",
-      "rule": "T5",
-      "old_closed_preserved": 6836,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E2",
-      "rule": "T10",
-      "old_closed_preserved": 6832,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E2",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 6836,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E2",
-      "rule": "BASE8",
-      "old_closed_preserved": 6808,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E3",
-      "rule": "F2",
-      "old_closed_preserved": 2300,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E3",
-      "rule": "F5",
-      "old_closed_preserved": 2300,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E3",
-      "rule": "F20",
-      "old_closed_preserved": 2300,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E3",
-      "rule": "F60",
-      "old_closed_preserved": 2286,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E3",
-      "rule": "T5",
-      "old_closed_preserved": 2300,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E3",
-      "rule": "T10",
-      "old_closed_preserved": 2300,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E3",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 2300,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "E3",
-      "rule": "BASE8",
-      "old_closed_preserved": 2296,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "PV2",
-      "rule": "F2",
-      "old_closed_preserved": 12818,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "PV2",
-      "rule": "F5",
-      "old_closed_preserved": 12782,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "PV2",
-      "rule": "F20",
-      "old_closed_preserved": 12602,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "PV2",
-      "rule": "F60",
-      "old_closed_preserved": 12126,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "PV2",
-      "rule": "T5",
-      "old_closed_preserved": 12782,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "PV2",
-      "rule": "T10",
-      "old_closed_preserved": 12720,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "PV2",
-      "rule": "ATR2.5",
-      "old_closed_preserved": 12748,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
-    },
-    {
-      "mode": "topk",
-      "model": "PV2",
-      "rule": "BASE8",
-      "old_closed_preserved": 12624,
-      "daily_budget_checked": true,
-      "T_plus_one_checked": true,
-      "lots_checked": true
     }
   ],
-  "old_closed_rows_preserved": 1562490,
+  "old_closed_rows_preserved": 510218,
   "note": "Scenario rows overlap across modes/rules/k/sizing; not independent trades."
 }

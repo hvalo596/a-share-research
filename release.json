@@ -1,12 +1,12 @@
 {
-  "version": "20261106_reader_v2",
-  "price_cutoff": "2026-11-05",
-  "signal_scan_cutoff": "2026-11-05",
-  "backtest_cutoff": "2026-11-05",
+  "version": "20261106_close_v1",
+  "price_cutoff": "2026-11-06",
+  "signal_scan_cutoff": "2026-11-06",
+  "backtest_cutoff": "2026-11-06",
   "models": {
-    "M1": "2026-11-05",
-    "M3": "2026-11-05",
-    "B1": "2026-11-05"
+    "M1": "2026-11-06",
+    "M3": "2026-11-06",
+    "B1": "2026-11-06"
   },
   "maintenance_scope": {
     "version": "20261105_scope_v1",
@@ -70,7 +70,7 @@
     ],
     "note": "No strategy-rule change or return recertification; scope reduction only."
   },
-  "built_at": "2026-11-06T15:53:32.358481+08:00",
+  "built_at": "2026-11-08T14:28:47.151847+08:00",
   "index": "index.html",
   "model_casebook": "current/index.html",
   "performance": "current/performance.html",
@@ -98,8 +98,8 @@
     "source_note": "只使用11月2日及以前公开财报，研究文字写于11月6日；是事后补注，不是买入当时真实做过的基本面判断，也没有将这些文字作为历史选股过滤。尚未逐只核验财报后所有临时公告与行业份额。"
   },
   "fundamentals": "current/fundamentals.html",
-  "frontend_revision": "20261106-reader-windows235all-v1",
-  "frontend_optimized_at": "2026-11-06T15:53:50.033853+08:00",
+  "frontend_revision": "20261106-close-sixwindows-v1",
+  "frontend_optimized_at": "2026-11-08T14:28:55.692568+08:00",
   "independent_models": {
     "OV2": {
       "status": "paused_by_user",

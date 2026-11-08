@@ -7,7 +7,7 @@ function readerPeaks(r,p){
  const e=CAT.dates.indexOf(v(r,'entry_date')),q=+v(r,'quantity'),spent=+v(r,'spent_yuan'),cut=CAT.dates.indexOf(activeCutoff());
  if(e<0||!q||!spent||!p)return null;
  const by=new Map(p.bars.map(b=>[b[0],b])),acts=RD.actions[v(r,'symbol')]||{},values=[];let units=1,cash=0,bad=false,bonus=false;
- for(let t=e;t<=cut;t++){
+ for(let t=e;t<=Math.min(cut,e+60);t++){
   const date=CAT.dates[t],x=acts[date],b=by.get(t);
   if(x&&x.record_date>=CAT.dates[e]&&date>CAT.dates[e]){cash+=units*x.cash_per_share_gross*.8;units*=1+x.bonus_per_share;bad||=!!x.reference_unresolved;bonus||=x.bonus_per_share!==0}
   if(b&&b[7]&&!x)bad=true;
@@ -19,21 +19,25 @@ function readerPeaks(r,p){
   if(x){if(x.reference_unresolved)sellable=false;ref=(ref-x.reference_cash_per_share)/(1+(x.reference_bonus_per_share??x.bonus_per_share))}
   if(b[7]&&!x)sellable=false;
   if(!(ref>0)||b[4]<=Math.round(ref*.95*100)/100+.011)sellable=false;
-  values.push({t,ret,net,raw:b[4],units,cash,bad,bonus,sellable,missing:false})
+  const highSale=q*units*b[2]*.999,highNet=highSale+q*cash-readerFee(highSale,date),highRet=(highNet/spent-1)*100;values.push({t,ret,net,raw:b[4],highRet,highNet,highRaw:b[2],units,cash,bad,bonus,sellable,missing:false})
  }
- return [2,3,5,null].map(n=>{
+ return [2,5,10,20,40,60].map(n=>{
   const end=n===null?cut:Math.min(cut,e+n),z=values.filter(x=>x.t<=end),ok=z.filter(x=>!x.missing),sell=ok.filter(x=>x.sellable&&!x.bad&&!x.bonus),best=ok.reduce((a,b)=>!a||b.ret>a.ret?b:a,null),feasible=sell.reduce((a,b)=>!a||b.ret>a.ret?b:a,null);
-  return {n,end,mature:n===null||cut>=e+n,expected:Math.max(0,end-e),observed:ok.length,missing:z.some(x=>x.missing),bad:z.some(x=>x.bad),bonus:z.some(x=>x.bonus),best,feasible,e}
+  const highBest=ok.reduce((a,b)=>!a||b.highRet>a.highRet?b:a,null);return {highBest,n,end,mature:n===null||cut>=e+n,expected:Math.max(0,end-e),observed:ok.length,missing:z.some(x=>x.missing),bad:z.some(x=>x.bad),bonus:z.some(x=>x.bonus),best,feasible,e}
  })
 }
 function renderEnhancements(r){
  let box=document.getElementById('holdPeaks');if(!box){box=document.createElement('section');box.id='holdPeaks';const anchor=document.querySelector('#detail .detailnote');anchor?.insertAdjacentElement('afterend',box)}
  if(!box)return;const peaks=readerPeaks(r,S.price);
- if(!peaks){box.innerHTML='<h3>持有不动 · 事后最高收盘净收益</h3><p class="muted">'+(filled(r)?'该股票冻结档案缺少可用报价，不能计算最高收益。':'未实际买入的记录不计算最高收益。')+'</p>';return}
- box.innerHTML='<h3>持有不动 · 事后最高收盘净收益</h3><div class="peakgrid">'+peaks.map(x=>{
- const b=x.best,title=x.n===null?'持有至数据截止':`买入后${x.n}个交易日内`;
- return `<div><span>${title}${!x.mature?' · 未满窗口':''}</span><strong class="${b?cls(b.ret):''}">${b?pct(b.ret):'暂无可观察收盘'}</strong><small>${b?`峰值 ${CAT.dates[b.t]} · 买入后第${b.t-x.e}个交易日`:'T+1起才进入统计'}</small><small>${b?`当日原始收盘 ${num(b.raw,4)}元；假设净盈亏 ${money(b.net-v(r,'spent_yuan'))}元`:''}</small><small>报价 ${x.observed}/${x.expected}日${x.missing?' · 有缺口':''}${x.bad?' · 公司行动未决，仅作参考':''}${x.bonus?' · 送转可交易日未核':''}</small><small>通过保守卖出代理的峰值：${x.feasible?pct(x.feasible.ret)+'（'+CAT.dates[x.feasible.t]+'）':'无可核实观察'}</small></div>`
- }).join('')+'</div><details><summary>统计口径</summary><p>2/3/5日不含买入日，以交易所交易日计；窗口内从T+1起选最高收盘，不是第N天的收益。最后一档只到该模型真实截止（'+activeCutoff()+'），不是股票一生的最高价。即使最高值仍为负，也如实展示。</p><p>同一实际买价、股数及含费成本；假设卖出滑点0.1%、最低佣金5元、历史印花税/过户费；已知送转与20%税后红利应收纳入经济价值。未决公司行动、未知送股上市日、停牌和跌停代理有局限。可售代理仅是保守日线检查，不能保证成交。</p><p>这些是事后路径诊断，没有用于原买卖规则，也不加入策略实际盈利。不同买点观察长度不同；未满窗口与缺数据都不能当成完整样本。</p></details>';
+ const title=document.querySelector('#detail .stocktitle');
+ if(title){let near=document.getElementById('peakBesideReturn');if(!near){near=document.createElement('div');near.id='peakBesideReturn';near.className='peak-beside-return';title.appendChild(near)}
+ near.innerHTML='<small>事后最高价估算净收益 · 固定交易日窗口</small>'+(peaks?peaks.map(x=>'<span>'+x.n+'日内 <b class="'+(x.highBest?cls(x.highBest.highRet):'')+'">'+(x.highBest?pct(x.highBest.highRet):'待观察')+'</b>'+(!x.mature?' <em>未满</em>':'')+(x.missing||x.bad||x.bonus?' <em>待核</em>':'')+'</span>').join(''):'<span>未成交或缺行情，无法计算</span>');}
+
+ if(!peaks){box.innerHTML='<h3>固定窗口 · 事后最高收益</h3><p class="muted">'+(filled(r)?'该股票冻结档案缺少可用报价，不能计算最高收益。':'未实际买入的记录不计算最高收益。')+'</p>';return}
+ box.innerHTML='<h3>买入后固定窗口 · 事后最高收益</h3><div class="peakgrid">'+peaks.map(x=>{
+ const h=x.highBest,b=x.best;
+ return `<div><span>买入后${x.n}个交易日内${!x.mature?' · 未满窗口':''}</span><strong class="${h?cls(h.highRet):''}">${h?pct(h.highRet):'暂无可观察报价'}</strong><small>区间最高价估算净收益；${h?CAT.dates[h.t]+' · 原始最高价 '+num(h.highRaw,4)+'元':''}</small><small>最高收盘净收益：${b?pct(b.ret)+'（'+CAT.dates[b.t]+'）':'暂无'}</small><small>报价 ${x.observed}/${x.expected}日${x.missing?' · 有缺口':''}${x.bad?' · 公司行动未决':''}${x.bonus?' · 送转可交易日未核':''}</small></div>`
+ }).join('')+'</div><details><summary>统计口径</summary><p>固定为买入后2、5、10、20、40、60个交易日，买入日不计入，首个观察日为T+1；每档取区间内最高值，不是第N天收益。只显示六档，不延伸为无限期持有。未满窗口只展示已经观察的部分，明确标注未满。</p><p>最高价估算采用日线最高价，最高收盘采用收盘价，均以同一买价/股数扣费用和假设滑点，并计已知公司行动经济价值。最高价可能无法成交，不能称为最优可执行止损；未决行动、停牌和送转到账日仍有缺口。</p><p>这是事后路径统计，不属于原策略实际收益，也不用于事前选择卖出日。</p></details>';
 }
 function readerMonthTable(rows,calendar=false){return '<div class="tablewrap"><table><thead><tr><th>月份</th><th>'+ (calendar?'自然月估值增量':'该月买点最终/截止盈亏')+'</th><th>该月计划预算</th><th>该月实际投入</th><th>'+(calendar?'收益率':'盈亏 / 计划预算')+'</th><th>'+(calendar?'估值缺口 / 行动未决':'已买笔数')+'</th></tr></thead><tbody>'+rows.map(x=>`<tr><td>${x.month}</td><td class="${cls(calendar?x.pnl:x.cohort_pnl)}">${money(calendar?x.pnl:x.cohort_pnl)}元</td><td>${money(x.budget)}</td><td>${money(x.spent)}</td><td>${calendar?'—':pct(x.budget?x.cohort_pnl/x.budget*100:null)}</td><td>${calendar?x.mark_missing+' / '+x.action_unresolved:x.fills}</td></tr>`).join('')+'</tbody></table></div>'}
 function renderMonthly(){

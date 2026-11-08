@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-06T15:53:27.385527+08:00",
+  "at": "2026-11-08T14:28:43.593425+08:00",
   "active_models": [
     "M1",
     "M3",
@@ -30,6 +30,6 @@
   "archive_originals_unchanged": true,
   "strategy_rules_changed": false,
   "cash_accounts": 96,
-  "price_cutoff": "2026-11-05",
+  "price_cutoff": "2026-11-06",
   "removed_current_bytes": 0
 }

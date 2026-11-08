@@ -11,10 +11,10 @@
   h+=`<div class="rf-metrics"><div><small>参照收盘 · ${e(c.reference_date)}</small><b>${n(c.reference_close)}元</b></div><div><small>以三季股本估算市值</small><b>${yi(c.reference_close*f.shares)}</b></div><div><small>前三季归母</small><b>${yi(f.values.profit)}</b></div><div><small>前三季扣非</small><b>${yi(f.values.recurring)}</b></div></div>`;
   h+=`<h4>这门生意如何赚钱</h4><p>${e(c.business)}</p><p>${e(c.ecosystem)}</p><h4>行业位置与对手</h4><p>${e(c.rank_status)}</p><p><b>业务对照：</b>${e(c.peers.join('、'))}。${e(c.peer_note)}</p><h4>增长要靠什么兑现</h4><p>${e(c.plans)}</p><p class="rf-risk"><b>最强反证：</b>${e(c.falsifier)}</p>`;
   h+='<h4>我们自己的估值</h4>';
-  if(v.status==='withheld')h+=`<div class="rf-risk"><b>暂不提供可靠价值区间</b><p>${e(v.reason)}</p><p>${e(v.needed)}</p></div>`;
+  if(v.status==='withheld')h+=`<div class="rf-risk"><b>目前给不了可靠的每股估值</b><p>${e(v.reason)}</p><p>${e(v.needed)}</p></div>`;
   else{
    let lo=Math.min(...vs.map(x=>x.present_value_per_share)),hi=Math.max(...vs.map(x=>x.present_value_per_share));
-   h+=`<p><b>本套假设下的今日价值：${n(lo)}—${n(hi)}元/股；基准 ${n(base.present_value_per_share)}元。</b>参照价格 ${n(c.reference_close)}元（11月5日，不是实时行情）。这是初步敏感性模型，尚未达到投资决策标准。</p><p>${e(v.rationale)}</p><div class="rf-table"><table><thead><tr><th>情景</th>`;
+   h+=`<p><b>初步情景现值（元/股）：${n(lo)}—${n(hi)}元/股；基准 ${n(base.present_value_per_share)}元。</b>参照价格 ${n(c.reference_close)}元（11月5日，不是实时行情）。这是未充分验证的假设区间，目前还不能给出可靠估值或作为买入依据。</p><p>${e(v.rationale)}</p><div class="rf-table"><table><thead><tr><th>情景</th>`;
    h+=v.method==='equity_cash_scenarios'?'<th>正常年归母利润</th><th>可分配比例</th><th>五年增速 / 要求回报 / 永续</th>':'<th>未来5年ROE</th><th>分红率</th><th>要求回报率</th>';
    h+='<th>今日现值/股</th><th>第5年剩余价值/股</th><th>前5年累计分配/股</th></tr></thead><tbody>';
    h+=vs.map(x=>`<tr><td>${e(x.name)}</td>${v.method==='equity_cash_scenarios'?`<td>${yi(x.normal_profit_yuan)}</td><td>${p(x.cash_conversion)}</td><td>${p(x.growth_5y)} / ${p(x.discount)} / ${p(x.terminal_growth)}</td>`:`<td>${p(x.roe)}</td><td>${p(x.payout)}</td><td>${p(x.required_return)}</td>`}<td>${n(x.present_value_per_share)}元</td><td>${n(x.year5_remaining_value_per_share)}元</td><td>${n(x.cash_paid_5years_per_share)}元</td></tr>`).join('')+'</tbody></table></div>';

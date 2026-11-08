@@ -1,14 +1,10 @@
 {
-  "at": "2026-11-05T15:25:47.775082+08:00",
+  "at": "2026-11-06T21:28:22.562242+08:00",
   "scan_start": "2026-10-19",
-  "cutoff": "2026-11-05",
+  "cutoff": "2026-11-06",
   "models": [
     "M1",
-    "M2",
-    "M3",
-    "M4",
-    "M5",
-    "PV2"
+    "M3"
   ],
   "tuning": false,
   "source_formula_files": [
@@ -25,8 +21,8 @@
       "sha256": "2c7dc1441c33186a4ca6d80b8b17fddaac3f21fbe6791a67863732b8650dc5f9"
     },
     {
-      "path": "D:\\A股低位放量研究\\experiments\\20261105_close_refresh\\src\\complete_legacy_scans.py",
-      "sha256": "7df39ca26f2b9d3249b71a090432c9a2cff0e1e65fa9d70d91c93873d4cce783"
+      "path": "D:\\A股低位放量研究\\experiments\\20261106_close_refresh\\src\\scoped_legacy_scan.py",
+      "sha256": "939148efedb524879b52dd054fa051ac54b270eb37afda6d189fe6286981eccc"
     }
   ],
   "definition": "Preserve old signals through 2026-10-16. Append independent continuation v1 from original hfeatures/checks/research/strict-base formulas; original historical qfq retained and new unadjusted prices anchored to last historical factor. Corrected/volume extensions exclude known corporate action in prior61, in addition to original factor-change guard. No signal requires future outcomes. M1 intentionally retains original close-times-volume approximate amount and raw-price defects as diagnostic.",
@@ -120,12 +116,8 @@
   ],
   "formula_equivalence_mismatches": [],
   "new_signal_counts": {
-    "PV2": 135,
-    "M3": 123,
-    "M4": 4,
-    "M5": 4,
-    "M1": 25,
-    "M2": 19
+    "M3": 127,
+    "M1": 28
   },
   "original_sources_preserved": true
 }
