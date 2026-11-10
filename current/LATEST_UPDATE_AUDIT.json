@@ -1,7 +1,7 @@
 {
-  "source_data": "D:\\A股低位放量研究\\experiments\\20261022_exit_confirmation\\data\\latest_20261106_qq",
-  "price_target": "2026-11-06",
-  "backtest_cutoff": "2026-11-06",
+  "source_data": "D:\\A股低位放量研究\\experiments\\20261022_exit_confirmation\\data\\latest_20261109_qq",
+  "price_target": "2026-11-09",
+  "backtest_cutoff": "2026-11-09",
   "coverage": {
     "stocks": 3106,
     "at_target": 3039

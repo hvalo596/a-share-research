@@ -1,8 +1,8 @@
 {
-  "at": "2026-11-06T21:40:50.207589+08:00",
+  "at": "2026-11-10T12:18:31.713822+08:00",
   "passed": true,
   "base_cutoff": "2026-10-19",
-  "target": "2026-11-06",
+  "target": "2026-11-09",
   "chart_symbols_repaired": 0,
   "chart_bars_restored": 0,
   "affected_source_symbols_not_in_casebook": [],
