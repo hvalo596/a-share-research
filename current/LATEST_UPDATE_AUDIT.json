@@ -1,10 +1,10 @@
 {
-  "source_data": "D:\\A股低位放量研究\\experiments\\20261022_exit_confirmation\\data\\latest_20261109_qq",
-  "price_target": "2026-11-09",
-  "backtest_cutoff": "2026-11-09",
+  "source_data": "D:\\A股低位放量研究\\experiments\\20261022_exit_confirmation\\data\\latest_20261110_qq",
+  "price_target": "2026-11-10",
+  "backtest_cutoff": "2026-11-10",
   "coverage": {
-    "stocks": 3106,
-    "at_target": 3039
+    "stocks": 3107,
+    "at_target": 3041
   },
   "derived_from": "fresh verified raw incremental bars; historical base immutable",
   "assembled_chart_history_audit": "CHART_ASSEMBLY_REPAIR_AUDIT.json",

@@ -1,12 +1,12 @@
 {
-  "version": "20261109_close_v1",
-  "price_cutoff": "2026-11-09",
-  "signal_scan_cutoff": "2026-11-09",
-  "backtest_cutoff": "2026-11-09",
+  "version": "20261110_close_v1",
+  "price_cutoff": "2026-11-10",
+  "signal_scan_cutoff": "2026-11-10",
+  "backtest_cutoff": "2026-11-10",
   "models": {
-    "M1": "2026-11-09",
-    "M3": "2026-11-09",
-    "B1": "2026-11-09"
+    "M1": "2026-11-10",
+    "M3": "2026-11-10",
+    "B1": "2026-11-10"
   },
   "maintenance_scope": {
     "version": "20261105_scope_v1",
@@ -70,7 +70,7 @@
     ],
     "note": "No strategy-rule change or return recertification; scope reduction only."
   },
-  "built_at": "2026-11-10T12:21:18.864532+08:00",
+  "built_at": "2026-11-11T13:04:23.555000+08:00",
   "index": "index.html",
   "model_casebook": "current/index.html",
   "performance": "current/performance.html",
@@ -99,7 +99,7 @@
   },
   "fundamentals": "current/fundamentals.html",
   "frontend_revision": "20261106-close-sixwindows-v1",
-  "frontend_optimized_at": "2026-11-10T12:21:28.352756+08:00",
+  "frontend_optimized_at": "2026-11-11T13:04:31.695816+08:00",
   "independent_models": {
     "OV2": {
       "status": "paused_by_user",

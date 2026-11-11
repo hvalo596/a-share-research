@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T12:18:27.437590+08:00",
-  "cutoff": "2026-11-09",
+  "generated_at": "2026-11-11T12:52:14.343413+08:00",
+  "cutoff": "2026-11-10",
   "research_start": "2021-10-18",
   "models": [
     "M1",
@@ -37,44 +37,44 @@
       "mode": "topk",
       "model": "M1",
       "sizing": "integer_lots",
-      "rows": 39632,
-      "stocks": 1423,
+      "rows": 39680,
+      "stocks": 1424,
       "file": "data/topk_M1_integer_lots.js",
-      "raw_bytes": 18383287,
-      "bytes": 6999883
+      "raw_bytes": 18403271,
+      "bytes": 7003447
     },
     {
       "key": "topk_M1_fractional_fee_diagnostic",
       "mode": "topk",
       "model": "M1",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 39632,
-      "stocks": 1423,
+      "rows": 39680,
+      "stocks": 1424,
       "file": "data/topk_M1_fractional_fee_diagnostic.js",
-      "raw_bytes": 18918145,
-      "bytes": 6463727
+      "raw_bytes": 18938448,
+      "bytes": 6467379
     },
     {
       "key": "topk_M3_integer_lots",
       "mode": "topk",
       "model": "M3",
       "sizing": "integer_lots",
-      "rows": 50776,
-      "stocks": 2071,
+      "rows": 50824,
+      "stocks": 2073,
       "file": "data/topk_M3_integer_lots.js",
-      "raw_bytes": 24346211,
-      "bytes": 9985567
+      "raw_bytes": 24366830,
+      "bytes": 10007479
     },
     {
       "key": "topk_M3_fractional_fee_diagnostic",
       "mode": "topk",
       "model": "M3",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 50776,
-      "stocks": 2071,
+      "rows": 50824,
+      "stocks": 2073,
       "file": "data/topk_M3_fractional_fee_diagnostic.js",
-      "raw_bytes": 24894791,
-      "bytes": 9227959
+      "raw_bytes": 24915383,
+      "bytes": 9249907
     },
     {
       "key": "topk_B1_integer_lots",
@@ -84,8 +84,8 @@
       "rows": 12296,
       "stocks": 743,
       "file": "data/topk_B1_integer_lots.js",
-      "raw_bytes": 5881278,
-      "bytes": 2402599
+      "raw_bytes": 5881439,
+      "bytes": 2402659
     },
     {
       "key": "topk_B1_fractional_fee_diagnostic",
@@ -95,52 +95,52 @@
       "rows": 12296,
       "stocks": 743,
       "file": "data/topk_B1_fractional_fee_diagnostic.js",
-      "raw_bytes": 5987420,
-      "bytes": 2175827
+      "raw_bytes": 5987561,
+      "bytes": 2175867
     },
     {
       "key": "all_M1_integer_lots",
       "mode": "all",
       "model": "M1",
       "sizing": "integer_lots",
-      "rows": 45672,
-      "stocks": 1830,
+      "rows": 45768,
+      "stocks": 1832,
       "file": "data/all_M1_integer_lots.js",
-      "raw_bytes": 20710547,
-      "bytes": 6434391
+      "raw_bytes": 20745600,
+      "bytes": 6438339
     },
     {
       "key": "all_M1_fractional_fee_diagnostic",
       "mode": "all",
       "model": "M1",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 45672,
-      "stocks": 1830,
+      "rows": 45768,
+      "stocks": 1832,
       "file": "data/all_M1_fractional_fee_diagnostic.js",
-      "raw_bytes": 22635837,
-      "bytes": 7313039
+      "raw_bytes": 22671120,
+      "bytes": 7316719
     },
     {
       "key": "all_M3_integer_lots",
       "mode": "all",
       "model": "M3",
       "sizing": "integer_lots",
-      "rows": 104984,
+      "rows": 105016,
       "stocks": 2913,
       "file": "data/all_M3_integer_lots.js",
-      "raw_bytes": 48346704,
-      "bytes": 15630155
+      "raw_bytes": 48359992,
+      "bytes": 15634299
     },
     {
       "key": "all_M3_fractional_fee_diagnostic",
       "mode": "all",
       "model": "M3",
       "sizing": "fractional_fee_diagnostic",
-      "rows": 104984,
+      "rows": 105016,
       "stocks": 2913,
       "file": "data/all_M3_fractional_fee_diagnostic.js",
-      "raw_bytes": 53672913,
-      "bytes": 18799131
+      "raw_bytes": 53685953,
+      "bytes": 18802895
     },
     {
       "key": "all_B1_integer_lots",
@@ -150,8 +150,8 @@
       "rows": 8248,
       "stocks": 865,
       "file": "data/all_B1_integer_lots.js",
-      "raw_bytes": 3973190,
-      "bytes": 1520959
+      "raw_bytes": 3973285,
+      "bytes": 1521039
     },
     {
       "key": "all_B1_fractional_fee_diagnostic",
@@ -161,30 +161,30 @@
       "rows": 8248,
       "stocks": 865,
       "file": "data/all_B1_fractional_fee_diagnostic.js",
-      "raw_bytes": 4121102,
-      "bytes": 1453803
+      "raw_bytes": 4121183,
+      "bytes": 1453815
     },
     {
       "key": "account_M1_integer_lots",
       "mode": "account",
       "model": "M1",
       "sizing": "integer_lots",
-      "rows": 94465,
+      "rows": 94529,
       "stocks": 1830,
       "file": "data/account_M1_integer_lots.js",
-      "raw_bytes": 29283782,
-      "bytes": 2257427
+      "raw_bytes": 29303798,
+      "bytes": 2259595
     },
     {
       "key": "account_M3_integer_lots",
       "mode": "account",
       "model": "M3",
       "sizing": "integer_lots",
-      "rows": 220370,
+      "rows": 220434,
       "stocks": 2913,
       "file": "data/account_M3_integer_lots.js",
-      "raw_bytes": 67269619,
-      "bytes": 5187459
+      "raw_bytes": 67289290,
+      "bytes": 5189031
     },
     {
       "key": "account_B1_integer_lots",
@@ -194,32 +194,32 @@
       "rows": 17243,
       "stocks": 865,
       "file": "data/account_B1_integer_lots.js",
-      "raw_bytes": 5708287,
-      "bytes": 838747
+      "raw_bytes": 5708443,
+      "bytes": 838771
     }
   ],
   "counts": {
-    "topk": 205408,
-    "all": 317808,
-    "account": 332078
+    "topk": 205600,
+    "all": 318064,
+    "account": 332206
   },
-  "unique_symbols": 3106,
-  "unique_symbol_entry_days": 20013,
+  "unique_symbols": 3107,
+  "unique_symbol_entry_days": 20017,
   "financial_matched_entries": 80,
   "method_note": "Daily total10000 split over actual top2/top4, independent daily tranches. Initial10000 constrained cash accounts separate. Never sum scenarios.",
-  "price_cutoff": "2026-11-09",
-  "backtest_cutoff": "2026-11-09",
-  "latest_signal_scan_cutoff": "2026-11-09",
+  "price_cutoff": "2026-11-10",
+  "backtest_cutoff": "2026-11-10",
+  "latest_signal_scan_cutoff": "2026-11-10",
   "signal_scan_cutoff_by_model": {
-    "M1": "2026-11-09",
-    "M3": "2026-11-09",
-    "B1": "2026-11-09"
+    "M1": "2026-11-10",
+    "M3": "2026-11-10",
+    "B1": "2026-11-10"
   },
-  "web_version": "20261109_close_v1",
+  "web_version": "20261110_close_v1",
   "latest_chart_coverage": {
-    "stocks": 3106,
-    "at_target": 3039,
-    "target": "2026-11-09"
+    "stocks": 3107,
+    "at_target": 3041,
+    "target": "2026-11-10"
   },
   "missing_price_files": [],
   "maintenance_scope": "20261105_scope_v1"
