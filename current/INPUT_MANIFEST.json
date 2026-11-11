@@ -1,722 +1,722 @@
 [
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M1_F2_top2_top4.csv",
-    "bytes": 5781418,
-    "sha256": "7e3cc2262d7430144ddd88b102e34339b244c1617ddedbc86a3177f9a0c58a2a"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M1_F2_top2_top4.csv",
+    "bytes": 5789080,
+    "sha256": "aa39646eb1ea0392cd92a2f26e17b03c862faec563e0030bdc0891ba82c68077"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M1_F5_top2_top4.csv",
-    "bytes": 5780455,
-    "sha256": "050e1fa66c097e8e8f5e1392d42b70a1d29f0db8691fd0324327979d486be485"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M1_F5_top2_top4.csv",
+    "bytes": 5788049,
+    "sha256": "cc698f4ac3b46c9b7feac29dafcfdc16bb4d3284693c84c50fc23356728b3058"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M1_F20_top2_top4.csv",
-    "bytes": 5814141,
-    "sha256": "69a0581c6441830b22b72d816348a3b7011f235d1ef67c0f515c3154adae06ee"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M1_F20_top2_top4.csv",
+    "bytes": 5821812,
+    "sha256": "585394b7e4c83dc210e67f86172c20c69158bde86ee8b2cf8e2374054f685da6"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M1_F60_top2_top4.csv",
-    "bytes": 5822516,
-    "sha256": "fe81eef629b1015cf321c00b76c051e3134df49184f753099be4c578ca6aba5e"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M1_F60_top2_top4.csv",
+    "bytes": 5830594,
+    "sha256": "bd7871571349ea919a1ffa06383abcfc722a3f5ee10a7263c352002f4ac9612e"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M1_T5_top2_top4.csv",
-    "bytes": 5843203,
-    "sha256": "8aec99e2c18509bce478cc24c2039ba074aa8f70f88c659735a72d439bd7a54b"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M1_T5_top2_top4.csv",
+    "bytes": 5850778,
+    "sha256": "3f0c787f906f44ca17af83ef35dc550aae24bb8c9450fba695a6df20ad18ed73"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M1_T10_top2_top4.csv",
-    "bytes": 5903468,
-    "sha256": "b6599251ba5bd878caca4e541c36d9cb4476027ec6a09f7e681262236c7da62c"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M1_T10_top2_top4.csv",
+    "bytes": 5910996,
+    "sha256": "31c669fc0d80ca30fcdf5181a49155b951115b7d2cfb4cdd11f29e0146cdc7ae"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M1_ATR2p5_top2_top4.csv",
-    "bytes": 5940163,
-    "sha256": "022284f01a4c857c139f1e6f99fc2aa5034fb21c1c4ac5d421e7397b27e24c30"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M1_ATR2p5_top2_top4.csv",
+    "bytes": 5947896,
+    "sha256": "7195717925585b7d3e35121555185dd586c49a7b9a61dd750f575a80a274eeca"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M1_BASE8_top2_top4.csv",
-    "bytes": 5908913,
-    "sha256": "0451111cd990e7c5dd1335a3f6c890b7007d3e25d3c670b297fb8773a2312730"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M1_BASE8_top2_top4.csv",
+    "bytes": 5916555,
+    "sha256": "71809d740ec5c77ef0748dcf46db082b5e325631f13a7afd1de3b38e0112c7d4"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M3_F2_top2_top4.csv",
-    "bytes": 7575917,
-    "sha256": "2cdc102aca3f3f4d9dd1c45619ef2e48ad4d61245efd32d101374b893b77f1f2"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M3_F2_top2_top4.csv",
+    "bytes": 7583704,
+    "sha256": "053ada402ffb54c6455ca98103a722b7d571c40f6b66611515fb47948663bdda"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M3_F5_top2_top4.csv",
-    "bytes": 7577473,
-    "sha256": "dd7ea15afb58a039d5a93c3d1bef35ffd25998aafda813f0938f6e0d1769ed31"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M3_F5_top2_top4.csv",
+    "bytes": 7585415,
+    "sha256": "577bfafade0e52ea4ba4e9be090f24ad4bf6be97ac3b197543f7f92752cb7f87"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M3_F20_top2_top4.csv",
-    "bytes": 7615271,
-    "sha256": "d2646b67853a375f09e524feaab2f0c2ff047db754ac6344c386ce598ee522c6"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M3_F20_top2_top4.csv",
+    "bytes": 7623094,
+    "sha256": "3a6f357561a11fdaa70114a919b96963a5988742ad4f2b8461b4966088e8f22b"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M3_F60_top2_top4.csv",
-    "bytes": 7615882,
-    "sha256": "be8c9a8ca72eb57febc9790d84cab73bcbb598a54d9c51a8b6c682f3302d5597"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M3_F60_top2_top4.csv",
+    "bytes": 7623829,
+    "sha256": "76d736f3cc5e0fd024b1270cb0074d491d533bfa09bebf3392d6a9b5153d7b62"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M3_T5_top2_top4.csv",
-    "bytes": 7666424,
-    "sha256": "39ec71c11ba85ff57602ee46560d751c9bc10da5e1a2ec97877638e6b0d89e04"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M3_T5_top2_top4.csv",
+    "bytes": 7674683,
+    "sha256": "6b0097e1807ed63e310c0a4d6294d9f60ad533a998860c10864e0fd0ea7963e0"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M3_T10_top2_top4.csv",
-    "bytes": 7720701,
-    "sha256": "bb87524354c147d0988139b4cba971ac7537b5d42b02611954c7351f42b51c40"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M3_T10_top2_top4.csv",
+    "bytes": 7728525,
+    "sha256": "b2b89cf7adeefdb78e292def5e3c602609a005a1a4f389d67f808efa979be700"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M3_ATR2p5_top2_top4.csv",
-    "bytes": 7766819,
-    "sha256": "8f127ecab26568976f0b88a20e2f185ed2c075a5fbae52d25f6e9bea4f99e6f0"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M3_ATR2p5_top2_top4.csv",
+    "bytes": 7774898,
+    "sha256": "55eaeb333a5794ea940ba7fbdb04ce1de5667e762adf72f16763c14c5a59423b"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\M3_BASE8_top2_top4.csv",
-    "bytes": 7757298,
-    "sha256": "861db7e6968eee8287f6a19c05ae545c8aa691d61e50070c029e93fc58d3e684"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\M3_BASE8_top2_top4.csv",
+    "bytes": 7765366,
+    "sha256": "8afdbacc4b630c0bac92118361a4e6d983b2a7859bd91e54d95f07534b9d26b8"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\B1_F2_top2_top4.csv",
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\B1_F2_top2_top4.csv",
     "bytes": 1818554,
-    "sha256": "63df609e20d30820cce37299e4eb3757c1e8c9ee6c473344d02da3e7c724452a"
+    "sha256": "7eacdb45d9ec75e41222c31215efe82518dd5f67aceb48d12dad205dafaa956a"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\B1_F5_top2_top4.csv",
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\B1_F5_top2_top4.csv",
     "bytes": 1824186,
-    "sha256": "a06b32bb89fc7c263adf56d835f3818dc80508ce9972a2f5b57f0dd724c640f3"
+    "sha256": "f2e11b67ce9acfb280f4b39dbbda7d4357c3defa84f1701819cb155ed6889ec0"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\B1_F20_top2_top4.csv",
-    "bytes": 1832146,
-    "sha256": "84138bc58ca30e3df315e24f1f71c43752e759097ac4b577196b5dbdbbee805f"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\B1_F20_top2_top4.csv",
+    "bytes": 1832126,
+    "sha256": "bcc9757d4182d47bc50100f4081c319fb1a10a494a905f62f8a86d68e24530f1"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\B1_F60_top2_top4.csv",
-    "bytes": 1833527,
-    "sha256": "bad4ab282e28680463f1a5ed396ffea2f6e72910c371b9d9650692b7b0fb4de4"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\B1_F60_top2_top4.csv",
+    "bytes": 1833626,
+    "sha256": "97d4c02d70e1525944b07cf1b666af934f4dfd4cd0302384e200a475081be4b0"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\B1_T5_top2_top4.csv",
-    "bytes": 1846853,
-    "sha256": "11df414069dcc88e3e513512a814618b240257472134efc4454c5c3b32e6b171"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\B1_T5_top2_top4.csv",
+    "bytes": 1846887,
+    "sha256": "8cf8ec6d9b0efae1a323b74cc25bf443ae0d47a577de3e3f60ffa6c4df9ff2f4"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\B1_T10_top2_top4.csv",
-    "bytes": 1858613,
-    "sha256": "64d3c1fc1d8caa03a211059121bec9b4529ff27b6ab7c5e5d3007d5b475a601f"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\B1_T10_top2_top4.csv",
+    "bytes": 1858646,
+    "sha256": "0ba8417534696665e33048a66fca1369d870b0589427523a90cdcf018e3df9c3"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\B1_ATR2p5_top2_top4.csv",
-    "bytes": 1869021,
-    "sha256": "fffefae5b769bd3338acaaec92a59acc84846b892ba158faaad4f144c2b27d09"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\B1_ATR2p5_top2_top4.csv",
+    "bytes": 1869126,
+    "sha256": "0c72cdf58b43fad1529a39f21fa6d09d68b20a13157ee38fdae8b6f37c499585"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results_daily_topk\\trades\\B1_BASE8_top2_top4.csv",
-    "bytes": 1860510,
-    "sha256": "495c0a05cb46422f43f564f4a65046dfa9be13b1a802c4adbd4dfb2e022ee88d"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results_daily_topk\\trades\\B1_BASE8_top2_top4.csv",
+    "bytes": 1860617,
+    "sha256": "bd0b6b0ad2995fc2d81f2febb87766720c23e647f2ded29d6afab62622fccdb9"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M1_F2_trades.csv",
-    "bytes": 6531706,
-    "sha256": "6360cd706653b5b471355e6eea73c23c87d6a545e847f1eca79df5a0d4cf304d"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M1_F2_trades.csv",
+    "bytes": 6546766,
+    "sha256": "1598ec6117b2c1b3e375e46735ec7d0ee655992b3aa9d9b118569221d27f2f92"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M1_F5_trades.csv",
-    "bytes": 6532811,
-    "sha256": "26bb2918770ddeee84ee38cc2a5ddae1922ac9f61e4f79c057e2898ceeff8e75"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M1_F5_trades.csv",
+    "bytes": 6547825,
+    "sha256": "3f6d880b1bbb48efe38761ef6191f6afd3e86f15c432d944a0492c745afbfa95"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M1_F20_trades.csv",
-    "bytes": 6570311,
-    "sha256": "fe3191fe105a629375133ea23d5994a6970d6913b64801725485951502ba0b61"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M1_F20_trades.csv",
+    "bytes": 6585389,
+    "sha256": "27213ab54a72a6f1af577124541c25d48b3fdfb4eff172ece4a3ee2c7427b918"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M1_F60_trades.csv",
-    "bytes": 6583669,
-    "sha256": "ee075598b519dbc21beb02d3b0f6635336db47b0a52d6c3814841267626b39b7"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M1_F60_trades.csv",
+    "bytes": 6599035,
+    "sha256": "56cecac86f3a9608d7ad6919c00f4ec777a5f25e8490736817c60c182009dcd7"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M1_T5_trades.csv",
-    "bytes": 6606938,
-    "sha256": "c23a3adcbf17c8046185eab20caee7f7c6ddd200d84751c6e7feffd533541fcd"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M1_T5_trades.csv",
+    "bytes": 6621955,
+    "sha256": "2d76ebe47bd1778533db8f6bd0c7dc85df1d1eff92389df2a63480994d08385b"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M1_T10_trades.csv",
-    "bytes": 6672067,
-    "sha256": "e9fe3ddb598a5aa0f3263d15f9eebdbbf8dd7c35147aae9ac6bb7f3dd93a02e2"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M1_T10_trades.csv",
+    "bytes": 6687084,
+    "sha256": "5de6956714ee82281fef0660fd93e8b517e5fa580276e92e5cfa88307a29ed77"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M1_ATR2p5_trades.csv",
-    "bytes": 6715752,
-    "sha256": "9b6930e533ae2de9cd7079db2d6c4cd72d04da698557b6dff4f0a2d1fa3ee8bc"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M1_ATR2p5_trades.csv",
+    "bytes": 6730913,
+    "sha256": "49d65c0e26eeb4e74dad62a6fc26ff53d90482e869672ee40f65dbef565b1027"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M1_BASE8_trades.csv",
-    "bytes": 6680609,
-    "sha256": "499cacb6299a5f5faec1c2b8759256b5077dc27b1497cf3bfbca2db39a79ef64"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M1_BASE8_trades.csv",
+    "bytes": 6695709,
+    "sha256": "ecb392cb11223d45f8f13424045410845e2586c29fc2372dfff2204dcc588137"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M3_F2_trades.csv",
-    "bytes": 15255931,
-    "sha256": "bc0a0572d840f04cbd200903a8ee34d269fc22819daa14890259e7f049dccb1e"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M3_F2_trades.csv",
+    "bytes": 15261151,
+    "sha256": "d7e9f5629984fcb00b03e6df9a3dbc0676c2608c4519c99f8815785890ea7bd4"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M3_F5_trades.csv",
-    "bytes": 15259796,
-    "sha256": "57f9c4b6cbaaae5c54ce1fd1d6cbf282b27ede4f62f0d3d205782e70f5e61599"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M3_F5_trades.csv",
+    "bytes": 15265178,
+    "sha256": "de59b6715cf24749265a4af7a6b4af4debb2704384f0c9109084f4e379696e67"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M3_F20_trades.csv",
-    "bytes": 15341581,
-    "sha256": "b29b5b03a9050274f281a945df9a8408c8e3341606f68cb0da72d1ea43985876"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M3_F20_trades.csv",
+    "bytes": 15346826,
+    "sha256": "0e097c9f461398d01e7b3eca07071488acc84db8e2e8595cb84bf0c316c5952d"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M3_F60_trades.csv",
-    "bytes": 15347628,
-    "sha256": "3c10000dd5698c74d8e5ad8b70069325fb3adbaa4cc4631b87ebfa1675d8311e"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M3_F60_trades.csv",
+    "bytes": 15352995,
+    "sha256": "6772551cd374aa98496f293163ccc8c0af4dbd108a81b97587b0f8acf4464933"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M3_T5_trades.csv",
-    "bytes": 15447350,
-    "sha256": "6be816f373d6a951970e760c262ecf3ce42d4690372da53cca325251c838f439"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M3_T5_trades.csv",
+    "bytes": 15452901,
+    "sha256": "c494f16a84b1e7f5d71bf36d91f25de933e86c7850194cb1b414ec3792025cfe"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M3_T10_trades.csv",
-    "bytes": 15557539,
-    "sha256": "e9ee3878dcdb3f26fe18522f3666b2c984fa041ccef9204af0e3d91c7503c70a"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M3_T10_trades.csv",
+    "bytes": 15562714,
+    "sha256": "c8f0406ea49a7bc2e99491bfc57dc760d57dd08e7b410b5d6751b4eff6a9cd5c"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M3_ATR2p5_trades.csv",
-    "bytes": 15646248,
-    "sha256": "a61d90edd74df5c2fa7013f33ef559e9fe1cce651633a63851e8fb9a347a5dc4"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M3_ATR2p5_trades.csv",
+    "bytes": 15651679,
+    "sha256": "9ed9bf5a1ccf7188dcf8edad2a996b782fa2de0cd59f9e34e7bc76f0b72314ab"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\M3_BASE8_trades.csv",
-    "bytes": 15651049,
-    "sha256": "1e1d2bef7a54556c9e7b173c7a7de5128681939f5fadc7e3820852135b3a0468"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\M3_BASE8_trades.csv",
+    "bytes": 15656428,
+    "sha256": "a01131b64cd1aa4b7ced960d48b414e5eba4068d46376bcd82b0cc98392f1e85"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\B1_F2_trades.csv",
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\B1_F2_trades.csv",
     "bytes": 1204530,
-    "sha256": "1a0e108ab4169b00c329dfa9535f56abd957e0895bceea995e9a65c0c4d2cf10"
+    "sha256": "d40835bf881da714c253d38c7799fb87f589a4bf4b930af8741b575ead97f771"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\B1_F5_trades.csv",
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\B1_F5_trades.csv",
     "bytes": 1208005,
-    "sha256": "385068c97cb5430edf53daa05b3ecb015f4dad3c52b06fdd18b8dd3640cbb0db"
+    "sha256": "7e56132554368aa07036e8133daa0269a12e5a9556493070bc7dd81ad4b0a524"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\B1_F20_trades.csv",
-    "bytes": 1213970,
-    "sha256": "e57102c3800811c851fc99c9bc4dfda8ba3e2b35ec34f2ec729060aa0d208a03"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\B1_F20_trades.csv",
+    "bytes": 1213960,
+    "sha256": "a57c5325ea5e41055f348f9c7bbea21c1fec9ee951bf9cef6596c8dbbedd38a9"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\B1_F60_trades.csv",
-    "bytes": 1215208,
-    "sha256": "68ea6eab06ea711be9adc49b0aced9d26b639c2ec66830dedb0a90b048546f9b"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\B1_F60_trades.csv",
+    "bytes": 1215247,
+    "sha256": "774afde78015de6b8df97b3e18b08b80de1fdd020ad8e065f0a9c9daa0da162f"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\B1_T5_trades.csv",
-    "bytes": 1223473,
-    "sha256": "8e3c68189f58c1112aa39e86f627c7f7e076a9657469df29677d3cad15a8a000"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\B1_T5_trades.csv",
+    "bytes": 1223490,
+    "sha256": "e5efe38d14ea818db0ac2f777feeb5128011084512f51c518c016c76b179736a"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\B1_T10_trades.csv",
-    "bytes": 1231315,
-    "sha256": "07597896a5a1b91cc383bb1c2ec653722b740f1555f7fade4afb060ff06e37ae"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\B1_T10_trades.csv",
+    "bytes": 1231329,
+    "sha256": "e84151f04526cd6fbf0b4a08e00464954f220341823f7a43e51473c38fa85760"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\B1_ATR2p5_trades.csv",
-    "bytes": 1238521,
-    "sha256": "e20d3b1f52c84b4662c9043934c8fdc1d621f95a947db83b7efa59e01f43f9d1"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\B1_ATR2p5_trades.csv",
+    "bytes": 1238571,
+    "sha256": "3b4ed22ed655f995a05b4aee5df0fa8603b3619a35b08c7c6260225d907ca1cb"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\B1_BASE8_trades.csv",
-    "bytes": 1233691,
-    "sha256": "be981e2a3bc0dca4e58e82ef8976e32fd9f087a1d66376fd13ca01d76f443c07"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\B1_BASE8_trades.csv",
+    "bytes": 1233742,
+    "sha256": "a7609642312825bcf69e5d1f3873778af1f0a24ef12d85c685ff53687cc9c3b3"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_ATR2p5_2slots_2021-10-18.json",
-    "bytes": 1365054,
-    "sha256": "47d436eedb5aacfc37036aac1e1778c6e62529f271a1582e3880e51658748968"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_ATR2p5_2slots_2021-10-18.json",
+    "bytes": 1367140,
+    "sha256": "43181c7b9606794a84ad02191846cc0693ecb2ea69df5b62c9493c17119e6e97"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_ATR2p5_2slots_2026-08-17.json",
-    "bytes": 51544,
-    "sha256": "1d30007349793390ca32e52b4b175af1f0ad4fa42d8daaafcf0b1e3315d45114"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_ATR2p5_2slots_2026-08-17.json",
+    "bytes": 53961,
+    "sha256": "a9db3cc5def9e3f182d096c763bc1bef0a9713f7926e6520b4c8be388ad017a4"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_ATR2p5_4slots_2021-10-18.json",
-    "bytes": 1468512,
-    "sha256": "c1c561e0f761fd9a1c196e8c05fc2ae7d56387e7ed5e6b5694c072c24613ec58"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_ATR2p5_4slots_2021-10-18.json",
+    "bytes": 1470605,
+    "sha256": "0503e2af93e47478c2f74d231a72905d675307c437446362b047b22189d5ef0d"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_ATR2p5_4slots_2026-08-17.json",
-    "bytes": 64412,
-    "sha256": "047d82b35533672b0fda325219bfe43a5e2a3e06295b1868b18a3b74fa42cfa6"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_ATR2p5_4slots_2026-08-17.json",
+    "bytes": 66847,
+    "sha256": "7ab990f1fe41929977da1b8f723675ce5c311d8b1a6da932cfb419446e1ec4a8"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_BASE8_2slots_2021-10-18.json",
-    "bytes": 1296905,
-    "sha256": "5f1e06f4a21bc9fac152766cad4f06e1ab9d2a61d0a4c52cccf9418195a71554"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_BASE8_2slots_2021-10-18.json",
+    "bytes": 1299367,
+    "sha256": "e81228a18a9fe504ee675cfb5b12fe6648bad3913f3e24302b09238f1f1dfc31"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_BASE8_2slots_2026-08-17.json",
-    "bytes": 47194,
-    "sha256": "50195a348c6eca01dea402862f69fa5c0ccaa030bee94ec78ebde7848795174b"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_BASE8_2slots_2026-08-17.json",
+    "bytes": 49204,
+    "sha256": "0a63e092d788137b57f3d70591f7ce1cc9342b1d4ba2cd25309440956fd26c4d"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_BASE8_4slots_2021-10-18.json",
-    "bytes": 1370590,
-    "sha256": "faed9980b73d29baef4d3f4ba80fce6a0071dfa46d54a46e5cd5ff48b707b930"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_BASE8_4slots_2021-10-18.json",
+    "bytes": 1373085,
+    "sha256": "2c6d498e24a7ce0e91a3b77a130e9fbb1e1ae01457006dc11f20bf24d8c18c01"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_BASE8_4slots_2026-08-17.json",
-    "bytes": 55817,
-    "sha256": "12d20e7785a418a19163ca3349447d381f1247609a6a0bf930b6a4b82e0be2a1"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_BASE8_4slots_2026-08-17.json",
+    "bytes": 57827,
+    "sha256": "d647f2989289a11a1975c7acb1acc52bff30b31888e12f0b9f72ec692d1bda48"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F20_2slots_2021-10-18.json",
-    "bytes": 1297386,
-    "sha256": "0dde3877422c9f1ec31ab6b2e31895838ce75b8c0a1684c5f3e958c4476143a0"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F20_2slots_2021-10-18.json",
+    "bytes": 1299399,
+    "sha256": "9823dd6e1ab11b974a32538478ea3831f8af33c22f32df8ad8239b1ce4075af1"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F20_2slots_2026-08-17.json",
-    "bytes": 46683,
-    "sha256": "389c8b8f395b72956aef98d28e8f420c54e0ca2a67e6d37c694c7a5dce2b03bb"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F20_2slots_2026-08-17.json",
+    "bytes": 48683,
+    "sha256": "a56e6cdbbee0cc79c4ca102c628a7bda051078d3d2915cd6678f9ee9629d74ec"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F20_4slots_2021-10-18.json",
-    "bytes": 1377925,
-    "sha256": "52ac4bd45124efd6a6b2e11f762898629bab33a008df002fbb309543514b3e6f"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F20_4slots_2021-10-18.json",
+    "bytes": 1380823,
+    "sha256": "7c1be2dc0d2f572707ac5104ca1fb3b3cb4689cbffae982e6343ff1b4c6872ae"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F20_4slots_2026-08-17.json",
-    "bytes": 51318,
-    "sha256": "3634e73de31f86ba3ac0ee594df57253c4607dc217bdf1530fef7523b5626418"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F20_4slots_2026-08-17.json",
+    "bytes": 53318,
+    "sha256": "f5d1bf1a4a2298d759d50fe1f0255a0098df8331a48363e94810ccea46ed5d58"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F2_2slots_2021-10-18.json",
-    "bytes": 1463748,
-    "sha256": "b440b893fd9bb3dfaa4854ba5f17e4401e818b2eb4d034a1311eb27e88174845"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F2_2slots_2021-10-18.json",
+    "bytes": 1465803,
+    "sha256": "5a0ed2b9754df420ba8ff4599776d48c84092e01837a3d1c4acf081cf379cad7"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F2_2slots_2026-08-17.json",
-    "bytes": 75819,
-    "sha256": "75eae12932c6aebca6f5ca3c486a579c7c53ffe9e32eb7a6db86bd5c4f49b6fb"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F2_2slots_2026-08-17.json",
+    "bytes": 78490,
+    "sha256": "8e47e07b40c3b8601ad6c0cc61bfea3d38034ccf0850ed56a41210a0b53e91db"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F2_4slots_2021-10-18.json",
-    "bytes": 1602453,
-    "sha256": "1abc8f7963b7e012780a52846a07ad992318bf7765ebc2f147afe8b675319aab"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F2_4slots_2021-10-18.json",
+    "bytes": 1604508,
+    "sha256": "641ca9fbaa829160612530ec631134289778e290e81e344ee841bc902708cb41"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F2_4slots_2026-08-17.json",
-    "bytes": 92844,
-    "sha256": "034317fd245e403152e297f9abb4dee8265577f06f6435e4dd0fee8566437775"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F2_4slots_2026-08-17.json",
+    "bytes": 96158,
+    "sha256": "2c697269390f9ada9919bbda2ed8d46f50731c90ee09fa906b53ab4829cc81ad"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F5_2slots_2021-10-18.json",
-    "bytes": 1505786,
-    "sha256": "5eacc2ef21b666af0e886ba77cef5707a844d24de239e0e299a788d2a6065971"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F5_2slots_2021-10-18.json",
+    "bytes": 1508691,
+    "sha256": "58814f9473d0052581d28b4a055d1e5b5985924d573d28b62b0d08f456754ce5"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F5_2slots_2026-08-17.json",
-    "bytes": 57850,
-    "sha256": "cac9e0b0688f83fd197c3ce6b646d25abebe9939d6dc8ac3283712aa73494677"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F5_2slots_2026-08-17.json",
+    "bytes": 60143,
+    "sha256": "2b6fddc68fadfa1a6d13f2c91e8d96c89b93411cfade15aa11bb749d1a3e3679"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F5_4slots_2021-10-18.json",
-    "bytes": 1602920,
-    "sha256": "ce5b3536fffcec09d670603fb0ac0fe40bc17b068e7a478f7e9085f21874d7af"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F5_4slots_2021-10-18.json",
+    "bytes": 1604977,
+    "sha256": "f32c6893ab44a68cc7475602b0963cde00360df16a068ed25017f2139dab91af"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F5_4slots_2026-08-17.json",
-    "bytes": 70482,
-    "sha256": "f820133bb8052321e8b8b0accd9eadc1ebdf2c3bc29ac64f46287a6a3be3b09a"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F5_4slots_2026-08-17.json",
+    "bytes": 73780,
+    "sha256": "b178db53792ba77d7b4f3fd42564d179bb9fc3bd805711622b13be470aa2c29c"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F60_2slots_2021-10-18.json",
-    "bytes": 1246397,
-    "sha256": "5967968780d9eaa561246ebabf3f47801e2e9f86676cfaf3bc9fbe734fb5b446"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F60_2slots_2021-10-18.json",
+    "bytes": 1248409,
+    "sha256": "d127fdb6583987d9a31bc8bd5b18d4ff9f0959498387875ff005114f9efeba73"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F60_2slots_2026-08-17.json",
-    "bytes": 44718,
-    "sha256": "cb883a7ef1f47e48654cef4695a86fb015bd378c0c4b73031454a80d31a64ac2"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F60_2slots_2026-08-17.json",
+    "bytes": 46747,
+    "sha256": "c05393780a7241a6bcdcc4b25c0c131c999da998f0c6c6d524642b8f0f1e8aba"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F60_4slots_2021-10-18.json",
-    "bytes": 1278904,
-    "sha256": "6df993a4029eb421ab4ba14c23c7aa8cac877338e8e70585a29d656c44b1539a"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F60_4slots_2021-10-18.json",
+    "bytes": 1280917,
+    "sha256": "c87842958b9827066e2baf743f28d728e32eed01a5e7d6fd963032cbe7f7af04"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_F60_4slots_2026-08-17.json",
-    "bytes": 45534,
-    "sha256": "d94288cc91acb07fa27332cc43cf4e0bb5be64ee1efcbefbeb2c2ae768344625"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_F60_4slots_2026-08-17.json",
+    "bytes": 47559,
+    "sha256": "31bfdc2466694a7bd8bebffb0e39d51cfef9fb381934bc9c7c84a8a533699d04"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_T10_2slots_2021-10-18.json",
-    "bytes": 1371985,
-    "sha256": "895053b9650903f6455534d96946d33c2250122ad88649d68717666b70a7e356"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_T10_2slots_2021-10-18.json",
+    "bytes": 1374003,
+    "sha256": "4ec16fe771607110eb22dfe7e1ffe941365a64a3d3128063d74ac9d2e33d4283"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_T10_2slots_2026-08-17.json",
-    "bytes": 56168,
-    "sha256": "1dd70810a19b45729dca297c6376c454a2415ece8af412267d5ae6638fd73904"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_T10_2slots_2026-08-17.json",
+    "bytes": 58180,
+    "sha256": "d18dd373728b065544342d81332eb8d866f226bb0ee0de9df19e372d626f45ee"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_T10_4slots_2021-10-18.json",
-    "bytes": 1471768,
-    "sha256": "5e3288442347eb817a72e544a2ff92a74b5de1b4e0425617a7050775e3d0f567"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_T10_4slots_2021-10-18.json",
+    "bytes": 1474268,
+    "sha256": "6806e8e1540e4f5edce2bf89dcbc345e10851aee753fbac7f66980905723f4d1"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_T10_4slots_2026-08-17.json",
-    "bytes": 66094,
-    "sha256": "26053eb682d3887f8e0d2156f42a9dc991465f501aca4c514d074871f8a5cf3b"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_T10_4slots_2026-08-17.json",
+    "bytes": 68122,
+    "sha256": "b6baaf5206f234fc05165516094b0a360a19ca0921f0022df22107069f98a888"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_T5_2slots_2021-10-18.json",
-    "bytes": 1463189,
-    "sha256": "1abe4b61872a14f8647bfacd5200b1e7d54e5c4b89ffc282999baacbe3aa0854"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_T5_2slots_2021-10-18.json",
+    "bytes": 1465241,
+    "sha256": "cdeafbf6c528587f55dfc257bc653de025712915ac9bfe9182e7df5eb60ed3e4"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_T5_2slots_2026-08-17.json",
-    "bytes": 64687,
-    "sha256": "c5091d1d68f0f8c427eb8ec8c9c31ee33e5abec6c910dd7af1f285dc67e244b7"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_T5_2slots_2026-08-17.json",
+    "bytes": 66700,
+    "sha256": "5688e7c137f9d4ae42c3f7871a1f3a692ce3314f73123944aec93e722af77e2d"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_T5_4slots_2021-10-18.json",
-    "bytes": 1551641,
-    "sha256": "6749fb5b8a04c3b8ec8c5b85c46b0e2e868e03e11e046e458ef8388e07c4bb8f"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_T5_4slots_2021-10-18.json",
+    "bytes": 1553694,
+    "sha256": "9f0786a2f8b6e8858997053616a73fbdb4ca8193f1dc825980532aa7afabacd8"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M1_T5_4slots_2026-08-17.json",
-    "bytes": 82841,
-    "sha256": "64ee8e92b44d52f893625b2ab9be329877895218c0d9751f5759eccb51b6d709"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M1_T5_4slots_2026-08-17.json",
+    "bytes": 84856,
+    "sha256": "061d22f3c8e698daa2cf932986f2d0ef8082fe0fa869a5976170ba7e491ab0be"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_ATR2p5_2slots_2021-10-18.json",
-    "bytes": 2444453,
-    "sha256": "231231207f10b0c580e6709ddff16dada010428793521e38d3adc27f37262523"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_ATR2p5_2slots_2021-10-18.json",
+    "bytes": 2445349,
+    "sha256": "90dddb119caa91cff2e6740d0a043e653869cdae78c0158af73c49bb6b4464a2"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_ATR2p5_2slots_2026-08-17.json",
-    "bytes": 117796,
-    "sha256": "43b73e197ab28c425dddce00bd1a0418db9672808b05f428a9056d74ac1a7a4d"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_ATR2p5_2slots_2026-08-17.json",
+    "bytes": 118688,
+    "sha256": "e2e53c79d96c8b12da669eed34f53e833d582dee0d20b8cf59f4fa6147d66734"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_ATR2p5_4slots_2021-10-18.json",
-    "bytes": 2636095,
-    "sha256": "0b60f712a68b492ea53b304ad50cbca90a0ae729b30060ef10dd7d591aa8be84"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_ATR2p5_4slots_2021-10-18.json",
+    "bytes": 2637009,
+    "sha256": "f2f29f876374163c4891557543b20730e6f2f8dd70587f1410d5de6bd4d46d25"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_ATR2p5_4slots_2026-08-17.json",
-    "bytes": 128674,
-    "sha256": "36e2392cae645104ab429792785b01ab430c9499c1eb6d56ee1a2f876ba7a03b"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_ATR2p5_4slots_2026-08-17.json",
+    "bytes": 129593,
+    "sha256": "d095db3fc5a66963526ad520382ba97057af3160865f5271862b2797e6854f77"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_BASE8_2slots_2021-10-18.json",
-    "bytes": 2325693,
-    "sha256": "b9dd334b458f7e22416cdc345f7531a5a6467ace8c38fb5d5b26654a3864f5d8"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_BASE8_2slots_2021-10-18.json",
+    "bytes": 2326600,
+    "sha256": "032ead1954aa0be9bcec091777a7dcd200c88fbf571def015da393e8a784a60d"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_BASE8_2slots_2026-08-17.json",
-    "bytes": 109918,
-    "sha256": "20c43ddce590b8c80a912860ef585255ae61f1d2fa4856cf8c402b6bb21e04bc"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_BASE8_2slots_2026-08-17.json",
+    "bytes": 110808,
+    "sha256": "df01c0c2d649c90c754716af30dcaff0e8425f662237bff1cfa694a634e5622a"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_BASE8_4slots_2021-10-18.json",
-    "bytes": 2388075,
-    "sha256": "1b3a483216cce8cbaeb50b78ae0748af61f1191cbaa48c962493d868e27af30c"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_BASE8_4slots_2021-10-18.json",
+    "bytes": 2388982,
+    "sha256": "cfd71e2c57ba0c9df0bf2f22953edbadb4bff72413534ff0a5d055db1aadd9e4"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_BASE8_4slots_2026-08-17.json",
-    "bytes": 114190,
-    "sha256": "b405e2a99fa447ebc5a5733046c8eab935b4e9be7a7f81889bb4dd2a32bb58fe"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_BASE8_4slots_2026-08-17.json",
+    "bytes": 115096,
+    "sha256": "a74535c295f75c09fab5d7193c2e19430f8f0387bd849a223dc980d1f3787eeb"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F20_2slots_2021-10-18.json",
-    "bytes": 2346803,
-    "sha256": "a491ae1d6972d8a45039e8e13b5f90a4814bc64cbe7e79fbef83178485d2fae2"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F20_2slots_2021-10-18.json",
+    "bytes": 2347711,
+    "sha256": "b506e56a89ab65d52221bc78a061bdb192e72f09103e67b0caeab0e85cf16887"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F20_2slots_2026-08-17.json",
-    "bytes": 110415,
-    "sha256": "2826ff041f6ad2d0e134a44d529694c87ee97fef09163dc3e1efd12ef6588f5d"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F20_2slots_2026-08-17.json",
+    "bytes": 111293,
+    "sha256": "c52ddd259791267640ae58697c2bf6fc5b70705dd9bd5fcc152894520e6f4a4c"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F20_4slots_2021-10-18.json",
-    "bytes": 2443755,
-    "sha256": "8bfa07b937fb7dec60ade77ea946dc98fed4a4326977db98c2500774b91205be"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F20_4slots_2021-10-18.json",
+    "bytes": 2445395,
+    "sha256": "c13dd951f55fcdfc742d3d2ae67a384c1e50c5006eb06504936197390905667e"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F20_4slots_2026-08-17.json",
-    "bytes": 114142,
-    "sha256": "0dd5d5656e50ff379fac33ee3894f2630e717a0d6ad063085790101ac1dc8ede"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F20_4slots_2026-08-17.json",
+    "bytes": 115008,
+    "sha256": "80e4fb187b03d9a7cab0b4cfabd8374dcbde0c8b527e66011ccc0d2df2f6ee84"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F2_2slots_2021-10-18.json",
-    "bytes": 2677456,
-    "sha256": "aa0c36b51b8a7500a5542753a078abf1e0a3622131ccd14959a2aa045122cfeb"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F2_2slots_2021-10-18.json",
+    "bytes": 2678344,
+    "sha256": "fdd068308aa0f8ddefb85d3ab40a854dc8e4521a7754679d67f9dd91d4899a7f"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F2_2slots_2026-08-17.json",
-    "bytes": 142725,
-    "sha256": "4e9b12c16a9c2c6ce27f6a549910460a0295a09142b8282913faec3f75e3de0e"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F2_2slots_2026-08-17.json",
+    "bytes": 144463,
+    "sha256": "9c9b8935b16808bb126b1beef4c24eea9a871fd964668ddff750e032258d521d"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F2_4slots_2021-10-18.json",
-    "bytes": 2897711,
-    "sha256": "3ba149496be1ffd5489bbfd256002f57e535a43f4875e1701412112a2a77be82"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F2_4slots_2021-10-18.json",
+    "bytes": 2898611,
+    "sha256": "9216ca2da810ff289cefbb3c0d889f58b4a23207e829e1ae85179baaff0e4193"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F2_4slots_2026-08-17.json",
-    "bytes": 178118,
-    "sha256": "2ec208e4d5bfd37ff9c497cab187fdaa92bffa63de764dce8b4e58fb577a9c6c"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F2_4slots_2026-08-17.json",
+    "bytes": 180510,
+    "sha256": "4735228a2f4c1dca916493606e70d19e7c38dfc4a4776a1f6c5d04af6287f3f1"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F5_2slots_2021-10-18.json",
-    "bytes": 2568685,
-    "sha256": "05e1d7c0f14218b5c6d87435d2dae04a84922ca22c644de4a2e78ff2115d72a9"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F5_2slots_2021-10-18.json",
+    "bytes": 2569591,
+    "sha256": "99232f971fc69969e53b650c38821a3f5fac6b499f6837c1d792ff0f0eec2524"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F5_2slots_2026-08-17.json",
-    "bytes": 122003,
-    "sha256": "69f29f57438d7e2f0018944559191d7e45d695b360ba5ec11dcc59614c71936a"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F5_2slots_2026-08-17.json",
+    "bytes": 123319,
+    "sha256": "45b5198072c94442cf1e0d762ac6f39b34112240142653c7db45853d5a6392e0"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F5_4slots_2021-10-18.json",
-    "bytes": 2828313,
-    "sha256": "75e5dc8b533038dfbb73da7c6001d8247bc7c46f0ced50fa3326fca04a689495"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F5_4slots_2021-10-18.json",
+    "bytes": 2829248,
+    "sha256": "62c9b24baa6bcc892feac78fd89b694da4057fcc06da7a9c71d2ce1b7d37b5bd"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F5_4slots_2026-08-17.json",
-    "bytes": 138512,
-    "sha256": "858b939ca116fbf9cf93f2eed60d8fd13086a0b3567ec21cf0d054def1da0e20"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F5_4slots_2026-08-17.json",
+    "bytes": 140068,
+    "sha256": "d9d5f4fd62a6e030127e062114205a8d83f12f5329449e8e12a0cff05208b263"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F60_2slots_2021-10-18.json",
-    "bytes": 2295284,
-    "sha256": "3f39ade2932dd467ce260496af9cd4e3e53cd09e62f9970158f7e1fa1ccd6148"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F60_2slots_2021-10-18.json",
+    "bytes": 2296192,
+    "sha256": "032f72dca089e321cd1314b3b7d17de2eba0df4ece526dd6d31f4dfa12de383c"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F60_2slots_2026-08-17.json",
-    "bytes": 107774,
-    "sha256": "c8f4edaf69b89f3a0c51c99e415d811bc7cc79a6959f639a84377ec26fee520e"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F60_2slots_2026-08-17.json",
+    "bytes": 108668,
+    "sha256": "a7f9ed029f06be4667d4a2146fc0dff532cdbc59ede97b8c9e998e616267b619"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F60_4slots_2021-10-18.json",
-    "bytes": 2329337,
-    "sha256": "469122796b0036a817f0d7e0ba44fbcc237636b45c7e8dec89217ff639e78191"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F60_4slots_2021-10-18.json",
+    "bytes": 2330657,
+    "sha256": "36226b63eb5236fa9d8252aaf1b2c806a970f9f7081ae06ce0bcc01b2b72644f"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_F60_4slots_2026-08-17.json",
-    "bytes": 108794,
-    "sha256": "23a77886657813d3ae9d5788ac1a1a9e15dba18fce063222f462ebc5ba7eeba2"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_F60_4slots_2026-08-17.json",
+    "bytes": 109687,
+    "sha256": "acca43e812320202279f228efacfb2cf28ac85de96458572e85ef0b8739e5140"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_T10_2slots_2021-10-18.json",
-    "bytes": 2384234,
-    "sha256": "dee35b6e45886d998e6e01bb1158a08007e4dee34f931570cb15228654e5b9f2"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_T10_2slots_2021-10-18.json",
+    "bytes": 2385154,
+    "sha256": "95cffaeecc44881d937d65638e4ecef68efb3c6a12ec230b4d404a4b6849631c"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_T10_2slots_2026-08-17.json",
-    "bytes": 111912,
-    "sha256": "2acaab0395b98c32c4d7724c39d1e7a416def3cd06809361e1e8d6784cab8794"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_T10_2slots_2026-08-17.json",
+    "bytes": 112817,
+    "sha256": "098c853d7c8acce46d09df895932a9a144f2d62bc04d6ee26f6b00d6d63c074f"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_T10_4slots_2021-10-18.json",
-    "bytes": 2473486,
-    "sha256": "73289ef0af820c37a8ef191c3f3ff6227f389c3a5a1d09bc9f367ddc46576589"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_T10_4slots_2021-10-18.json",
+    "bytes": 2474392,
+    "sha256": "98cc62cf781874268188b34406eb18935e2a4bcabadd8d6937941e125e6b25f5"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_T10_4slots_2026-08-17.json",
-    "bytes": 119092,
-    "sha256": "375f77df93e69307b458db2f32851bc6734ba33f94f157aec80ea4dad04b6e2a"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_T10_4slots_2026-08-17.json",
+    "bytes": 119999,
+    "sha256": "c607c7ee58700d1a2cbf3571b203344b06b56410e9b450d2446e4b30d6bd53ee"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_T5_2slots_2021-10-18.json",
-    "bytes": 2549212,
-    "sha256": "9f8493bafa95ff24755244cf9c4bb87394cc0b04184e876b99558f0df5414060"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_T5_2slots_2021-10-18.json",
+    "bytes": 2550132,
+    "sha256": "3acb004d050818e13db039303787d56f076c5caccd3bdc40524a57172e1b6946"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_T5_2slots_2026-08-17.json",
-    "bytes": 124859,
-    "sha256": "65afc141d2501980bfd020ae1a63a1eb9f99e55da01b4acb5dd63444930f6a51"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_T5_2slots_2026-08-17.json",
+    "bytes": 126020,
+    "sha256": "edea2493c4861057198e59cd857fb3407620e658ed1866076e65f7f6377b7fe5"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_T5_4slots_2021-10-18.json",
-    "bytes": 2730362,
-    "sha256": "aea581667439232cb0966801e7f93f5d3ca9c6b925517c2c2e9a65f0c31f8466"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_T5_4slots_2021-10-18.json",
+    "bytes": 2731282,
+    "sha256": "46dcba5c1aea6f3352020fea13fa8bd9783f90db6703dc0843d635846620c7b2"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\M3_T5_4slots_2026-08-17.json",
-    "bytes": 145601,
-    "sha256": "32263f708ff2946a752b69d7d38d453c5480b711542e43ebb3485f57a7ce4a6e"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\M3_T5_4slots_2026-08-17.json",
+    "bytes": 146763,
+    "sha256": "ee7321c484f92ff439620fd62927324758cb826139095f0a649083291a999b62"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_ATR2p5_2slots_2021-10-18.json",
-    "bytes": 655162,
-    "sha256": "b8851d9f7f7b5f176a7a51fdb3b210db48e0cee962b416925475f84c3756e7de"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_ATR2p5_2slots_2021-10-18.json",
+    "bytes": 655722,
+    "sha256": "a0fb5d29feb330a5584f6b68532b013f8e36429dbc57ae6584a87f9d73286587"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_ATR2p5_2slots_2026-08-17.json",
-    "bytes": 31902,
-    "sha256": "7d00396063332cb0ad3233059c44b4953a2d38a258a151f200333d0f680d6fab"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_ATR2p5_2slots_2026-08-17.json",
+    "bytes": 32204,
+    "sha256": "adda6bbab6b3ded139131dcd5eaa36e2b6d71ab54a71c512cc0576d0aed3ddc8"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_ATR2p5_4slots_2021-10-18.json",
-    "bytes": 734935,
-    "sha256": "644985d62aae4550fdb79beaf33f46fd11a9bcbf801620556da132f4dd77af81"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_ATR2p5_4slots_2021-10-18.json",
+    "bytes": 735519,
+    "sha256": "93cf2c7cc3651cfeccfa7579bd19dbc7eb62a4b4a4590b1b0009604eba19479e"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_ATR2p5_4slots_2026-08-17.json",
-    "bytes": 34612,
-    "sha256": "04dc6d0b0015b87b6d19c70d5a0194423db5a7b4de6c418d02bd8aac69757eb2"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_ATR2p5_4slots_2026-08-17.json",
+    "bytes": 35160,
+    "sha256": "6e0631c729b71a635992782e997b16f122880a452205dfc9fa2caa5568d6f43e"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_BASE8_2slots_2021-10-18.json",
-    "bytes": 607530,
-    "sha256": "8eabfe47f423ea2d12138559dff216bc3eb8425ae3ee90fdd60bfc797ee06ff5"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_BASE8_2slots_2021-10-18.json",
+    "bytes": 607835,
+    "sha256": "6804321bc07bef3a668e1ed821b4d047b00cd110c1ea410113940261ff5dab20"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_BASE8_2slots_2026-08-17.json",
-    "bytes": 27925,
-    "sha256": "f21c43cb7280e573264972d08cd279096319c95cfcaa0fe27b4df22dc090788a"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_BASE8_2slots_2026-08-17.json",
+    "bytes": 28258,
+    "sha256": "1135152fa1538313379c38a566a58373b8cbe738838af283c70102aac5077362"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_BASE8_4slots_2021-10-18.json",
-    "bytes": 661860,
-    "sha256": "4addecc672c6f708ee57490df5936ceb289aeaf199f186c53a0819c462dd8e80"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_BASE8_4slots_2021-10-18.json",
+    "bytes": 662208,
+    "sha256": "9a5bbea59147a0fe79bc1574896623ec7f61b4b09b751c40c8d770131442e3f8"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_BASE8_4slots_2026-08-17.json",
-    "bytes": 29796,
-    "sha256": "a158a356a2114f547d91b169dd7fb7f095766d37c05474be0584e4beeb534fa5"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_BASE8_4slots_2026-08-17.json",
+    "bytes": 30155,
+    "sha256": "05e6c87b10bf63e42fd2219ca0c55c1ec196bb7a2f805c22dcc92515bd502565"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F20_2slots_2021-10-18.json",
-    "bytes": 618383,
-    "sha256": "7cd81e66da802db7f7427f4b8099b2c21087da714d714f1e94d1911e720790e9"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F20_2slots_2021-10-18.json",
+    "bytes": 618713,
+    "sha256": "947adf3dccd7f42849222012a0f01c8f144e3908e3c4fb3b1ff648bc1cb2426a"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F20_2slots_2026-08-17.json",
-    "bytes": 26734,
-    "sha256": "03a973a1e6bdab6fee9180f4e0b57230accfea8cd842bcb5a7162a715009a82b"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F20_2slots_2026-08-17.json",
+    "bytes": 27034,
+    "sha256": "b26440670df0fdef04e495daaf6515d93e2695f1a065d94f6ca2396345f4e028"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F20_4slots_2021-10-18.json",
-    "bytes": 681888,
-    "sha256": "8ba57a5a28eff7f882d15afbe516297432b866813f5891e559cbf200cbb31c40"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F20_4slots_2021-10-18.json",
+    "bytes": 682221,
+    "sha256": "70d0b07e57d4aeee4b29e5add28db47db629e9d558855f448fb05d2b12b8b76c"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F20_4slots_2026-08-17.json",
-    "bytes": 29651,
-    "sha256": "5d5a48742137c5418efaf1c7df51956f365892a99d867dd1f4419e20ac807263"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F20_4slots_2026-08-17.json",
+    "bytes": 29949,
+    "sha256": "2112e208c1f83419ce5c1fdad2bfa032867b07c83d01c3c94a695ec0702800be"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F2_2slots_2021-10-18.json",
-    "bytes": 825280,
-    "sha256": "90f1b3936504c1485c7cef1fc470c73dd117f65515ce0788bd98dce3c2709f55"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F2_2slots_2021-10-18.json",
+    "bytes": 825582,
+    "sha256": "220190add4598d3092906673d0db8e02bde2d785561f954e1d494d5f9f862bf0"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F2_2slots_2026-08-17.json",
-    "bytes": 37564,
-    "sha256": "921ee3300148b368c9bc5768b780e07048705f745d7ca6bf5e5fb1be888aae3b"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F2_2slots_2026-08-17.json",
+    "bytes": 37865,
+    "sha256": "514cd50c60c480b1ea4d50e1709c17593ea9f1201cbda13018760c144cff8dd6"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F2_4slots_2021-10-18.json",
-    "bytes": 861455,
-    "sha256": "f3dac9f6671151148cb28c387082f0bb9e0951298938210aed0e5320880d8d74"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F2_4slots_2021-10-18.json",
+    "bytes": 861754,
+    "sha256": "333ad91e0754507d63f9c55fc6b5c1afe48b5eb75938ed5dab086e7a6ee36ea5"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F2_4slots_2026-08-17.json",
-    "bytes": 39546,
-    "sha256": "6898c9898d490fc4963e7cfb1092669f2660bdef2b378d2738b63c30c4a617fd"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F2_4slots_2026-08-17.json",
+    "bytes": 39846,
+    "sha256": "613ef6e47d32bbe32b32964474fa12115e6b6d0d500df2b4b3f5637639c1ecf6"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F5_2slots_2021-10-18.json",
-    "bytes": 741996,
-    "sha256": "e7164ce936deb1de9af307bdf571a672e92859c5f5400c2e42fa88d1652b79d8"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F5_2slots_2021-10-18.json",
+    "bytes": 742314,
+    "sha256": "84e79d1908d18904d55857b5c736d7aaabc5f8cd6cd383b587ef510a9867ff77"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F5_2slots_2026-08-17.json",
-    "bytes": 33227,
-    "sha256": "3b84cf18cabc62e8e999196bc50209beff618e243346113d0a04cd5e63f3b4ca"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F5_2slots_2026-08-17.json",
+    "bytes": 33544,
+    "sha256": "5e4a2e73bb0a18017acae595287b1176e3197dd2da98da6930420cee9ea23d86"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F5_4slots_2021-10-18.json",
-    "bytes": 822139,
-    "sha256": "dbaea242d31453e63fee9b65796fcc9f468b7f7305fab1644ba4fdf80826f014"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F5_4slots_2021-10-18.json",
+    "bytes": 822457,
+    "sha256": "a1ba6193bcd67b027d41146ce579bc36b4e554f4e032b820de1c885071a15c21"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F5_4slots_2026-08-17.json",
-    "bytes": 38628,
-    "sha256": "9b6720dfba2ddf697bb5f39ddf738b7ae37ff02ca1467c8e21576c611bcdbdb2"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F5_4slots_2026-08-17.json",
+    "bytes": 38928,
+    "sha256": "79d4797eac5f73fae3ad4e1cd8d7a4a4ade17a5e0dee2168d828ddfe31a73559"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F60_2slots_2021-10-18.json",
-    "bytes": 588100,
-    "sha256": "84a30cd17896350e00e6adf3e91d483fff50775139e38ccd5da544bef3a07cf6"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F60_2slots_2021-10-18.json",
+    "bytes": 588438,
+    "sha256": "4dbe5e7ff5f77cd0a8d7c9b36ab1e0fa0e8643a4977eb31dafa159e843b54e55"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F60_2slots_2026-08-17.json",
-    "bytes": 26190,
-    "sha256": "892b31b6fab2ef1c08cd80c1bf5b498e3c6841ed8a043438f938e56def3e0b51"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F60_2slots_2026-08-17.json",
+    "bytes": 26522,
+    "sha256": "4b33676d29dd22d1e09638a4a5f93a817be5dbfebf44cc620d2ae3bcf91aa76a"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F60_4slots_2021-10-18.json",
-    "bytes": 619476,
-    "sha256": "1f96a8bcb42328115364979503f5ffcf27af16ea84ff7a914b943f5a340874c1"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F60_4slots_2021-10-18.json",
+    "bytes": 619811,
+    "sha256": "3aa728671c4487d0bd4331c1b385f24baeca014fd1feede319777c089a742c9b"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_F60_4slots_2026-08-17.json",
-    "bytes": 26869,
-    "sha256": "4841e39573f0a496b92f503b239379a546630ecaf6a2d9956490e0e3fad3b7b9"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_F60_4slots_2026-08-17.json",
+    "bytes": 27227,
+    "sha256": "4071752022ba3a26a8f8090a67d816d1a805c10229e6227e666b646761e839dd"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_T10_2slots_2021-10-18.json",
-    "bytes": 652773,
-    "sha256": "d7daad45912a45296aa809601dda7a1b315b6138d91261a8b68f523e9a73d7a1"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_T10_2slots_2021-10-18.json",
+    "bytes": 653109,
+    "sha256": "033ae305733a58a106301c042a2a971929b1a146250e0ec22d67b844150efc1b"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_T10_2slots_2026-08-17.json",
-    "bytes": 29488,
-    "sha256": "225ec10d23b1b3723f4397b94ab329640049b89eab5017bc9163fe2a0e0ef79f"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_T10_2slots_2026-08-17.json",
+    "bytes": 29832,
+    "sha256": "3b3a8b7fdc5003493a1aa3a46131eff7dbf9a7bdf7cf720e76a2c4d28200015b"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_T10_4slots_2021-10-18.json",
-    "bytes": 701104,
-    "sha256": "12040eca123236a89117de47e0d8d41ecdeb0fd55f26bab2c4d21c56539fa23b"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_T10_4slots_2021-10-18.json",
+    "bytes": 701452,
+    "sha256": "12ec89e109b5113ef2052468319ced8e453e79d2626663acf8b202572d065ced"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_T10_4slots_2026-08-17.json",
-    "bytes": 31056,
-    "sha256": "3117180874619a492673890d84d80cac50c9a5d2bc144defaba9f6ab0e13af4b"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_T10_4slots_2026-08-17.json",
+    "bytes": 31389,
+    "sha256": "6e983dd5a3f83ecb8bbec14ce8aa4192dfcdd705a4b178cddf777586c1e9d80f"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_T5_2slots_2021-10-18.json",
-    "bytes": 709184,
-    "sha256": "d3060515ea69ba6ddcd5e9726a3e28da3c83837aacfe2c7d52c9cdc48127e09b"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_T5_2slots_2021-10-18.json",
+    "bytes": 709533,
+    "sha256": "a4524b4c03f693476bd71b7be95c0a7304043ffe03bf2bb612b0a0b151458e94"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_T5_2slots_2026-08-17.json",
-    "bytes": 31646,
-    "sha256": "3160c93a683cc08b9def6635f5108d1d2ecc259107787f72e88c8ed7a05b8794"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_T5_2slots_2026-08-17.json",
+    "bytes": 31980,
+    "sha256": "4ceaedef1f6546b00be5f7cb7266a18df04d382261c453283f05638f4196269a"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_T5_4slots_2021-10-18.json",
-    "bytes": 778839,
-    "sha256": "474af45583fa36c5522484d7b7c102bd2e4be69062a424b8ad3434f617b09bd9"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_T5_4slots_2021-10-18.json",
+    "bytes": 779187,
+    "sha256": "4f87a0398ef81a99442b923902ef5c5048bf22692fcd67de2c4ca4b5e248ef88"
   },
   {
-    "path": "D:\\A股低位放量研究\\experiments\\20261110_close_refresh\\results\\accounts\\B1_T5_4slots_2026-08-17.json",
-    "bytes": 36733,
-    "sha256": "bc13223a79a9b88fcb8f0f66189861fe3dd5e541343ad46792fbb303d3b9c213"
+    "path": "D:\\A股低位放量研究\\experiments\\20261111_close_refresh\\results\\accounts\\B1_T5_4slots_2026-08-17.json",
+    "bytes": 37064,
+    "sha256": "44edd35e751e98041f4a0831f97a71e94a2856bee0a1c81d1f06673e8c5d16e5"
   }
 ]
