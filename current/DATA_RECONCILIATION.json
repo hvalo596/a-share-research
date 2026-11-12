@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-11T19:45:46.746822+08:00",
+  "at": "2026-11-12T16:57:03.998165+08:00",
   "scenarios": [
     {
       "mode": "all",
       "model": "M1",
       "rule": "F2",
-      "old_closed_preserved": 11308,
+      "old_closed_preserved": 11312,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -14,7 +14,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "F5",
-      "old_closed_preserved": 11286,
+      "old_closed_preserved": 11290,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -23,7 +23,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "F20",
-      "old_closed_preserved": 11246,
+      "old_closed_preserved": 11248,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -32,7 +32,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "F60",
-      "old_closed_preserved": 10968,
+      "old_closed_preserved": 10972,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -41,7 +41,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "T5",
-      "old_closed_preserved": 11290,
+      "old_closed_preserved": 11292,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -59,7 +59,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "ATR2.5",
-      "old_closed_preserved": 11262,
+      "old_closed_preserved": 11264,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -68,7 +68,7 @@
       "mode": "all",
       "model": "M1",
       "rule": "BASE8",
-      "old_closed_preserved": 11246,
+      "old_closed_preserved": 11248,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -77,7 +77,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "F2",
-      "old_closed_preserved": 25928,
+      "old_closed_preserved": 25932,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -86,7 +86,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "F5",
-      "old_closed_preserved": 25892,
+      "old_closed_preserved": 25906,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -95,7 +95,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "F20",
-      "old_closed_preserved": 25620,
+      "old_closed_preserved": 25638,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -104,7 +104,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "F60",
-      "old_closed_preserved": 24666,
+      "old_closed_preserved": 24676,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -113,7 +113,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "T5",
-      "old_closed_preserved": 25856,
+      "old_closed_preserved": 25872,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -131,7 +131,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "ATR2.5",
-      "old_closed_preserved": 25776,
+      "old_closed_preserved": 25780,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -140,7 +140,7 @@
       "mode": "all",
       "model": "M3",
       "rule": "BASE8",
-      "old_closed_preserved": 25620,
+      "old_closed_preserved": 25622,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -167,7 +167,7 @@
       "mode": "all",
       "model": "B1",
       "rule": "F20",
-      "old_closed_preserved": 1998,
+      "old_closed_preserved": 2002,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -203,7 +203,7 @@
       "mode": "all",
       "model": "B1",
       "rule": "ATR2.5",
-      "old_closed_preserved": 2008,
+      "old_closed_preserved": 2010,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -221,7 +221,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "F2",
-      "old_closed_preserved": 9798,
+      "old_closed_preserved": 9806,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -230,7 +230,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "F5",
-      "old_closed_preserved": 9768,
+      "old_closed_preserved": 9776,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -239,7 +239,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "F20",
-      "old_closed_preserved": 9692,
+      "old_closed_preserved": 9696,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -248,7 +248,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "F60",
-      "old_closed_preserved": 9374,
+      "old_closed_preserved": 9382,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -257,7 +257,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "T5",
-      "old_closed_preserved": 9772,
+      "old_closed_preserved": 9776,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -275,7 +275,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "ATR2.5",
-      "old_closed_preserved": 9722,
+      "old_closed_preserved": 9726,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -284,7 +284,7 @@
       "mode": "topk",
       "model": "M1",
       "rule": "BASE8",
-      "old_closed_preserved": 9698,
+      "old_closed_preserved": 9702,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -293,7 +293,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F2",
-      "old_closed_preserved": 12504,
+      "old_closed_preserved": 12512,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -302,7 +302,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F5",
-      "old_closed_preserved": 12468,
+      "old_closed_preserved": 12480,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -311,7 +311,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F20",
-      "old_closed_preserved": 12286,
+      "old_closed_preserved": 12298,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -320,7 +320,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "F60",
-      "old_closed_preserved": 11824,
+      "old_closed_preserved": 11836,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -329,7 +329,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "T5",
-      "old_closed_preserved": 12446,
+      "old_closed_preserved": 12470,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -347,7 +347,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "ATR2.5",
-      "old_closed_preserved": 12396,
+      "old_closed_preserved": 12400,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -356,7 +356,7 @@
       "mode": "topk",
       "model": "M3",
       "rule": "BASE8",
-      "old_closed_preserved": 12290,
+      "old_closed_preserved": 12294,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -383,7 +383,7 @@
       "mode": "topk",
       "model": "B1",
       "rule": "F20",
-      "old_closed_preserved": 2992,
+      "old_closed_preserved": 3000,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -419,7 +419,7 @@
       "mode": "topk",
       "model": "B1",
       "rule": "ATR2.5",
-      "old_closed_preserved": 3014,
+      "old_closed_preserved": 3018,
       "daily_budget_checked": true,
       "T_plus_one_checked": true,
       "lots_checked": true
@@ -434,6 +434,6 @@
       "lots_checked": true
     }
   ],
-  "old_closed_rows_preserved": 511002,
+  "old_closed_rows_preserved": 511224,
   "note": "Scenario rows overlap across modes/rules/k/sizing; not independent trades."
 }

@@ -1,24 +1,10 @@
 {
-  "at": "2026-11-11T19:34:43.723644+08:00",
-  "checked_rows": 68,
-  "matched_rows": 68,
+  "at": "2026-11-12T16:36:48.048281+08:00",
+  "checked_rows": 108,
+  "matched_rows": 108,
   "unavailable": 0,
   "price_mismatches": 0,
   "checks": [
-    {
-      "symbol": "sh600000",
-      "date": "2026-10-27",
-      "price_errors": {
-        "open": 0.0,
-        "high": 0.0,
-        "low": 0.0,
-        "close": 0.0
-      },
-      "volume_shares_error": 36.0,
-      "passed": true,
-      "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
-    },
     {
       "symbol": "sh600000",
       "date": "2026-10-28",
@@ -31,7 +17,7 @@
       "volume_shares_error": 35.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600000",
@@ -45,7 +31,7 @@
       "volume_shares_error": 14.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600000",
@@ -59,7 +45,7 @@
       "volume_shares_error": 9.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600000",
@@ -73,7 +59,7 @@
       "volume_shares_error": 24.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600000",
@@ -87,7 +73,7 @@
       "volume_shares_error": 49.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600000",
@@ -101,7 +87,7 @@
       "volume_shares_error": 49.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600000",
@@ -115,7 +101,7 @@
       "volume_shares_error": 19.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600000",
@@ -129,7 +115,7 @@
       "volume_shares_error": 29.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600000",
@@ -143,7 +129,7 @@
       "volume_shares_error": 28.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600000",
@@ -157,7 +143,7 @@
       "volume_shares_error": 48.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600000",
@@ -171,21 +157,21 @@
       "volume_shares_error": 17.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "9390cacf00898eec6c8f2f2f35b12f0504d2fb16ee212d8db7c50dead29cadee"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
-      "symbol": "sh600519",
-      "date": "2026-10-27",
+      "symbol": "sh600000",
+      "date": "2026-11-12",
       "price_errors": {
         "open": 0.0,
         "high": 0.0,
         "low": 0.0,
         "close": 0.0
       },
-      "volume_shares_error": 14.0,
+      "volume_shares_error": 46.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "a669c3dda054ce4b749092b29789e781f804111c5c5abd85252d07654aa73463"
     },
     {
       "symbol": "sh600519",
@@ -199,7 +185,7 @@
       "volume_shares_error": 7.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh600519",
@@ -213,7 +199,7 @@
       "volume_shares_error": 31.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh600519",
@@ -227,7 +213,7 @@
       "volume_shares_error": 29.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh600519",
@@ -241,7 +227,7 @@
       "volume_shares_error": 22.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh600519",
@@ -255,7 +241,7 @@
       "volume_shares_error": 44.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh600519",
@@ -269,7 +255,7 @@
       "volume_shares_error": 29.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh600519",
@@ -283,7 +269,7 @@
       "volume_shares_error": 20.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh600519",
@@ -297,7 +283,7 @@
       "volume_shares_error": 28.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh600519",
@@ -311,7 +297,7 @@
       "volume_shares_error": 22.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh600519",
@@ -325,7 +311,7 @@
       "volume_shares_error": 16.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh600519",
@@ -339,21 +325,21 @@
       "volume_shares_error": 9.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "def17b8ad4f67ab07367e5adcad9f3fd4a0dc699f3a4fc2e4a1c5f2b97fd1f28"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
-      "symbol": "sh601318",
-      "date": "2026-10-27",
+      "symbol": "sh600519",
+      "date": "2026-11-12",
       "price_errors": {
         "open": 0.0,
         "high": 0.0,
         "low": 0.0,
         "close": 0.0
       },
-      "volume_shares_error": 25.0,
+      "volume_shares_error": 6.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "369b64b675813487a4a33339e012f2eb901e6472938a4e566ffe99d24388d9a0"
     },
     {
       "symbol": "sh601318",
@@ -367,7 +353,7 @@
       "volume_shares_error": 3.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh601318",
@@ -381,7 +367,7 @@
       "volume_shares_error": 42.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh601318",
@@ -395,7 +381,7 @@
       "volume_shares_error": 33.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh601318",
@@ -409,7 +395,7 @@
       "volume_shares_error": 44.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh601318",
@@ -423,7 +409,7 @@
       "volume_shares_error": 31.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh601318",
@@ -437,7 +423,7 @@
       "volume_shares_error": 22.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh601318",
@@ -451,7 +437,7 @@
       "volume_shares_error": 34.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh601318",
@@ -465,7 +451,7 @@
       "volume_shares_error": 2.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh601318",
@@ -479,7 +465,7 @@
       "volume_shares_error": 4.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh601318",
@@ -493,7 +479,7 @@
       "volume_shares_error": 46.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh601318",
@@ -507,21 +493,21 @@
       "volume_shares_error": 7.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "afd52013f177d67eb5c35769029487b268662d6a516bd775f3294355cf3592b3"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
-      "symbol": "sh603259",
-      "date": "2026-10-27",
+      "symbol": "sh601318",
+      "date": "2026-11-12",
       "price_errors": {
         "open": 0.0,
         "high": 0.0,
         "low": 0.0,
         "close": 0.0
       },
-      "volume_shares_error": 36.0,
+      "volume_shares_error": 30.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "ae22e850509f07247afab0c06f4c1f1fdc93dd5b87752456e5e5db9af7014246"
     },
     {
       "symbol": "sh603259",
@@ -535,7 +521,7 @@
       "volume_shares_error": 12.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sh603259",
@@ -549,7 +535,7 @@
       "volume_shares_error": 13.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sh603259",
@@ -563,7 +549,7 @@
       "volume_shares_error": 38.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sh603259",
@@ -577,7 +563,7 @@
       "volume_shares_error": 43.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sh603259",
@@ -591,7 +577,7 @@
       "volume_shares_error": 46.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sh603259",
@@ -605,7 +591,7 @@
       "volume_shares_error": 50.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sh603259",
@@ -619,7 +605,7 @@
       "volume_shares_error": 31.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sh603259",
@@ -633,7 +619,7 @@
       "volume_shares_error": 49.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sh603259",
@@ -647,7 +633,7 @@
       "volume_shares_error": 3.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sh603259",
@@ -661,7 +647,7 @@
       "volume_shares_error": 38.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sh603259",
@@ -675,21 +661,21 @@
       "volume_shares_error": 10.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "50160530e23c3e9ec488f28e5183b078daa4c7069034a1e46ed7bc97bcf88f5d"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
-      "symbol": "sz000001",
-      "date": "2026-10-27",
+      "symbol": "sh603259",
+      "date": "2026-11-12",
       "price_errors": {
         "open": 0.0,
         "high": 0.0,
         "low": 0.0,
         "close": 0.0
       },
-      "volume_shares_error": 45.0,
+      "volume_shares_error": 36.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "b926ee8990e820a836cdd4a9d211701fbdef17197e907e0310dd70f1427d2482"
     },
     {
       "symbol": "sz000001",
@@ -703,7 +689,7 @@
       "volume_shares_error": 27.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
     },
     {
       "symbol": "sz000001",
@@ -717,7 +703,7 @@
       "volume_shares_error": 6.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
     },
     {
       "symbol": "sz000001",
@@ -731,7 +717,7 @@
       "volume_shares_error": 7.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
     },
     {
       "symbol": "sz000001",
@@ -745,7 +731,7 @@
       "volume_shares_error": 45.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
     },
     {
       "symbol": "sz000001",
@@ -759,7 +745,7 @@
       "volume_shares_error": 22.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
     },
     {
       "symbol": "sz000001",
@@ -773,7 +759,7 @@
       "volume_shares_error": 9.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
     },
     {
       "symbol": "sz000001",
@@ -787,7 +773,7 @@
       "volume_shares_error": 1.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
     },
     {
       "symbol": "sz000001",
@@ -801,7 +787,7 @@
       "volume_shares_error": 39.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
     },
     {
       "symbol": "sz000001",
@@ -815,7 +801,7 @@
       "volume_shares_error": 4.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
     },
     {
       "symbol": "sz000001",
@@ -829,7 +815,7 @@
       "volume_shares_error": 4.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
     },
     {
       "symbol": "sz000001",
@@ -843,7 +829,147 @@
       "volume_shares_error": 39.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "776dbe752b30b75d08970b2a0791ab4be9dac915623326d6461e9d9073fe189a"
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
+    },
+    {
+      "symbol": "sz000001",
+      "date": "2026-11-12",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 19.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "62112a1bd6e019e778332a1d4ff739d7961390f35bfaae8e634e6d672db58efd"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 7.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 23.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 19.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 26.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 9.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-11-04",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 28.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-11-05",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 49.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-11-06",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 37.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-11-09",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 25.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
     },
     {
       "symbol": "sz002580",
@@ -857,7 +983,7 @@
       "volume_shares_error": 43.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "6b29ca3a03314b40a78de1e8f7e1a2d5f3dd98460f64f05fc0abcc0bd0e85957"
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
     },
     {
       "symbol": "sz002580",
@@ -871,7 +997,147 @@
       "volume_shares_error": 6.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "6b29ca3a03314b40a78de1e8f7e1a2d5f3dd98460f64f05fc0abcc0bd0e85957"
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
+    },
+    {
+      "symbol": "sz002580",
+      "date": "2026-11-12",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 25.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "6c4bf5190c19f4b63116f547792488f553fb229ea92180edbb091e41024c262a"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 44.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 28.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 4.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 47.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 22.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-11-04",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 45.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-11-05",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 10.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-11-06",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 6.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-11-09",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 48.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
     },
     {
       "symbol": "sz003816",
@@ -885,7 +1151,7 @@
       "volume_shares_error": 2.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "3f166cf06d88e09f7dbe0164d3da579c7b4bd1ad33acc6acf921fd212399539a"
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
     },
     {
       "symbol": "sz003816",
@@ -899,7 +1165,147 @@
       "volume_shares_error": 42.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "3f166cf06d88e09f7dbe0164d3da579c7b4bd1ad33acc6acf921fd212399539a"
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
+    },
+    {
+      "symbol": "sz003816",
+      "date": "2026-11-12",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 1.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "b7ace8429a941667f23a20d5228685a48a18c942bf139dd0031b9a044cbaac50"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 20.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 25.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 16.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 21.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 17.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-11-04",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 13.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-11-05",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 9.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-11-06",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 7.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-11-09",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 49.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
     },
     {
       "symbol": "sz300750",
@@ -913,7 +1319,7 @@
       "volume_shares_error": 5.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "69e9dc321f7c088630d0c27bd0c6385021a302cad0c41e0d1740fe832966bfb1"
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
     },
     {
       "symbol": "sz300750",
@@ -927,7 +1333,147 @@
       "volume_shares_error": 38.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "69e9dc321f7c088630d0c27bd0c6385021a302cad0c41e0d1740fe832966bfb1"
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
+    },
+    {
+      "symbol": "sz300750",
+      "date": "2026-11-12",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 13.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "64be92ee076ff19ee534bd5c0451688d3dadc4b72111da2ac19e6cdd7aca9fb4"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-28",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-29",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 3.725290298461914e-09,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-10-30",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-11-02",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-11-03",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-11-04",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-11-05",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-11-06",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-11-09",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
     },
     {
       "symbol": "sh688981",
@@ -941,7 +1487,7 @@
       "volume_shares_error": 0.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "a1bf0a8785124fdb13dc24cc40115cb67960dfb86fb16c20869f396f565171ea"
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
     },
     {
       "symbol": "sh688981",
@@ -955,7 +1501,21 @@
       "volume_shares_error": 0.0,
       "passed": true,
       "source": "Sina CN daily vs Tencent unadjusted daily",
-      "sina_raw_sha256": "a1bf0a8785124fdb13dc24cc40115cb67960dfb86fb16c20869f396f565171ea"
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
+    },
+    {
+      "symbol": "sh688981",
+      "date": "2026-11-12",
+      "price_errors": {
+        "open": 0.0,
+        "high": 0.0,
+        "low": 0.0,
+        "close": 0.0
+      },
+      "volume_shares_error": 0.0,
+      "passed": true,
+      "source": "Sina CN daily vs Tencent unadjusted daily",
+      "sina_raw_sha256": "e824e3b04b3e97372e6e0c7b1f184945c4edb40be1db032f6d3749ba28176dd4"
     }
   ]
 }

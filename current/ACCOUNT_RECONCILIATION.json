@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-11T19:45:54.005849+08:00",
+  "at": "2026-11-12T16:57:17.098254+08:00",
   "accounts": 96,
   "checks": [
     {
@@ -39,29 +39,29 @@
     },
     {
       "file": "B1_BASE8_2slots_2026-08-17.json",
-      "equity": 8525.654451916645,
+      "equity": 8465.654509137104,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 309.30744884022715
     },
     {
       "file": "B1_BASE8_4slots_2021-10-18.json",
-      "equity": 9784.251628895361,
+      "equity": 9764.251647968847,
       "residual": -3.637978807091713e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 220.77647981013502
     },
     {
       "file": "B1_BASE8_4slots_2026-08-17.json",
-      "equity": 9042.190005202507,
+      "equity": 8995.189978499626,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1292.2341747604278
     },
     {
       "file": "B1_F20_2slots_2021-10-18.json",
-      "equity": 12663.009400076995,
-      "residual": -3.637978807091713e-12,
+      "equity": 12640.0296670454,
+      "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 200.4631075082316
     },
@@ -74,7 +74,7 @@
     },
     {
       "file": "B1_F20_4slots_2021-10-18.json",
-      "equity": 7735.500813436079,
+      "equity": 7726.505317206836,
       "residual": -9.094947017729282e-13,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 536.1997939770745
@@ -144,168 +144,168 @@
     },
     {
       "file": "B1_F60_2slots_2021-10-18.json",
-      "equity": 19951.911612610074,
+      "equity": 19659.910746673795,
       "residual": -3.637978807091713e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 247.58927817544463
     },
     {
       "file": "B1_F60_2slots_2026-08-17.json",
-      "equity": 9069.845379254226,
+      "equity": 8894.845188519363,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 2898.845264813308
     },
     {
       "file": "B1_F60_4slots_2021-10-18.json",
-      "equity": 24146.633424952684,
-      "residual": -1.0913936421275139e-11,
+      "equity": 23857.039212760115,
+      "residual": -7.275957614183426e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 801.2364100363184
     },
     {
       "file": "B1_F60_4slots_2026-08-17.json",
-      "equity": 8839.63422625884,
+      "equity": 8773.634146150198,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1292.2341747604278
     },
     {
       "file": "B1_T10_2slots_2021-10-18.json",
-      "equity": 11311.591343065003,
+      "equity": 11277.191318650941,
       "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 22.284183947191195
     },
     {
       "file": "B1_T10_2slots_2026-08-17.json",
-      "equity": 9201.630015331673,
+      "equity": 9208.630175548959,
       "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 605.4834137478783
     },
     {
       "file": "B1_T10_4slots_2021-10-18.json",
-      "equity": 11129.151084694866,
+      "equity": 11133.1511762476,
       "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 101.81776634903781
     },
     {
       "file": "B1_T10_4slots_2026-08-17.json",
-      "equity": 9424.282811730349,
+      "equity": 9428.282903283083,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1044.082603278477
     },
     {
       "file": "B1_T5_2slots_2021-10-18.json",
-      "equity": 5844.0432270695965,
-      "residual": -8.185452315956354e-12,
+      "equity": 5828.195165184668,
+      "residual": -9.094947017729282e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 2.096990881269903
     },
     {
       "file": "B1_T5_2slots_2026-08-17.json",
-      "equity": 10318.436510777767,
+      "equity": 10291.74038700791,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 333.98923608022596
     },
     {
       "file": "B1_T5_4slots_2021-10-18.json",
-      "equity": 7138.921974404305,
-      "residual": 9.094947017729282e-12,
+      "equity": 7125.785927990609,
+      "residual": 8.185452315956354e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 156.62144191776952
     },
     {
       "file": "B1_T5_4slots_2026-08-17.json",
-      "equity": 10025.466097740242,
-      "residual": 1.8189894035458565e-12,
+      "equity": 10009.618035855314,
+      "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1328.6879725508302
     },
     {
       "file": "M1_ATR2p5_2slots_2021-10-18.json",
-      "equity": 832.397241913727,
+      "equity": 875.3972247475893,
       "residual": 2.9558577807620168e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 2.143171303197505
     },
     {
       "file": "M1_ATR2p5_2slots_2026-08-17.json",
-      "equity": 9762.127996684541,
+      "equity": 9630.127645732393,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 341.1061529714498
     },
     {
       "file": "M1_ATR2p5_4slots_2021-10-18.json",
-      "equity": 1675.6418424618869,
+      "equity": 1718.6418252957492,
       "residual": 2.7284841053187847e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 24.09014972133565
     },
     {
       "file": "M1_ATR2p5_4slots_2026-08-17.json",
-      "equity": 8240.326466567114,
-      "residual": 0.0,
+      "equity": 8204.326214797095,
+      "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 801.8698600792768
     },
     {
       "file": "M1_BASE8_2slots_2021-10-18.json",
-      "equity": 1344.3496621022673,
+      "equity": 1389.349643028781,
       "residual": -1.1368683772161603e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1.8367251417203079
     },
     {
       "file": "M1_BASE8_2slots_2026-08-17.json",
-      "equity": 8785.347559529875,
+      "equity": 8853.34797151718,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 17.02836062098322
     },
     {
       "file": "M1_BASE8_4slots_2021-10-18.json",
-      "equity": 2767.6552269488748,
+      "equity": 2854.2551586657937,
       "residual": 9.094947017729282e-13,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 14.384605821077457
     },
     {
       "file": "M1_BASE8_4slots_2026-08-17.json",
-      "equity": 7817.677511295995,
+      "equity": 7851.677431187352,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 771.7807006669736
     },
     {
       "file": "M1_F20_2slots_2021-10-18.json",
-      "equity": 1974.745303123693,
+      "equity": 1933.745318382482,
       "residual": 4.547473508864641e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 42.57597932631711
     },
     {
       "file": "M1_F20_2slots_2026-08-17.json",
-      "equity": 8131.362464248017,
+      "equity": 8188.362338363007,
       "residual": 9.094947017729282e-13,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 681.6079399213013
     },
     {
       "file": "M1_F20_4slots_2021-10-18.json",
-      "equity": 2738.572514187498,
+      "equity": 2736.572468411131,
       "residual": -9.094947017729282e-13,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 18.94547434109211
     },
     {
       "file": "M1_F20_4slots_2026-08-17.json",
-      "equity": 8827.16715240369,
+      "equity": 8786.167096136905,
       "residual": 3.637978807091713e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 984.1723203301617
@@ -319,7 +319,7 @@
     },
     {
       "file": "M1_F2_2slots_2026-08-17.json",
-      "equity": 8638.44779588715,
+      "equity": 8413.693616804505,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 466.54396152575646
@@ -333,21 +333,21 @@
     },
     {
       "file": "M1_F2_4slots_2026-08-17.json",
-      "equity": 7808.162159937241,
-      "residual": -1.8189894035458565e-12,
+      "equity": 7762.832347589757,
+      "residual": -9.094947017729282e-13,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 2280.034904116079
     },
     {
       "file": "M1_F5_2slots_2021-10-18.json",
-      "equity": 1120.4098691822492,
+      "equity": 1109.4098558308087,
       "residual": 2.2737367544323206e-13,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 18.89927164329083
     },
     {
       "file": "M1_F5_2slots_2026-08-17.json",
-      "equity": 6965.519038492377,
+      "equity": 6797.154028525954,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 130.05648461241344
@@ -361,63 +361,63 @@
     },
     {
       "file": "M1_F5_4slots_2026-08-17.json",
-      "equity": 8492.307962606512,
+      "equity": 8432.53273223144,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1118.1954610574278
     },
     {
       "file": "M1_F60_2slots_2021-10-18.json",
-      "equity": 4989.06805583526,
+      "equity": 4926.068044391168,
       "residual": 9.094947017729282e-13,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 50.017447702174195
     },
     {
       "file": "M1_F60_2slots_2026-08-17.json",
-      "equity": 8284.607943735999,
+      "equity": 8147.608145914954,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 681.6079399213013
     },
     {
       "file": "M1_F60_4slots_2021-10-18.json",
-      "equity": 3913.2590960481257,
+      "equity": 3874.259157083282,
       "residual": -4.547473508864641e-13,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 348.6675319954122
     },
     {
       "file": "M1_F60_4slots_2026-08-17.json",
-      "equity": 8882.085502053726,
+      "equity": 8757.085502053726,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 3127.08546772145
     },
     {
       "file": "M1_T10_2slots_2021-10-18.json",
-      "equity": 2545.2354994056777,
+      "equity": 2524.2354240654067,
       "residual": 6.366462912410498e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 5.369344695954169
     },
     {
       "file": "M1_T10_2slots_2026-08-17.json",
-      "equity": 7625.704781788832,
+      "equity": 7598.7046644868915,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 180.19777900386543
     },
     {
       "file": "M1_T10_4slots_2021-10-18.json",
-      "equity": 1942.5545160934087,
+      "equity": 1935.1545136138554,
       "residual": -3.637978807091713e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1.0360721612705674
     },
     {
       "file": "M1_T10_4slots_2026-08-17.json",
-      "equity": 8940.158257662522,
+      "equity": 8931.158075510728,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1174.6548645472776
@@ -431,7 +431,7 @@
     },
     {
       "file": "M1_T5_2slots_2026-08-17.json",
-      "equity": 9077.439685860294,
+      "equity": 8933.440013924259,
       "residual": -3.637978807091713e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 397.20931810126785
@@ -445,91 +445,91 @@
     },
     {
       "file": "M1_T5_4slots_2026-08-17.json",
-      "equity": 7916.121129442881,
+      "equity": 7757.4350329831195,
       "residual": 2.7284841053187847e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1959.7417752680062
     },
     {
       "file": "M3_ATR2p5_2slots_2021-10-18.json",
-      "equity": 15691.338150332933,
+      "equity": 16221.338026355272,
       "residual": 3.637978807091713e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1.9302507625343424
     },
     {
       "file": "M3_ATR2p5_2slots_2026-08-17.json",
-      "equity": 8879.750146638537,
+      "equity": 9213.750066529894,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 143.03230451859326
     },
     {
       "file": "M3_ATR2p5_4slots_2021-10-18.json",
-      "equity": 3036.1432598162046,
+      "equity": 3005.143246464764,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 12.633377284635003
     },
     {
       "file": "M3_ATR2p5_4slots_2026-08-17.json",
-      "equity": 10009.28446830369,
+      "equity": 10180.284567485818,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 395.7555021405601
     },
     {
       "file": "M3_BASE8_2slots_2021-10-18.json",
-      "equity": 7190.37690733017,
+      "equity": 7137.577091198578,
       "residual": -2.7284841053187847e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 5.383824835782434
     },
     {
       "file": "M3_BASE8_2slots_2026-08-17.json",
-      "equity": 9390.490294242103,
+      "equity": 9312.4903686287,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 34.333094083865035
     },
     {
       "file": "M3_BASE8_4slots_2021-10-18.json",
-      "equity": 10894.163567835283,
+      "equity": 10798.763549143267,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 7.649876269673314
     },
     {
       "file": "M3_BASE8_4slots_2026-08-17.json",
-      "equity": 9147.202851481135,
+      "equity": 9010.203149027522,
       "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 806.3611374259099
     },
     {
       "file": "M3_F20_2slots_2021-10-18.json",
-      "equity": 4383.774962247433,
+      "equity": 4318.774976552548,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 16.460186927343784
     },
     {
       "file": "M3_F20_2slots_2026-08-17.json",
-      "equity": 10091.225458948104,
+      "equity": 10221.225334970442,
       "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 735.2466370885177
     },
     {
       "file": "M3_F20_4slots_2021-10-18.json",
-      "equity": 11481.008685420813,
+      "equity": 11487.808488200964,
       "residual": 3.637978807091713e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 7.697933355222858
     },
     {
       "file": "M3_F20_4slots_2026-08-17.json",
-      "equity": 8931.427661804864,
+      "equity": 8936.427585510919,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 775.4276675269098
@@ -543,7 +543,7 @@
     },
     {
       "file": "M3_F2_2slots_2026-08-17.json",
-      "equity": 8052.368272473064,
+      "equity": 7897.0749746476395,
       "residual": -3.637978807091713e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 69.67382813794848
@@ -557,120 +557,120 @@
     },
     {
       "file": "M3_F2_4slots_2026-08-17.json",
-      "equity": 9088.749671580694,
+      "equity": 8844.394896228428,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 583.3061782624955
     },
     {
       "file": "M3_F5_2slots_2021-10-18.json",
-      "equity": 4510.467249415715,
+      "equity": 4494.4673600419355,
       "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 3.1852385233528366
     },
     {
       "file": "M3_F5_2slots_2026-08-17.json",
-      "equity": 10714.67594322444,
+      "equity": 10449.675838320265,
       "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 33.841555297071864
     },
     {
       "file": "M3_F5_4slots_2021-10-18.json",
-      "equity": 1012.718458536651,
+      "equity": 1006.3184455666803,
       "residual": 6.934897101018578e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 3.492498176686695
     },
     {
       "file": "M3_F5_4slots_2026-08-17.json",
-      "equity": 9457.489881894364,
-      "residual": 3.637978807091713e-12,
+      "equity": 9334.227522427236,
+      "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1087.759877965144
     },
     {
       "file": "M3_F60_2slots_2021-10-18.json",
-      "equity": 7642.440149022475,
+      "equity": 7561.440087987319,
       "residual": -4.547473508864641e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 20.172507383088487
     },
     {
       "file": "M3_F60_2slots_2026-08-17.json",
-      "equity": 10412.057109567626,
+      "equity": 10236.05722973059,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 2118.0571515292963
     },
     {
       "file": "M3_F60_4slots_2021-10-18.json",
-      "equity": 8191.611300158496,
+      "equity": 8056.611333537097,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 277.4512887144044
     },
     {
       "file": "M3_F60_4slots_2026-08-17.json",
-      "equity": 9694.547085208582,
+      "equity": 9543.547348422693,
       "residual": -1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 1602.5472683140515
     },
     {
       "file": "M3_T10_2slots_2021-10-18.json",
-      "equity": 8164.889454915428,
+      "equity": 8206.489567830467,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 0.5778590976765372
     },
     {
       "file": "M3_T10_2slots_2026-08-17.json",
-      "equity": 9028.166558669658,
+      "equity": 9030.166795180889,
       "residual": 3.637978807091713e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 213.36217888634565
     },
     {
       "file": "M3_T10_4slots_2021-10-18.json",
-      "equity": 5792.314102019162,
+      "equity": 5769.414197768064,
       "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 17.1834184293798
     },
     {
       "file": "M3_T10_4slots_2026-08-17.json",
-      "equity": 10580.888064091652,
+      "equity": 10596.888239567726,
       "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 469.2138455581212
     },
     {
       "file": "M3_T5_2slots_2021-10-18.json",
-      "equity": 2636.260800594494,
+      "equity": 2626.6608097497674,
       "residual": -5.4569682106375694e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 4.472439097984989
     },
     {
       "file": "M3_T5_2slots_2026-08-17.json",
-      "equity": 8524.67227078128,
+      "equity": 8443.599979108494,
       "residual": 1.8189894035458565e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 46.46696893514945
     },
     {
       "file": "M3_T5_4slots_2021-10-18.json",
-      "equity": 768.237359612181,
+      "equity": 761.8373466422103,
       "residual": -5.229594535194337e-12,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 10.546158951937798
     },
     {
       "file": "M3_T5_4slots_2026-08-17.json",
-      "equity": 9477.883114523487,
-      "residual": 1.8189894035458565e-12,
+      "equity": 9384.784509857804,
+      "residual": 0.0,
       "old_equity_history_max_abs_difference": 0.0,
       "minimum_cash": 688.3975854853611
     }
